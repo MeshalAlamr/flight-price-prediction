@@ -6,7 +6,7 @@ Initially, we cleaned the dataset to select relevant features and performed one-
 
 Then we plotted the feature importance to the target variable "Price".
 
-![feature_importance](https://raw.githubusercontent.com/MeshalAlamr/web-scraping-regression/main/e5V2jxK9F4.png)
+![feature_importance](https://raw.githubusercontent.com/MeshalAlamr/web-scraping-regression/main/MVP/feature_importance.png)
 
 From the figure above, we can see that the total stops and duration of the flight are the most useful in predicting the target variable, the price.
 
