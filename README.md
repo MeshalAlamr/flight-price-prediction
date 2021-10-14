@@ -10,6 +10,7 @@ This project aims to predict ticket prices for upcoming flights to help customer
 - [Scraping](#scraper)
 - [Analysis and Results](#project)
 - [Presentation](#presentation)
+- [Mobile App](#app)
 
 ## Project Proposal <a name="proposal" />
 #### The project proposal can be found [here](https://github.com/MeshalAlamr/web-scraping-regression/blob/main/proposal/README.md).
@@ -57,7 +58,16 @@ This project aims to predict ticket prices for upcoming flights to help customer
 
 ![image](https://user-images.githubusercontent.com/68873733/137399435-4e2da145-512b-4df6-80e3-809e603b1727.png)
 
-
-
 ## Presentation <a name="presentation" />
 #### The presentation can be found [here](https://github.com/MeshalAlamr/flight-price-prediction/blob/main/final-presentation.pdf).
+
+## Mobile App <a name="app" />
+#### We've also developed an app on Android that finds the average estimated prices for a selected route and month based on our scraped data.
+![image](https://user-images.githubusercontent.com/68873733/137400084-6a63edf3-5c63-4c18-9974-f46e827a8b14.png) 
+![image](https://user-images.githubusercontent.com/68873733/137400440-bb827740-6460-4412-ace1-1478f53e98ea.png)
+
+#### Below, a demo of the mobile app is shown:
+![flight-pred-app](https://user-images.githubusercontent.com/68873733/137401604-e7118c1c-fd79-4b0d-ac4d-91b019eeb31f.gif)
+
+
+
