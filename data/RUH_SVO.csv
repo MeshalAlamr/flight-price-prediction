@@ -1,0 +1,2726 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,216 SAR ",2022-02-01
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,674 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,304 SAR ",2022-02-01
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,851 SAR ",2022-02-01
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,876 SAR ",2022-02-01
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,979 SAR ",2022-02-01
+"flyadeal, Aeroflot",RUH,SVO,14h 45m ,1 stop ,"2,042 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"2,117 SAR ",2022-02-01
+"flynas, Aeroflot",RUH,SVO,13h 25m ,1 stop ,"2,125 SAR ",2022-02-01
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-02-01
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-01
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,501 SAR ",2022-02-01
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-01
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-01
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,668 SAR ",2022-02-01
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,736 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,545 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,714 SAR ",2022-02-01
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,781 SAR ",2022-02-01
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,871 SAR ",2022-02-01
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,901 SAR ",2022-02-01
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,008 SAR ",2022-02-01
+"Etihad Airways, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,012 SAR ",2022-02-01
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,081 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,13h 45m ,2 stops ,"2,120 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,14h 45m ,2 stops ,"2,120 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,15h 45m ,2 stops ,"2,120 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,18h 30m ,2 stops ,"2,120 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,18h 45m ,2 stops ,"2,120 SAR ",2022-02-01
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-02-01
+"SAUDIA, Aeroflot",RUH,SVO,19h 15m ,2 stops ,"2,120 SAR ",2022-02-01
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-01
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-01
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,471 SAR ",2022-02-01
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-01
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,787 SAR ",2022-02-01
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"2,097 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,684 SAR ",2022-02-01
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,513 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,546 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,949 SAR ",2022-02-01
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,866 SAR ",2022-02-01
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,118 SAR ",2022-02-01
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,654 SAR ",2022-02-01
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,216 SAR ",2022-02-02
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,679 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,971 SAR ,2022-02-02
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,811 SAR ",2022-02-02
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,811 SAR ",2022-02-02
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-02-02
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,501 SAR ",2022-02-02
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"2,660 SAR ",2022-02-02
+"SAUDIA, Aeroflot",RUH,SVO,12h 10m ,1 stop ,"2,660 SAR ",2022-02-02
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,668 SAR ",2022-02-02
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-02
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,754 SAR ",2022-02-02
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,793 SAR ",2022-02-02
+"Etihad Airways, Nordwind Airlines",RUH,SVO,18h 35m ,2 stops ,"1,159 SAR ",2022-02-02
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,12h 55m ,2 stops ,"1,539 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,13h 35m ,2 stops ,"1,655 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,16h 25m ,2 stops ,"1,655 SAR ",2022-02-02
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,684 SAR ",2022-02-02
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 55m ,2 stops ,"1,765 SAR ",2022-02-02
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,730 SAR ",2022-02-02
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,781 SAR ",2022-02-02
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,787 SAR ",2022-02-02
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,816 SAR ",2022-02-02
+"Turkish Airlines, Aeroflot",RUH,SVO,14h 45m ,2 stops ,"2,021 SAR ",2022-02-02
+"Turkish Airlines, Aeroflot",RUH,SVO,15h 50m ,2 stops ,"2,021 SAR ",2022-02-02
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,2 stops ,"2,021 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,15h 10m ,2 stops ,"2,031 SAR ",2022-02-02
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"2,039 SAR ",2022-02-02
+"British Airways, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,135 SAR ",2022-02-02
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,525 SAR ",2022-02-02
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,646 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"1,710 SAR ",2022-02-02
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,770 SAR ",2022-02-02
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-02
+"Egypt Air, Aeroflot",RUH,SVO,18h 05m ,2 stops ,"4,816 SAR ",2022-02-02
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,845 SAR ",2022-02-02
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,513 SAR ",2022-02-02
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,513 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,739 SAR ",2022-02-02
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,999 SAR ",2022-02-02
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,118 SAR ",2022-02-02
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,654 SAR ",2022-02-02
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,859 SAR ",2022-02-02
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,344 SAR ",2022-02-03
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,617 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,907 SAR ,2022-02-03
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,902 SAR ",2022-02-03
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,322 SAR ",2022-02-03
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,902 SAR ",2022-02-03
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,160 SAR ",2022-02-03
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,322 SAR ",2022-02-03
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,269 SAR ",2022-02-03
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-03
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,478 SAR ",2022-02-03
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,645 SAR ",2022-02-03
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,726 SAR ",2022-02-03
+"SAUDIA, Aeroflot",RUH,SVO,9h 35m ,1 stop ,"2,847 SAR ",2022-02-03
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-03
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,742 SAR ",2022-02-03
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-02-03
+"SAUDIA, Aeroflot",RUH,SVO,12h 45m ,1 stop ,"2,767 SAR ",2022-02-03
+"SAUDIA, Aeroflot",RUH,SVO,12h 10m ,1 stop ,"2,847 SAR ",2022-02-03
+"SAUDIA, Aeroflot",RUH,SVO,14h 45m ,1 stop ,"2,847 SAR ",2022-02-03
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,429 SAR ",2022-02-03
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,792 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,585 SAR ",2022-02-03
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,792 SAR ",2022-02-03
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,816 SAR ",2022-02-03
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-02-03
+"Emirates, Finnair",RUH,SVO,16h 15m ,2 stops ,"1,899 SAR ",2022-02-03
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,151 SAR ",2022-02-03
+"Royal Jordanian, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,161 SAR ",2022-02-03
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,173 SAR ",2022-02-03
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,173 SAR ",2022-02-03
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,398 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,420 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,16h 20m ,3 stops ,"1,555 SAR ",2022-02-03
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 50m ,3 stops ,"1,583 SAR ",2022-02-03
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,729 SAR ",2022-02-03
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 20m ,3 stops ,"1,736 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,994 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,15h 40m ,3 stops ,"2,061 SAR ",2022-02-03
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,495 SAR ",2022-02-03
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,514 SAR ",2022-02-03
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-02-03
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,189 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,611 SAR ",2022-02-03
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,816 SAR ",2022-02-03
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,845 SAR ",2022-02-03
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,331 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,949 SAR ",2022-02-03
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,118 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,182 SAR ",2022-02-03
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,654 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,14h 25m ,2 stops ,"18,548 SAR ",2022-02-03
+Multiple Airlines,RUH,SVO,15h 40m ,2 stops ,"19,166 SAR ",2022-02-03
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,393 SAR ",2022-02-04
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,725 SAR ",2022-02-04
+"Etihad Airways, Nordwind Airlines",RUH,SVO,18h 35m ,2 stops ,"1,164 SAR ",2022-02-04
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,891 SAR ",2022-02-04
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,891 SAR ",2022-02-04
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,160 SAR ",2022-02-04
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,260 SAR ",2022-02-04
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-04
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,501 SAR ",2022-02-04
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,623 SAR ",2022-02-04
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,763 SAR ",2022-02-04
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,335 SAR ",2022-02-04
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-02-04
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-04
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-04
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-02-04
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,736 SAR ",2022-02-04
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 15m ,2 stops ,"1,610 SAR ",2022-02-04
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"1,736 SAR ",2022-02-04
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,776 SAR ",2022-02-04
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,776 SAR ",2022-02-04
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,781 SAR ",2022-02-04
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,901 SAR ",2022-02-04
+"Gulf Air, Nordwind Airlines",RUH,SVO,19h 25m ,2 stops ,"1,962 SAR ",2022-02-04
+"British Airways, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,135 SAR ",2022-02-04
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-02-04
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-04
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-04
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-02-04
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,304 SAR ",2022-02-04
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,401 SAR ",2022-02-04
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,649 SAR ",2022-02-04
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,810 SAR ",2022-02-04
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,533 SAR ",2022-02-04
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,654 SAR ",2022-02-04
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,118 SAR ",2022-02-04
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,339 SAR ",2022-02-04
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,654 SAR ",2022-02-04
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,346 SAR ",2022-02-04
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,190 SAR ",2022-02-05
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,514 SAR ",2022-02-05
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,345 SAR ",2022-02-05
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,190 SAR ",2022-02-05
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,841 SAR ",2022-02-05
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,958 SAR ",2022-02-05
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,190 SAR ",2022-02-05
+"Turkish Airlines, Aeroflot",RUH,SVO,21h 15m ,1 stop ,"1,841 SAR ",2022-02-05
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,570 SAR ",2022-02-05
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,692 SAR ",2022-02-05
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,754 SAR ",2022-02-05
+"SAUDIA, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"2,793 SAR ",2022-02-05
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,535 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,734 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,734 SAR ",2022-02-05
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,757 SAR ",2022-02-05
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,795 SAR ",2022-02-05
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-02-05
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,173 SAR ",2022-02-05
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,173 SAR ",2022-02-05
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,264 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"2,230 SAR ",2022-02-05
+"Egypt Air, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,429 SAR ",2022-02-05
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,491 SAR ",2022-02-05
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,401 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,435 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,19h 15m ,3 stops ,"1,492 SAR ",2022-02-05
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,846 SAR ",2022-02-05
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,856 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,897 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,16h 50m ,3 stops ,"1,909 SAR ",2022-02-05
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,981 SAR ",2022-02-05
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,989 SAR ",2022-02-05
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,148 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,683 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,20h 40m ,2 stops ,"8,425 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,17h 40m ,2 stops ,"8,533 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,546 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,890 SAR ",2022-02-05
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,006 SAR ",2022-02-05
+"Lufthansa, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"12,137 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"13,294 SAR ",2022-02-05
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,866 SAR ",2022-02-05
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,118 SAR ",2022-02-05
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,654 SAR ",2022-02-05
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,233 SAR ",2022-02-06
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,862 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,089 SAR ",2022-02-06
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-02-06
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,19h 55m ,1 stop ,"1,832 SAR ",2022-02-06
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,002 SAR ",2022-02-06
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-06
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-02-06
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-06
+"SAUDIA, Aeroflot",RUH,SVO,11h 35m ,1 stop ,"2,746 SAR ",2022-02-06
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,763 SAR ",2022-02-06
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,805 SAR ",2022-02-06
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-02-06
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,638 SAR ",2022-02-06
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,013 SAR ",2022-02-06
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,592 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,20h 30m ,2 stops ,"1,613 SAR ",2022-02-06
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,851 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,895 SAR ",2022-02-06
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-02-06
+"Turkish Airlines, Pobeda",RUH,SVO,16h 05m ,2 stops ,"2,225 SAR ",2022-02-06
+"Egypt Air, Aeroflot",RUH,SVO,14h 55m ,2 stops ,"2,286 SAR ",2022-02-06
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,319 SAR ",2022-02-06
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,340 SAR ",2022-02-06
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,471 SAR ",2022-02-06
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,514 SAR ",2022-02-06
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,401 SAR ",2022-02-06
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,635 SAR ",2022-02-06
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,644 SAR ",2022-02-06
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,513 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"8,767 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,877 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,20h 25m ,2 stops ,"12,927 SAR ",2022-02-06
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,118 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,177 SAR ",2022-02-06
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,654 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"14,919 SAR ",2022-02-06
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,346 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,12h 55m ,2 stops ,"18,082 SAR ",2022-02-06
+Multiple Airlines,RUH,SVO,16h 10m ,2 stops ,"18,217 SAR ",2022-02-06
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,859 SAR ",2022-02-06
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,201 SAR ",2022-02-07
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,554 SAR ",2022-02-07
+"Etihad Airways, Nordwind Airlines",RUH,SVO,19h 20m ,3 stops ,"1,196 SAR ",2022-02-07
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,196 SAR ",2022-02-07
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,844 SAR ",2022-02-07
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-07
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-02-07
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-02-07
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,457 SAR ",2022-02-07
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,621 SAR ",2022-02-07
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-02-07
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-07
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-07
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,866 SAR ",2022-02-07
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,349 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"1,707 SAR ",2022-02-07
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,20h 40m ,2 stops ,"1,720 SAR ",2022-02-07
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,827 SAR ",2022-02-07
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,178 SAR ",2022-02-07
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,091 SAR ",2022-02-07
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,131 SAR ",2022-02-07
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,161 SAR ",2022-02-07
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,164 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,16h 30m ,2 stops ,"2,176 SAR ",2022-02-07
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,178 SAR ",2022-02-07
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,182 SAR ",2022-02-07
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,245 SAR ",2022-02-07
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,299 SAR ",2022-02-07
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,426 SAR ",2022-02-07
+"flyadeal, Qatar Airways",RUH,SVO,12h 35m ,2 stops ,"2,849 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,19h 05m ,3 stops ,"1,281 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,329 SAR ",2022-02-07
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,606 SAR ",2022-02-07
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,702 SAR ",2022-02-07
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 55m ,3 stops ,"1,762 SAR ",2022-02-07
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,860 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,15h 55m ,3 stops ,"2,051 SAR ",2022-02-07
+"Turkish Airlines, LOT",RUH,SVO,18h 15m ,3 stops ,"2,141 SAR ",2022-02-07
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,814 SAR ",2022-02-07
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,843 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,16h 55m ,3 stops ,"3,817 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,16h 00m ,3 stops ,"4,096 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,531 SAR ",2022-02-07
+"Lufthansa, Aeroflot",RUH,SVO,14h 55m ,1 stop ,"12,128 SAR ",2022-02-07
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-07
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,661 SAR ",2022-02-07
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"15,966 SAR ",2022-02-07
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,198 SAR ",2022-02-08
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,643 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,281 SAR ",2022-02-08
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-08
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-02-08
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-02-08
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-08
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,453 SAR ",2022-02-08
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-08
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,616 SAR ",2022-02-08
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-02-08
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-08
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,620 SAR ",2022-02-08
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,738 SAR ",2022-02-08
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,736 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,516 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,683 SAR ",2022-02-08
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,751 SAR ",2022-02-08
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,064 SAR ",2022-02-08
+"flydubai, Aeroflot",RUH,SVO,12h 45m ,2 stops ,"2,089 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"2,118 SAR ",2022-02-08
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,146 SAR ",2022-02-08
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,172 SAR ",2022-02-08
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-08
+"Egypt Air, Aeroflot",RUH,SVO,14h 55m ,2 stops ,"2,244 SAR ",2022-02-08
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-08
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-08
+"Egypt Air, Aeroflot",RUH,SVO,18h 40m ,2 stops ,"2,373 SAR ",2022-02-08
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,421 SAR ",2022-02-08
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 35m ,2 stops ,"2,431 SAR ",2022-02-08
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,468 SAR ",2022-02-08
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,512 SAR ",2022-02-08
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-08
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"3,105 SAR ",2022-02-08
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"3,105 SAR ",2022-02-08
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,645 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,544 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,948 SAR ",2022-02-08
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,865 SAR ",2022-02-08
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-08
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,259 SAR ",2022-02-09
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,659 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,867 SAR ,2022-02-09
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,808 SAR ",2022-02-09
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,841 SAR ",2022-02-09
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-09
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-02-09
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,621 SAR ",2022-02-09
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,457 SAR ",2022-02-09
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-09
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-09
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,792 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"1,450 SAR ",2022-02-09
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,12h 55m ,2 stops ,"1,519 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,13h 35m ,2 stops ,"1,634 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,16h 25m ,2 stops ,"1,634 SAR ",2022-02-09
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,682 SAR ",2022-02-09
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 15m ,2 stops ,"1,682 SAR ",2022-02-09
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"1,702 SAR ",2022-02-09
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,751 SAR ",2022-02-09
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 55m ,2 stops ,"1,805 SAR ",2022-02-09
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,864 SAR ",2022-02-09
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,864 SAR ",2022-02-09
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,864 SAR ",2022-02-09
+"flynas, airBaltic",RUH,SVO,13h 15m ,2 stops ,"1,866 SAR ",2022-02-09
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,883 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,15h 10m ,2 stops ,"2,030 SAR ",2022-02-09
+"British Airways, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,099 SAR ",2022-02-09
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,224 SAR ",2022-02-09
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,727 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,375 SAR ",2022-02-09
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,469 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,504 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"1,628 SAR ",2022-02-09
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,827 SAR ",2022-02-09
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,827 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,15h 55m ,3 stops ,"2,176 SAR ",2022-02-09
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 55m ,3 stops ,"2,187 SAR ",2022-02-09
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-09
+"SAUDIA, KLM",RUH,SVO,19h 40m ,2 stops ,"3,089 SAR ",2022-02-09
+"Egypt Air, Aeroflot",RUH,SVO,18h 05m ,2 stops ,"4,814 SAR ",2022-02-09
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,843 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,669 SAR ",2022-02-09
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,869 SAR ",2022-02-09
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-09
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,661 SAR ",2022-02-09
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,870 SAR ",2022-02-09
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,328 SAR ",2022-02-10
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,580 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,945 SAR ,2022-02-10
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-10
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,902 SAR ",2022-02-10
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,902 SAR ",2022-02-10
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,322 SAR ",2022-02-10
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,125 SAR ",2022-02-10
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-10
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,322 SAR ",2022-02-10
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,453 SAR ",2022-02-10
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-02-10
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-10
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,616 SAR ",2022-02-10
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,722 SAR ",2022-02-10
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-02-10
+"SAUDIA, Aeroflot",RUH,SVO,12h 45m ,1 stop ,"2,763 SAR ",2022-02-10
+"SAUDIA, Aeroflot",RUH,SVO,9h 35m ,1 stop ,"2,847 SAR ",2022-02-10
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,738 SAR ",2022-02-10
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,322 SAR ",2022-02-10
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,789 SAR ",2022-02-10
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,801 SAR ",2022-02-10
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-02-10
+"Emirates, Finnair",RUH,SVO,16h 15m ,2 stops ,"1,836 SAR ",2022-02-10
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,841 SAR ",2022-02-10
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,944 SAR ",2022-02-10
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,056 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,16h 55m ,2 stops ,"2,140 SAR ",2022-02-10
+"Royal Jordanian, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,161 SAR ",2022-02-10
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,173 SAR ",2022-02-10
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,173 SAR ",2022-02-10
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-10
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,468 SAR ",2022-02-10
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,512 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,329 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,447 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,16h 20m ,3 stops ,"1,588 SAR ",2022-02-10
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,646 SAR ",2022-02-10
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 20m ,3 stops ,"1,761 SAR ",2022-02-10
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,864 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,15h 40m ,3 stops ,"1,959 SAR ",2022-02-10
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,16h 55m ,3 stops ,"3,839 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,608 SAR ",2022-02-10
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,814 SAR ",2022-02-10
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,843 SAR ",2022-02-10
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,333 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,948 SAR ",2022-02-10
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-10
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,661 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"15,966 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,14h 25m ,2 stops ,"20,055 SAR ",2022-02-10
+Multiple Airlines,RUH,SVO,15h 40m ,2 stops ,"23,538 SAR ",2022-02-10
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,156 SAR ",2022-02-13
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,268 SAR ",2022-02-13
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-13
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,257 SAR ",2022-02-15
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,156 SAR ",2022-02-15
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,268 SAR ",2022-02-15
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,156 SAR ",2022-02-17
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,268 SAR ",2022-02-17
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,156 SAR ",2022-02-18
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,268 SAR ",2022-02-18
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-02-18
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,198 SAR ",2022-02-19
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,530 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,220 SAR ",2022-02-19
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-19
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,196 SAR ",2022-02-19
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-02-19
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,453 SAR ",2022-02-19
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,616 SAR ",2022-02-19
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-19
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,678 SAR ",2022-02-19
+"SAUDIA, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"2,792 SAR ",2022-02-19
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,727 SAR ",2022-02-19
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,235 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,568 SAR ",2022-02-19
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,697 SAR ",2022-02-19
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,725 SAR ",2022-02-19
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,167 SAR ",2022-02-19
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"2,254 SAR ",2022-02-19
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"2,254 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"2,399 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,18h 35m ,2 stops ,"2,399 SAR ",2022-02-19
+"Egypt Air, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,407 SAR ",2022-02-19
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,421 SAR ",2022-02-19
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,159 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,505 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,19h 15m ,3 stops ,"1,541 SAR ",2022-02-19
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,287 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,21h 15m ,3 stops ,"2,432 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,681 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,20h 40m ,2 stops ,"8,904 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"9,006 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,17h 40m ,2 stops ,"9,012 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"9,025 SAR ",2022-02-19
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,007 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,948 SAR ",2022-02-19
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,994 SAR ",2022-02-19
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-19
+"SWISS, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"19,974 SAR ",2022-02-19
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,251 SAR ",2022-02-20
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,070 SAR ",2022-02-20
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,19h 55m ,1 stop ,"1,799 SAR ",2022-02-20
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,829 SAR ",2022-02-20
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-02-20
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-02-20
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-20
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,481 SAR ",2022-02-20
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,620 SAR ",2022-02-20
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"2,693 SAR ",2022-02-20
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,714 SAR ",2022-02-20
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-20
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-20
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,620 SAR ",2022-02-20
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,013 SAR ",2022-02-20
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,564 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,20h 30m ,2 stops ,"1,584 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,860 SAR ",2022-02-20
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,873 SAR ",2022-02-20
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,167 SAR ",2022-02-20
+"Egypt Air, Aeroflot",RUH,SVO,14h 55m ,2 stops ,"2,244 SAR ",2022-02-20
+"Turkish Airlines, Pobeda",RUH,SVO,16h 05m ,2 stops ,"2,167 SAR ",2022-02-20
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-20
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,468 SAR ",2022-02-20
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,223 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,628 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,17h 15m ,3 stops ,"1,725 SAR ",2022-02-20
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,581 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"8,835 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,943 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,20h 25m ,2 stops ,"12,928 SAR ",2022-02-20
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,176 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"14,918 SAR ",2022-02-20
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,353 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,12h 55m ,2 stops ,"18,080 SAR ",2022-02-20
+Multiple Airlines,RUH,SVO,16h 10m ,2 stops ,"18,216 SAR ",2022-02-20
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,870 SAR ",2022-02-20
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,201 SAR ",2022-02-21
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,482 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,19h 05m ,3 stops ,"1,197 SAR ",2022-02-21
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,851 SAR ",2022-02-21
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-02-21
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,196 SAR ",2022-02-21
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-02-21
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-02-21
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,501 SAR ",2022-02-21
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,668 SAR ",2022-02-21
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-21
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-21
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,866 SAR ",2022-02-21
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,727 SAR ",2022-02-21
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,345 SAR ",2022-02-21
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,430 SAR ",2022-02-21
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,758 SAR ",2022-02-21
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,833 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"1,868 SAR ",2022-02-21
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,185 SAR ",2022-02-21
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,809 SAR ",2022-02-21
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,097 SAR ",2022-02-21
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,170 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,16h 30m ,2 stops ,"2,183 SAR ",2022-02-21
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,185 SAR ",2022-02-21
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,212 SAR ",2022-02-21
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,426 SAR ",2022-02-21
+"Etihad Airways, Nordwind Airlines",RUH,SVO,19h 20m ,3 stops ,"1,216 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,295 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"1,395 SAR ",2022-02-21
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,564 SAR ",2022-02-21
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,632 SAR ",2022-02-21
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,651 SAR ",2022-02-21
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,796 SAR ",2022-02-21
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,864 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,15h 55m ,3 stops ,"2,147 SAR ",2022-02-21
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 55m ,3 stops ,"2,148 SAR ",2022-02-21
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,814 SAR ",2022-02-21
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,843 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,531 SAR ",2022-02-21
+"SAUDIA, KLM",RUH,SVO,17h 05m ,2 stops ,"9,368 SAR ",2022-02-21
+"Lufthansa, Aeroflot",RUH,SVO,14h 55m ,1 stop ,"12,128 SAR ",2022-02-21
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-21
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,661 SAR ",2022-02-21
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"15,966 SAR ",2022-02-21
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,247 SAR ",2022-02-22
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,678 SAR ",2022-02-22
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,233 SAR ",2022-02-22
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,016 SAR ",2022-02-22
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,188 SAR ",2022-02-22
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-02-22
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"2,693 SAR ",2022-02-22
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-22
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,664 SAR ",2022-02-22
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-02-22
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-22
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-22
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,679 SAR ",2022-02-22
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-22
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,727 SAR ",2022-02-22
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,554 SAR ",2022-02-22
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,718 SAR ",2022-02-22
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,896 SAR ",2022-02-22
+"flydubai, Aeroflot",RUH,SVO,12h 45m ,2 stops ,"2,126 SAR ",2022-02-22
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"2,162 SAR ",2022-02-22
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,212 SAR ",2022-02-22
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-22
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-22
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-02-22
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,492 SAR ",2022-02-22
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-22
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,785 SAR ",2022-02-22
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,682 SAR ",2022-02-22
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,948 SAR ",2022-02-22
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,865 SAR ",2022-02-22
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-22
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,223 SAR ",2022-02-23
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,841 SAR ",2022-02-23
+"Etihad Airways, Pobeda",RUH,SVO,19h 45m ,3 stops ,"1,135 SAR ",2022-02-23
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-02-23
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,501 SAR ",2022-02-23
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,665 SAR ",2022-02-23
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-23
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-23
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,792 SAR ",2022-02-23
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,996 SAR ",2022-02-23
+"Etihad Airways, Nordwind Airlines",RUH,SVO,18h 35m ,2 stops ,"1,164 SAR ",2022-02-23
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,727 SAR ",2022-02-23
+"British Airways, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,435 SAR ",2022-02-23
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-02-23
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"1,730 SAR ",2022-02-23
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,785 SAR ",2022-02-23
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,836 SAR ",2022-02-23
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,921 SAR ",2022-02-23
+"British Airways, Finnair",RUH,SVO,19h 10m ,3 stops ,"1,928 SAR ",2022-02-23
+"SAUDIA, KLM",RUH,SVO,19h 40m ,2 stops ,"3,089 SAR ",2022-02-23
+"Egypt Air, Aeroflot",RUH,SVO,18h 05m ,2 stops ,"4,814 SAR ",2022-02-23
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,843 SAR ",2022-02-23
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"6,363 SAR ",2022-02-23
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,509 SAR ",2022-02-23
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,669 SAR ",2022-02-23
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,869 SAR ",2022-02-23
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-23
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,425 SAR ",2022-02-24
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,609 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,022 SAR ",2022-02-24
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,902 SAR ",2022-02-24
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,902 SAR ",2022-02-24
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,016 SAR ",2022-02-24
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,322 SAR ",2022-02-24
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-02-24
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-24
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,322 SAR ",2022-02-24
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-02-24
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,501 SAR ",2022-02-24
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-24
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-24
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,620 SAR ",2022-02-24
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-02-24
+"SAUDIA, Aeroflot",RUH,SVO,12h 45m ,1 stop ,"2,763 SAR ",2022-02-24
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-24
+"Air France, Aeroflot",RUH,SVO,13h 15m ,1 stop ,"3,308 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,604 SAR ",2022-02-24
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,655 SAR ",2022-02-24
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,792 SAR ",2022-02-24
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,792 SAR ",2022-02-24
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-02-24
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,873 SAR ",2022-02-24
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,936 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,16h 05m ,2 stops ,"2,009 SAR ",2022-02-24
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,173 SAR ",2022-02-24
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,173 SAR ",2022-02-24
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-24
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,421 SAR ",2022-02-24
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,468 SAR ",2022-02-24
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,512 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,307 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,443 SAR ",2022-02-24
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 50m ,3 stops ,"1,545 SAR ",2022-02-24
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 20m ,3 stops ,"1,574 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,16h 20m ,3 stops ,"1,584 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,18h 10m ,3 stops ,"1,899 SAR ",2022-02-24
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 45m ,3 stops ,"1,925 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,16h 40m ,3 stops ,"1,929 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,150 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,15h 40m ,3 stops ,"2,189 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,280 SAR ",2022-02-24
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-02-24
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"3,105 SAR ",2022-02-24
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,186 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,736 SAR ",2022-02-24
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,843 SAR ",2022-02-24
+"SAUDIA, KLM",RUH,SVO,16h 30m ,2 stops ,"6,259 SAR ",2022-02-24
+"SAUDIA, KLM",RUH,SVO,18h 30m ,2 stops ,"6,259 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,20h 40m ,2 stops ,"8,423 SAR ",2022-02-24
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,007 SAR ",2022-02-24
+"Lufthansa, Aeroflot",RUH,SVO,14h 55m ,1 stop ,"12,128 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,948 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,869 SAR ",2022-02-24
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-24
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,661 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,14h 25m ,2 stops ,"18,546 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,15h 40m ,2 stops ,"19,173 SAR ",2022-02-24
+Multiple Airlines,RUH,SVO,17h 50m ,2 stops ,"7,681 SAR ",2022-02-24
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,359 SAR ",2022-02-25
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,758 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,938 SAR ,2022-02-25
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,918 SAR ",2022-02-25
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,924 SAR ",2022-02-25
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-02-25
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,160 SAR ",2022-02-25
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-25
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,335 SAR ",2022-02-25
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-25
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,759 SAR ",2022-02-25
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,810 SAR ",2022-02-25
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-25
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,646 SAR ",2022-02-25
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-25
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-02-25
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,736 SAR ",2022-02-25
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 15m ,2 stops ,"1,623 SAR ",2022-02-25
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"1,740 SAR ",2022-02-25
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,788 SAR ",2022-02-25
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,870 SAR ",2022-02-25
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,788 SAR ",2022-02-25
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,957 SAR ",2022-02-25
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,965 SAR ",2022-02-25
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,011 SAR ",2022-02-25
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,035 SAR ",2022-02-25
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-25
+"British Airways, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,435 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,305 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,588 SAR ",2022-02-25
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,845 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,921 SAR ",2022-02-25
+"British Airways, Finnair",RUH,SVO,19h 10m ,3 stops ,"1,928 SAR ",2022-02-25
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,986 SAR ",2022-02-25
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,686 SAR ",2022-02-25
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,686 SAR ",2022-02-25
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-02-25
+"SAUDIA, Air France",RUH,SVO,20h 55m ,2 stops ,"3,186 SAR ",2022-02-25
+"SAUDIA, Aeroflot",RUH,SVO,19h 05m ,1 stop ,"5,967 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,652 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,669 SAR ",2022-02-25
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,865 SAR ",2022-02-25
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,119 SAR ",2022-02-25
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,661 SAR ",2022-02-25
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,353 SAR ",2022-02-25
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,870 SAR ",2022-02-25
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,203 SAR ",2022-02-26
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,543 SAR ",2022-02-26
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,345 SAR ",2022-02-26
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,191 SAR ",2022-02-26
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,844 SAR ",2022-02-26
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,191 SAR ",2022-02-26
+"Turkish Airlines, Aeroflot",RUH,SVO,21h 15m ,1 stop ,"1,844 SAR ",2022-02-26
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-26
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,776 SAR ",2022-02-26
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,940 SAR ",2022-02-26
+"SAUDIA, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"2,792 SAR ",2022-02-26
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,723 SAR ",2022-02-26
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,790 SAR ",2022-02-26
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,790 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,798 SAR ",2022-02-26
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,798 SAR ",2022-02-26
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,827 SAR ",2022-02-26
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,182 SAR ",2022-02-26
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,182 SAR ",2022-02-26
+"Egypt Air, Nordwind Airlines",RUH,SVO,16h 50m ,2 stops ,"2,436 SAR ",2022-02-26
+"SAUDIA, Qatar Airways",RUH,SVO,11h 25m ,2 stops ,"2,741 SAR ",2022-02-26
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"6,358 SAR ",2022-02-26
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,637 SAR ",2022-02-26
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,774 SAR ",2022-02-26
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,787 SAR ",2022-02-26
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,823 SAR ",2022-02-26
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,861 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,897 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,16h 50m ,3 stops ,"1,909 SAR ",2022-02-26
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,183 SAR ",2022-02-26
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,727 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,677 SAR ",2022-02-26
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,809 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,17h 40m ,2 stops ,"8,665 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,677 SAR ",2022-02-26
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,003 SAR ",2022-02-26
+"Lufthansa, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"12,123 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"13,284 SAR ",2022-02-26
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,857 SAR ",2022-02-26
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-02-26
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,765 SAR ",2022-02-26
+"SWISS, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"19,733 SAR ",2022-02-26
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,213 SAR ",2022-02-27
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,156 SAR ",2022-02-27
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,19h 55m ,1 stop ,"1,829 SAR ",2022-02-27
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,855 SAR ",2022-02-27
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,030 SAR ",2022-02-27
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-02-27
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,205 SAR ",2022-02-27
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-02-27
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-02-27
+"SAUDIA, Aeroflot",RUH,SVO,11h 35m ,1 stop ,"2,746 SAR ",2022-02-27
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-02-27
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,759 SAR ",2022-02-27
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,977 SAR ",2022-02-27
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"3,144 SAR ",2022-02-27
+"Air France, Aeroflot",RUH,SVO,13h 15m ,1 stop ,"3,308 SAR ",2022-02-27
+"Etihad Airways, Nordwind Airlines",RUH,SVO,18h 35m ,2 stops ,"1,230 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,20h 30m ,2 stops ,"1,756 SAR ",2022-02-27
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,799 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"1,819 SAR ",2022-02-27
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,864 SAR ",2022-02-27
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,880 SAR ",2022-02-27
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,881 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,905 SAR ",2022-02-27
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,914 SAR ",2022-02-27
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,207 SAR ",2022-02-27
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,224 SAR ",2022-02-27
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-02-27
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 15m ,2 stops ,"2,201 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,16h 30m ,2 stops ,"2,212 SAR ",2022-02-27
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,224 SAR ",2022-02-27
+"Royal Jordanian, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,224 SAR ",2022-02-27
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,468 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,451 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,17h 15m ,3 stops ,"1,757 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,821 SAR ",2022-02-27
+"Gulf Air, Nordwind Airlines",RUH,SVO,18h 10m ,3 stops ,"1,923 SAR ",2022-02-27
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 20m ,3 stops ,"2,063 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,17h 20m ,3 stops ,"2,239 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,17h 35m ,3 stops ,"2,272 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"2,412 SAR ",2022-02-27
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 45m ,3 stops ,"2,423 SAR ",2022-02-27
+"SAUDIA, Air France",RUH,SVO,21h 00m ,2 stops ,"3,348 SAR ",2022-02-27
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"4,113 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"8,418 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,665 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,20h 25m ,2 stops ,"12,923 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,857 SAR ",2022-02-27
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,114 SAR ",2022-02-27
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"14,910 SAR ",2022-02-27
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,348 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,16h 10m ,2 stops ,"18,204 SAR ",2022-02-27
+Multiple Airlines,RUH,SVO,12h 55m ,2 stops ,"19,576 SAR ",2022-02-27
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,856 SAR ",2022-02-27
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,247 SAR ",2022-02-28
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,554 SAR ",2022-02-28
+"Etihad Airways, Nordwind Airlines",RUH,SVO,19h 20m ,3 stops ,"1,196 SAR ",2022-02-28
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,191 SAR ",2022-02-28
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,841 SAR ",2022-02-28
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-02-28
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,191 SAR ",2022-02-28
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,982 SAR ",2022-02-28
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-02-28
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,748 SAR ",2022-02-28
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"2,791 SAR ",2022-02-28
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,588 SAR ",2022-02-28
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-02-28
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-02-28
+"SAUDIA, Aeroflot",RUH,SVO,12h 10m ,1 stop ,"2,791 SAR ",2022-02-28
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,861 SAR ",2022-02-28
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,322 SAR ",2022-02-28
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-02-28
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"1,831 SAR ",2022-02-28
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,969 SAR ",2022-02-28
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,173 SAR ",2022-02-28
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,20h 40m ,2 stops ,"1,805 SAR ",2022-02-28
+Multiple Airlines,RUH,SVO,16h 30m ,2 stops ,"2,172 SAR ",2022-02-28
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,173 SAR ",2022-02-28
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,238 SAR ",2022-02-28
+"SAUDIA, Qatar Airways",RUH,SVO,11h 25m ,2 stops ,"2,741 SAR ",2022-02-28
+"SAUDIA, Qatar Airways",RUH,SVO,13h 45m ,2 stops ,"3,083 SAR ",2022-02-28
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,606 SAR ",2022-02-28
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,786 SAR ",2022-02-28
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,798 SAR ",2022-02-28
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,855 SAR ",2022-02-28
+Multiple Airlines,RUH,SVO,15h 55m ,3 stops ,"2,136 SAR ",2022-02-28
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 55m ,3 stops ,"2,137 SAR ",2022-02-28
+"Turkish Airlines, LOT",RUH,SVO,18h 15m ,3 stops ,"2,143 SAR ",2022-02-28
+"SAUDIA, KLM",RUH,SVO,19h 40m ,2 stops ,"3,089 SAR ",2022-02-28
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,809 SAR ",2022-02-28
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,838 SAR ",2022-02-28
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,527 SAR ",2022-02-28
+"SAUDIA, KLM",RUH,SVO,19h 00m ,2 stops ,"8,566 SAR ",2022-02-28
+"British Airways, Aeroflot",RUH,SVO,19h 20m ,1 stop ,"8,732 SAR ",2022-02-28
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,114 SAR ",2022-02-28
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-02-28
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"15,958 SAR ",2022-02-28
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,198 SAR ",2022-03-01
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,644 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,175 SAR ",2022-03-01
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,843 SAR ",2022-03-01
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,869 SAR ",2022-03-01
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,191 SAR ",2022-03-01
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-01
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,457 SAR ",2022-03-01
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,621 SAR ",2022-03-01
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-01
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-01
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,738 SAR ",2022-03-01
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-03-01
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,738 SAR ",2022-03-01
+"Air France, Aeroflot",RUH,SVO,13h 15m ,1 stop ,"3,308 SAR ",2022-03-01
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,723 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,515 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,19h 05m ,2 stops ,"1,576 SAR ",2022-03-01
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,615 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,683 SAR ",2022-03-01
+"flydubai, Aeroflot",RUH,SVO,12h 45m ,2 stops ,"2,089 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"2,118 SAR ",2022-03-01
+"Egypt Air, Aeroflot",RUH,SVO,14h 55m ,2 stops ,"2,241 SAR ",2022-03-01
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,008 SAR ",2022-03-01
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"2,101 SAR ",2022-03-01
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,172 SAR ",2022-03-01
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-03-01
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,266 SAR ",2022-03-01
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,327 SAR ",2022-03-01
+"Turkish Airlines, Aeroflot",RUH,SVO,15h 50m ,2 stops ,"2,349 SAR ",2022-03-01
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,468 SAR ",2022-03-01
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-01
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-01
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-01
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,671 SAR ",2022-03-01
+"SAUDIA, Aeroflot",RUH,SVO,19h 00m ,2 stops ,"2,671 SAR ",2022-03-01
+"SAUDIA, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,671 SAR ",2022-03-01
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,848 SAR ",2022-03-01
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"2,023 SAR ",2022-03-01
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,169 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,751 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,539 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,940 SAR ",2022-03-01
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,857 SAR ",2022-03-01
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,114 SAR ",2022-03-01
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-03-01
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,210 SAR ",2022-03-02
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,679 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,984 SAR ,2022-03-02
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,800 SAR ",2022-03-02
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,121 SAR ",2022-03-02
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,205 SAR ",2022-03-02
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,457 SAR ",2022-03-02
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,621 SAR ",2022-03-02
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-02
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-03-02
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,792 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"1,470 SAR ",2022-03-02
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,684 SAR ",2022-03-02
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"1,702 SAR ",2022-03-02
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,12h 55m ,2 stops ,"1,737 SAR ",2022-03-02
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 55m ,2 stops ,"1,765 SAR ",2022-03-02
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,723 SAR ",2022-03-02
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,865 SAR ",2022-03-02
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,011 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",RUH,SVO,14h 45m ,2 stops ,"2,021 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",RUH,SVO,15h 50m ,2 stops ,"2,021 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,2 stops ,"2,021 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 30m ,2 stops ,"2,021 SAR ",2022-03-02
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,126 SAR ",2022-03-02
+"flynas, airBaltic",RUH,SVO,13h 15m ,2 stops ,"2,216 SAR ",2022-03-02
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,270 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,535 SAR ",2022-03-02
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,640 SAR ",2022-03-02
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,770 SAR ",2022-03-02
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,793 SAR ",2022-03-02
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,798 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,18h 35m ,3 stops ,"1,848 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,20h 05m ,3 stops ,"1,860 SAR ",2022-03-02
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,869 SAR ",2022-03-02
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,983 SAR ",2022-03-02
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,659 SAR ",2022-03-02
+"SAUDIA, Aeroflot",RUH,SVO,20h 45m ,2 stops ,"2,671 SAR ",2022-03-02
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-03-02
+"SAUDIA, KLM",RUH,SVO,19h 40m ,2 stops ,"3,089 SAR ",2022-03-02
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"6,280 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,18h 15m ,2 stops ,"8,414 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"8,418 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,527 SAR ",2022-03-02
+"SAUDIA, KLM",RUH,SVO,17h 05m ,2 stops ,"9,360 SAR ",2022-03-02
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,861 SAR ",2022-03-02
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,114 SAR ",2022-03-02
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-03-02
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,856 SAR ",2022-03-02
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,331 SAR ",2022-03-03
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,588 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,033 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"1,750 SAR ",2022-03-03
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,902 SAR ",2022-03-03
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,902 SAR ",2022-03-03
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"2,117 SAR ",2022-03-03
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,317 SAR ",2022-03-03
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-03
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,317 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-03
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-03
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-03
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-03
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,688 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,649 SAR ",2022-03-03
+Air France,RUH,SVO,17h 30m ,1 stop ,"2,971 SAR ",2022-03-03
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,013 SAR ",2022-03-03
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,322 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,557 SAR ",2022-03-03
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,871 SAR ",2022-03-03
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,873 SAR ",2022-03-03
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,944 SAR ",2022-03-03
+"Etihad Airways, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,045 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,13h 45m ,2 stops ,"2,120 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,14h 45m ,2 stops ,"2,120 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,15h 45m ,2 stops ,"2,120 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,18h 30m ,2 stops ,"2,120 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,19h 15m ,2 stops ,"2,120 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,120 SAR ",2022-03-03
+"SAUDIA, Aeroflot",RUH,SVO,21h 15m ,2 stops ,"2,120 SAR ",2022-03-03
+"Air Arabia, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,162 SAR ",2022-03-03
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-03-03
+"Etihad Airways, Nordwind Airlines",RUH,SVO,19h 10m ,3 stops ,"1,199 SAR ",2022-03-03
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,801 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,141 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,17h 20m ,3 stops ,"2,141 SAR ",2022-03-03
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 50m ,3 stops ,"2,227 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,587 SAR ",2022-03-03
+"Air Arabia, Aeroflot",RUH,SVO,13h 10m ,2 stops ,"2,905 SAR ",2022-03-03
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-03-03
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,183 SAR ",2022-03-03
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,838 SAR ",2022-03-03
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,809 SAR ",2022-03-03
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,573 SAR ",2022-03-03
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,328 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"13,833 SAR ",2022-03-03
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,114 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,172 SAR ",2022-03-03
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,14h 25m ,2 stops ,"18,534 SAR ",2022-03-03
+Multiple Airlines,RUH,SVO,15h 40m ,2 stops ,"19,164 SAR ",2022-03-03
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,342 SAR ",2022-03-04
+"SAUDIA, Nordwind Airlines",RUH,SVO,11h 50m ,1 stop ,"1,634 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,984 SAR ,2022-03-04
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,735 SAR ",2022-03-04
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,884 SAR ",2022-03-04
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-03-04
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,908 SAR ",2022-03-04
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,961 SAR ",2022-03-04
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-04
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,714 SAR ",2022-03-04
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,330 SAR ",2022-03-04
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-04
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,548 SAR ",2022-03-04
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-04
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,649 SAR ",2022-03-04
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,692 SAR ",2022-03-04
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-03-04
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,649 SAR ",2022-03-04
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,738 SAR ",2022-03-04
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,738 SAR ",2022-03-04
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,835 SAR ",2022-03-04
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,008 SAR ",2022-03-04
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"2,009 SAR ",2022-03-04
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,009 SAR ",2022-03-04
+"Gulf Air, Nordwind Airlines",RUH,SVO,19h 25m ,2 stops ,"2,017 SAR ",2022-03-04
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,182 SAR ",2022-03-04
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,182 SAR ",2022-03-04
+"Egypt Air, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,215 SAR ",2022-03-04
+"Egypt Air, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,223 SAR ",2022-03-04
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,236 SAR ",2022-03-04
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,257 SAR ",2022-03-04
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,388 SAR ",2022-03-04
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,491 SAR ",2022-03-04
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,492 SAR ",2022-03-04
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,512 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,315 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,535 SAR ",2022-03-04
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,981 SAR ",2022-03-04
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,989 SAR ",2022-03-04
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-04
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-04
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-04
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,809 SAR ",2022-03-04
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-03-04
+"SAUDIA, Air France",RUH,SVO,20h 55m ,2 stops ,"3,183 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"2,530 SAR ",2022-03-04
+"Gulf Air, LOT",RUH,SVO,15h 20m ,3 stops ,"2,726 SAR ",2022-03-04
+"SAUDIA, KLM",RUH,SVO,15h 50m ,2 stops ,"8,508 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,527 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,647 SAR ",2022-03-04
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,114 SAR ",2022-03-04
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,651 SAR ",2022-03-04
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,757 SAR ",2022-03-04
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,211 SAR ",2022-03-05
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"1,719 SAR ",2022-03-05
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,235 SAR ",2022-03-05
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,530 SAR ",2022-03-05
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-03-05
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,188 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,992 SAR ",2022-03-05
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"2,143 SAR ",2022-03-05
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,188 SAR ",2022-03-05
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,600 SAR ",2022-03-05
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,748 SAR ",2022-03-05
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,763 SAR ",2022-03-05
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,646 SAR ",2022-03-05
+"SAUDIA, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"2,863 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,612 SAR ",2022-03-05
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,697 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,725 SAR ",2022-03-05
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,172 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,18h 05m ,2 stops ,"2,181 SAR ",2022-03-05
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,311 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,316 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,476 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,18h 20m ,2 stops ,"2,505 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,18h 20m ,2 stops ,"2,512 SAR ",2022-03-05
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,564 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,376 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,599 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,19h 15m ,3 stops ,"1,669 SAR ",2022-03-05
+"Royal Jordanian, KLM",RUH,SVO,19h 10m ,3 stops ,"2,406 SAR ",2022-03-05
+"Egypt Air, airBaltic",RUH,SVO,17h 10m ,3 stops ,"2,543 SAR ",2022-03-05
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,417 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,604 SAR ",2022-03-05
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"4,663 SAR ",2022-03-05
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,809 SAR ",2022-03-05
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,497 SAR ",2022-03-05
+"SAUDIA, KLM",RUH,SVO,15h 50m ,2 stops ,"8,505 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,17h 40m ,2 stops ,"8,523 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,568 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,998 SAR ",2022-03-05
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"11,999 SAR ",2022-03-05
+"Lufthansa, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"12,117 SAR ",2022-03-05
+"Lufthansa, Aeroflot",RUH,SVO,17h 10m ,2 stops ,"12,429 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,954 SAR ",2022-03-05
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,854 SAR ",2022-03-05
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,436 SAR ",2022-03-05
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,262 SAR ",2022-03-05
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,231 SAR ",2022-03-06
+"SAUDIA, Nordwind Airlines",RUH,SVO,11h 50m ,1 stop ,"1,637 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,918 SAR ,2022-03-06
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,822 SAR ",2022-03-06
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-03-06
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,19h 55m ,1 stop ,"1,796 SAR ",2022-03-06
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,325 SAR ",2022-03-06
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,205 SAR ",2022-03-06
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,269 SAR ",2022-03-06
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-06
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,588 SAR ",2022-03-06
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,649 SAR ",2022-03-06
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,737 SAR ",2022-03-06
+"SAUDIA, Aeroflot",RUH,SVO,11h 35m ,1 stop ,"2,746 SAR ",2022-03-06
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,751 SAR ",2022-03-06
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,649 SAR ",2022-03-06
+"SAUDIA, Aeroflot",RUH,SVO,19h 05m ,1 stop ,"2,690 SAR ",2022-03-06
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"2,851 SAR ",2022-03-06
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,927 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,21h 05m ,2 stops ,"1,513 SAR ",2022-03-06
+"Turkish Airlines, Pobeda",RUH,SVO,21h 05m ,2 stops ,"1,534 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,20h 30m ,2 stops ,"1,576 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"1,708 SAR ",2022-03-06
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,797 SAR ",2022-03-06
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-03-06
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,839 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,860 SAR ",2022-03-06
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 55m ,2 stops ,"2,057 SAR ",2022-03-06
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,160 SAR ",2022-03-06
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,172 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,16h 30m ,2 stops ,"2,172 SAR ",2022-03-06
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,238 SAR ",2022-03-06
+"Etihad Airways, Pobeda",RUH,SVO,19h 45m ,3 stops ,940 SAR ,2022-03-06
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,417 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,427 SAR ",2022-03-06
+"Egypt Air, Pobeda",RUH,SVO,18h 25m ,3 stops ,"1,438 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,16h 20m ,3 stops ,"1,558 SAR ",2022-03-06
+"Royal Jordanian, Pobeda",RUH,SVO,16h 20m ,3 stops ,"1,582 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,628 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,17h 15m ,3 stops ,"1,725 SAR ",2022-03-06
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 20m ,3 stops ,"1,828 SAR ",2022-03-06
+"Gulf Air, Nordwind Airlines",RUH,SVO,18h 10m ,3 stops ,"1,954 SAR ",2022-03-06
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,496 SAR ",2022-03-06
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,417 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,18h 05m ,2 stops ,"8,448 SAR ",2022-03-06
+"SAUDIA, KLM",RUH,SVO,15h 50m ,2 stops ,"8,505 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,556 SAR ",2022-03-06
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,587 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,871 SAR ",2022-03-06
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-06
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"14,924 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,16h 10m ,2 stops ,"18,225 SAR ",2022-03-06
+Multiple Airlines,RUH,SVO,12h 55m ,2 stops ,"19,598 SAR ",2022-03-06
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,884 SAR ",2022-03-06
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,202 SAR ",2022-03-07
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,190 SAR ",2022-03-07
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,301 SAR ",2022-03-07
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,656 SAR ",2022-03-07
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-03-07
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,990 SAR ",2022-03-07
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,190 SAR ",2022-03-07
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"2,202 SAR ",2022-03-07
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,520 SAR ",2022-03-07
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,681 SAR ",2022-03-07
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-07
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,793 SAR ",2022-03-07
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"3,131 SAR ",2022-03-07
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"3,112 SAR ",2022-03-07
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,731 SAR ",2022-03-07
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,20h 40m ,2 stops ,"1,813 SAR ",2022-03-07
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,978 SAR ",2022-03-07
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"1,994 SAR ",2022-03-07
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,087 SAR ",2022-03-07
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,159 SAR ",2022-03-07
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,160 SAR ",2022-03-07
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,237 SAR ",2022-03-07
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-07
+"SAUDIA, KLM",RUH,SVO,19h 40m ,2 stops ,"3,092 SAR ",2022-03-07
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,649 SAR ",2022-03-07
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 35m ,3 stops ,"1,950 SAR ",2022-03-07
+"Turkish Airlines, LOT",RUH,SVO,18h 15m ,3 stops ,"2,143 SAR ",2022-03-07
+"Royal Jordanian, KLM",RUH,SVO,19h 10m ,3 stops ,"2,257 SAR ",2022-03-07
+Multiple Airlines,RUH,SVO,18h 15m ,3 stops ,"2,261 SAR ",2022-03-07
+"British Airways, Aeroflot",RUH,SVO,19h 20m ,1 stop ,"8,732 SAR ",2022-03-07
+Multiple Airlines,RUH,SVO,18h 15m ,2 stops ,"8,443 SAR ",2022-03-07
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,556 SAR ",2022-03-07
+"SAUDIA, KLM",RUH,SVO,19h 00m ,2 stops ,"8,563 SAR ",2022-03-07
+Multiple Airlines,RUH,SVO,20h 40m ,2 stops ,"8,586 SAR ",2022-03-07
+"Lufthansa, Aeroflot",RUH,SVO,14h 55m ,1 stop ,"12,131 SAR ",2022-03-07
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-07
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-07
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"15,972 SAR ",2022-03-07
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,247 SAR ",2022-03-08
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,722 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,470 SAR ",2022-03-08
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,849 SAR ",2022-03-08
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,970 SAR ",2022-03-08
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,190 SAR ",2022-03-08
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-08
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-08
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-08
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,592 SAR ",2022-03-08
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,739 SAR ",2022-03-08
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-03-08
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,755 SAR ",2022-03-08
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,723 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,515 SAR ",2022-03-08
+"Jazeera Airways, Aeroflot",RUH,SVO,16h 45m ,2 stops ,"1,660 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,761 SAR ",2022-03-08
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,953 SAR ",2022-03-08
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"1,989 SAR ",2022-03-08
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,062 SAR ",2022-03-08
+"flydubai, Aeroflot",RUH,SVO,12h 45m ,2 stops ,"2,089 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"2,196 SAR ",2022-03-08
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,238 SAR ",2022-03-08
+"Qatar Airways, Aeroflot",RUH,SVO,14h 40m ,2 stops ,"2,302 SAR ",2022-03-08
+"Egypt Air, Aeroflot",RUH,SVO,14h 55m ,2 stops ,"2,336 SAR ",2022-03-08
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,468 SAR ",2022-03-08
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,472 SAR ",2022-03-08
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-08
+"SAUDIA, Aeroflot",RUH,SVO,19h 00m ,2 stops ,"2,671 SAR ",2022-03-08
+Air France,RUH,SVO,19h 05m ,2 stops ,"3,109 SAR ",2022-03-08
+Air France,RUH,SVO,19h 05m ,2 stops ,"3,109 SAR ",2022-03-08
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,159 SAR ",2022-03-08
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,644 SAR ",2022-03-08
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,861 SAR ",2022-03-08
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,511 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,846 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"9,701 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,954 SAR ",2022-03-08
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,871 SAR ",2022-03-08
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-08
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-08
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,222 SAR ",2022-03-09
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,671 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,921 SAR ,2022-03-09
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,808 SAR ",2022-03-09
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,848 SAR ",2022-03-09
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,122 SAR ",2022-03-09
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,205 SAR ",2022-03-09
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-09
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,688 SAR ",2022-03-09
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,754 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,955 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"1,502 SAR ",2022-03-09
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 15m ,2 stops ,"1,636 SAR ",2022-03-09
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,675 SAR ",2022-03-09
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,12h 55m ,2 stops ,"1,698 SAR ",2022-03-09
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"1,707 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,13h 35m ,2 stops ,"1,786 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,16h 25m ,2 stops ,"1,786 SAR ",2022-03-09
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 55m ,2 stops ,"1,795 SAR ",2022-03-09
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,813 SAR ",2022-03-09
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,813 SAR ",2022-03-09
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,852 SAR ",2022-03-09
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,881 SAR ",2022-03-09
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 55m ,2 stops ,"1,922 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,15h 10m ,2 stops ,"1,995 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,16h 30m ,2 stops ,"2,172 SAR ",2022-03-09
+"flynas, airBaltic",RUH,SVO,13h 15m ,2 stops ,"2,216 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,376 SAR ",2022-03-09
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,549 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,561 SAR ",2022-03-09
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,760 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"1,797 SAR ",2022-03-09
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,799 SAR ",2022-03-09
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,840 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,890 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,15h 55m ,3 stops ,"2,119 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,20h 45m ,2 stops ,"2,671 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,809 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,809 SAR ",2022-03-09
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,16h 00m ,2 stops ,"4,119 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"6,283 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"2,673 SAR ",2022-03-09
+Multiple Airlines,RUH,SVO,16h 10m ,3 stops ,"2,779 SAR ",2022-03-09
+"SAUDIA, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"6,574 SAR ",2022-03-09
+"Lufthansa, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"12,269 SAR ",2022-03-09
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,385 SAR ",2022-03-10
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,580 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,005 SAR ",2022-03-10
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,890 SAR ",2022-03-10
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,902 SAR ",2022-03-10
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,317 SAR ",2022-03-10
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-03-10
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,122 SAR ",2022-03-10
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-10
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,317 SAR ",2022-03-10
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,495 SAR ",2022-03-10
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-10
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-10
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-10
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-10
+"SAUDIA, Aeroflot",RUH,SVO,12h 45m ,1 stop ,"2,766 SAR ",2022-03-10
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-03-10
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,575 SAR ",2022-03-10
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,780 SAR ",2022-03-10
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,792 SAR ",2022-03-10
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-03-10
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,841 SAR ",2022-03-10
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,944 SAR ",2022-03-10
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,056 SAR ",2022-03-10
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,077 SAR ",2022-03-10
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,161 SAR ",2022-03-10
+"Royal Jordanian, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,161 SAR ",2022-03-10
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,173 SAR ",2022-03-10
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,238 SAR ",2022-03-10
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,472 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,421 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,16h 20m ,3 stops ,"1,558 SAR ",2022-03-10
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,635 SAR ",2022-03-10
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,635 SAR ",2022-03-10
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,644 SAR ",2022-03-10
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 50m ,3 stops ,"1,731 SAR ",2022-03-10
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 20m ,3 stops ,"1,761 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,958 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,15h 40m ,3 stops ,"1,959 SAR ",2022-03-10
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 45m ,3 stops ,"2,112 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,134 SAR ",2022-03-10
+Multiple Airlines,RUH,SVO,17h 20m ,3 stops ,"2,134 SAR ",2022-03-10
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,341 SAR ",2022-03-11
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,884 SAR ",2022-03-11
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,008 SAR ",2022-03-11
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,771 SAR ",2022-03-11
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,898 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,959 SAR ",2022-03-11
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,122 SAR ",2022-03-11
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-11
+"SAUDIA, Nordwind Airlines",RUH,SVO,11h 50m ,1 stop ,"2,321 SAR ",2022-03-11
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,704 SAR ",2022-03-11
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,330 SAR ",2022-03-11
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,510 SAR ",2022-03-11
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-11
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,649 SAR ",2022-03-11
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-03-11
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,649 SAR ",2022-03-11
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,727 SAR ",2022-03-11
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-11
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"3,089 SAR ",2022-03-11
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,736 SAR ",2022-03-11
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"1,707 SAR ",2022-03-11
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,751 SAR ",2022-03-11
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,860 SAR ",2022-03-11
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,942 SAR ",2022-03-11
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,161 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,797 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,799 SAR ",2022-03-11
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,987 SAR ",2022-03-11
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 55m ,2 stops ,"2,045 SAR ",2022-03-11
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"2,090 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,14h 55m ,2 stops ,"2,106 SAR ",2022-03-11
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,161 SAR ",2022-03-11
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,238 SAR ",2022-03-11
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,330 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,13h 45m ,2 stops ,"2,334 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,383 SAR ",2022-03-11
+"British Airways, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,390 SAR ",2022-03-11
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-11
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-11
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,561 SAR ",2022-03-11
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,886 SAR ",2022-03-11
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,991 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,17h 55m ,3 stops ,"2,251 SAR ",2022-03-11
+"Egypt Air, Aeroflot",RUH,SVO,18h 55m ,3 stops ,"2,251 SAR ",2022-03-11
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,881 SAR ",2022-03-11
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-03-11
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,871 SAR ",2022-03-11
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-11
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-11
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,378 SAR ",2022-03-11
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,211 SAR ",2022-03-12
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,190 SAR ",2022-03-12
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,322 SAR ",2022-03-12
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,648 SAR ",2022-03-12
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,848 SAR ",2022-03-12
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,957 SAR ",2022-03-12
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,190 SAR ",2022-03-12
+"Turkish Airlines, Aeroflot",RUH,SVO,21h 15m ,1 stop ,"1,848 SAR ",2022-03-12
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,117 SAR ",2022-03-12
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,649 SAR ",2022-03-12
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-03-12
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,649 SAR ",2022-03-12
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,727 SAR ",2022-03-12
+"SAUDIA, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"2,867 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,640 SAR ",2022-03-12
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,738 SAR ",2022-03-12
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,751 SAR ",2022-03-12
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,795 SAR ",2022-03-12
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,019 SAR ",2022-03-12
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,056 SAR ",2022-03-12
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,085 SAR ",2022-03-12
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"2,184 SAR ",2022-03-12
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-12
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,671 SAR ",2022-03-12
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,631 SAR ",2022-03-12
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,631 SAR ",2022-03-12
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,646 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,863 SAR ",2022-03-12
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,014 SAR ",2022-03-12
+"Gulf Air, Bulgaria Air",RUH,SVO,20h 55m ,3 stops ,"2,021 SAR ",2022-03-12
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"2,053 SAR ",2022-03-12
+"Royal Jordanian, KLM",RUH,SVO,19h 10m ,3 stops ,"2,256 SAR ",2022-03-12
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,181 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,605 SAR ",2022-03-12
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,811 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,17h 40m ,2 stops ,"8,558 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,709 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,915 SAR ",2022-03-12
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,032 SAR ",2022-03-12
+"Lufthansa, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"12,134 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"13,299 SAR ",2022-03-12
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,871 SAR ",2022-03-12
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,469 SAR ",2022-03-12
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-12
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"14,262 SAR ",2022-03-12
+Air France,RUH,SVO,12h 15m ,1 stop ,"3,156 SAR ",2022-03-13
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,268 SAR ",2022-03-13
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,202 SAR ",2022-03-14
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,518 SAR ",2022-03-14
+Multiple Airlines,RUH,SVO,19h 05m ,3 stops ,"1,175 SAR ",2022-03-14
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,945 SAR ",2022-03-14
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,191 SAR ",2022-03-14
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,191 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"2,446 SAR ",2022-03-14
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,685 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-14
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-14
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,793 SAR ",2022-03-14
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,322 SAR ",2022-03-14
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,697 SAR ",2022-03-14
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"1,791 SAR ",2022-03-14
+"Etihad Airways, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,012 SAR ",2022-03-14
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,147 SAR ",2022-03-14
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"2,154 SAR ",2022-03-14
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,825 SAR ",2022-03-14
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,20h 40m ,2 stops ,"1,833 SAR ",2022-03-14
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 55m ,2 stops ,"2,025 SAR ",2022-03-14
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,045 SAR ",2022-03-14
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,116 SAR ",2022-03-14
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,189 SAR ",2022-03-14
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,283 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,450 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,659 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,19h 00m ,2 stops ,"2,671 SAR ",2022-03-14
+"SAUDIA, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,671 SAR ",2022-03-14
+"Etihad Airways, Nordwind Airlines",RUH,SVO,19h 20m ,3 stops ,"1,196 SAR ",2022-03-14
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,271 SAR ",2022-03-14
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,644 SAR ",2022-03-14
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,725 SAR ",2022-03-14
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 35m ,3 stops ,"1,771 SAR ",2022-03-14
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,864 SAR ",2022-03-14
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"2,009 SAR ",2022-03-14
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"2,078 SAR ",2022-03-14
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,811 SAR ",2022-03-14
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,840 SAR ",2022-03-14
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,559 SAR ",2022-03-14
+"SAUDIA, KLM",RUH,SVO,19h 00m ,2 stops ,"9,378 SAR ",2022-03-14
+"SAUDIA, KLM",RUH,SVO,17h 05m ,2 stops ,"11,917 SAR ",2022-03-14
+"Lufthansa, Aeroflot",RUH,SVO,14h 55m ,1 stop ,"12,134 SAR ",2022-03-14
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-14
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-14
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"15,972 SAR ",2022-03-14
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,247 SAR ",2022-03-15
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,652 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,175 SAR ",2022-03-15
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,864 SAR ",2022-03-15
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,981 SAR ",2022-03-15
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"2,098 SAR ",2022-03-15
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,191 SAR ",2022-03-15
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,122 SAR ",2022-03-15
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-15
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-15
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,688 SAR ",2022-03-15
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-03-15
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-15
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-15
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,751 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,523 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,19h 05m ,2 stops ,"1,587 SAR ",2022-03-15
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,622 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,683 SAR ",2022-03-15
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,804 SAR ",2022-03-15
+"flydubai, Aeroflot",RUH,SVO,12h 45m ,2 stops ,"2,089 SAR ",2022-03-15
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,806 SAR ",2022-03-15
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,009 SAR ",2022-03-15
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,055 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,14h 45m ,2 stops ,"2,060 SAR ",2022-03-15
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,082 SAR ",2022-03-15
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,093 SAR ",2022-03-15
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,238 SAR ",2022-03-15
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-03-15
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,473 SAR ",2022-03-15
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,516 SAR ",2022-03-15
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-15
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-03-15
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,644 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,863 SAR ",2022-03-15
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"2,085 SAR ",2022-03-15
+"Royal Jordanian, KLM",RUH,SVO,19h 10m ,3 stops ,"2,253 SAR ",2022-03-15
+"SAUDIA, Qatar Airways",RUH,SVO,16h 50m ,2 stops ,"3,495 SAR ",2022-03-15
+"SAUDIA, Aeroflot",RUH,SVO,16h 00m ,2 stops ,"3,697 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,605 SAR ",2022-03-15
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"6,302 SAR ",2022-03-15
+"SAUDIA, KLM",RUH,SVO,14h 55m ,2 stops ,"8,511 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"8,571 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,954 SAR ",2022-03-15
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,871 SAR ",2022-03-15
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-15
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-15
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,221 SAR ",2022-03-16
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,677 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,896 SAR ,2022-03-16
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,800 SAR ",2022-03-16
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,820 SAR ",2022-03-16
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,030 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"2,098 SAR ",2022-03-16
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,205 SAR ",2022-03-16
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-16
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,685 SAR ",2022-03-16
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,751 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,793 SAR ",2022-03-16
+"Etihad Airways, Nordwind Airlines",RUH,SVO,18h 35m ,2 stops ,"1,052 SAR ",2022-03-16
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,12h 55m ,2 stops ,"1,497 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,13h 35m ,2 stops ,"1,613 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,16h 25m ,2 stops ,"1,613 SAR ",2022-03-16
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 15m ,2 stops ,"1,649 SAR ",2022-03-16
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,679 SAR ",2022-03-16
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 55m ,2 stops ,"1,763 SAR ",2022-03-16
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,792 SAR ",2022-03-16
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,792 SAR ",2022-03-16
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,822 SAR ",2022-03-16
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 10m ,2 stops ,"2,030 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,13h 45m ,2 stops ,"2,102 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,14h 45m ,2 stops ,"2,102 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,15h 45m ,2 stops ,"2,102 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,18h 30m ,2 stops ,"2,102 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,19h 15m ,2 stops ,"2,102 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,102 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,17h 50m ,3 stops ,"1,631 SAR ",2022-03-16
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,646 SAR ",2022-03-16
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,735 SAR ",2022-03-16
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,765 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,890 SAR ",2022-03-16
+"Royal Jordanian, Nordwind Airlines",RUH,SVO,15h 55m ,3 stops ,"2,116 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,659 SAR ",2022-03-16
+"SAUDIA, Aeroflot",RUH,SVO,20h 45m ,2 stops ,"2,671 SAR ",2022-03-16
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"2,940 SAR ",2022-03-16
+"SAUDIA, KLM",RUH,SVO,19h 40m ,2 stops ,"3,090 SAR ",2022-03-16
+"Egypt Air, Aeroflot",RUH,SVO,18h 05m ,2 stops ,"4,806 SAR ",2022-03-16
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,840 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,628 SAR ",2022-03-16
+"SAUDIA, KLM",RUH,SVO,17h 05m ,2 stops ,"9,370 SAR ",2022-03-16
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,875 SAR ",2022-03-16
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,143 SAR ",2022-03-16
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,670 SAR ",2022-03-16
+"Emirates, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"31,884 SAR ",2022-03-16
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,376 SAR ",2022-03-17
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,580 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,006 SAR ",2022-03-17
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,318 SAR ",2022-03-17
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,122 SAR ",2022-03-17
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-17
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,318 SAR ",2022-03-17
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,501 SAR ",2022-03-17
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,525 SAR ",2022-03-17
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-17
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,688 SAR ",2022-03-17
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-17
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,753 SAR ",2022-03-17
+"SAUDIA, Aeroflot",RUH,SVO,12h 45m ,1 stop ,"2,765 SAR ",2022-03-17
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,651 SAR ",2022-03-17
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,740 SAR ",2022-03-17
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,720 SAR ",2022-03-17
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-03-17
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,242 SAR ",2022-03-17
+KLM,RUH,SVO,19h 30m ,2 stops ,"2,242 SAR ",2022-03-17
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"2,305 SAR ",2022-03-17
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"2,305 SAR ",2022-03-17
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"2,305 SAR ",2022-03-17
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,498 SAR ",2022-03-17
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,517 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,507 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,16h 15m ,3 stops ,"1,955 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,15h 40m ,3 stops ,"1,959 SAR ",2022-03-17
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 50m ,3 stops ,"2,244 SAR ",2022-03-17
+"Royal Jordanian, KLM",RUH,SVO,19h 10m ,3 stops ,"2,257 SAR ",2022-03-17
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"2,321 SAR ",2022-03-17
+"Egypt Air, KLM",RUH,SVO,21h 15m ,2 stops ,"2,488 SAR ",2022-03-17
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,183 SAR ",2022-03-17
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,338 SAR ",2022-03-17
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,350 SAR ",2022-03-17
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,3 stops ,"2,497 SAR ",2022-03-17
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,802 SAR ",2022-03-17
+"Egypt Air, Aeroflot",RUH,SVO,18h 15m ,2 stops ,"4,836 SAR ",2022-03-17
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,579 SAR ",2022-03-17
+"SAUDIA, KLM",RUH,SVO,17h 05m ,2 stops ,"9,366 SAR ",2022-03-17
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,353 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"13,843 SAR ",2022-03-17
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,139 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,182 SAR ",2022-03-17
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,666 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,14h 25m ,2 stops ,"18,549 SAR ",2022-03-17
+Multiple Airlines,RUH,SVO,15h 40m ,2 stops ,"19,178 SAR ",2022-03-17
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,392 SAR ",2022-03-18
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,884 SAR ",2022-03-18
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,013 SAR ",2022-03-18
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,764 SAR ",2022-03-18
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,903 SAR ",2022-03-18
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,117 SAR ",2022-03-18
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-18
+"SAUDIA, Nordwind Airlines",RUH,SVO,11h 50m ,1 stop ,"2,321 SAR ",2022-03-18
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,327 SAR ",2022-03-18
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-03-18
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-18
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,592 SAR ",2022-03-18
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,650 SAR ",2022-03-18
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,754 SAR ",2022-03-18
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,755 SAR ",2022-03-18
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,650 SAR ",2022-03-18
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,013 SAR ",2022-03-18
+Air France,RUH,SVO,17h 30m ,1 stop ,"2,971 SAR ",2022-03-18
+Air France,RUH,SVO,20h 50m ,1 stop ,"3,007 SAR ",2022-03-18
+"Egypt Air, Nordwind Airlines",RUH,SVO,17h 15m ,2 stops ,"1,649 SAR ",2022-03-18
+"Egypt Air, Aeroflot",RUH,SVO,14h 10m ,2 stops ,"1,788 SAR ",2022-03-18
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,788 SAR ",2022-03-18
+"Gulf Air, Nordwind Airlines",RUH,SVO,15h 45m ,2 stops ,"1,860 SAR ",2022-03-18
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,893 SAR ",2022-03-18
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,716 SAR ",2022-03-18
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,893 SAR ",2022-03-18
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 55m ,2 stops ,"1,922 SAR ",2022-03-18
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,936 SAR ",2022-03-18
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-03-18
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,474 SAR ",2022-03-18
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,475 SAR ",2022-03-18
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,686 SAR ",2022-03-18
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,797 SAR ",2022-03-18
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,808 SAR ",2022-03-18
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"2,032 SAR ",2022-03-18
+"Gulf Air, LOT",RUH,SVO,15h 20m ,3 stops ,"2,571 SAR ",2022-03-18
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-03-18
+Multiple Airlines,RUH,SVO,18h 40m ,3 stops ,"4,109 SAR ",2022-03-18
+Multiple Airlines,RUH,SVO,13h 45m ,2 stops ,"8,550 SAR ",2022-03-18
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,670 SAR ",2022-03-18
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,134 SAR ",2022-03-18
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"14,522 SAR ",2022-03-18
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"14,665 SAR ",2022-03-18
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,369 SAR ",2022-03-18
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,205 SAR ",2022-03-19
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"1,719 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,220 SAR ",2022-03-19
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,530 SAR ",2022-03-19
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,940 SAR ",2022-03-19
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,192 SAR ",2022-03-19
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,869 SAR ",2022-03-19
+"Turkish Airlines, Aeroflot",RUH,SVO,21h 15m ,1 stop ,"1,869 SAR ",2022-03-19
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,192 SAR ",2022-03-19
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,592 SAR ",2022-03-19
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,752 SAR ",2022-03-19
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,755 SAR ",2022-03-19
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,650 SAR ",2022-03-19
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,758 SAR ",2022-03-19
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,322 SAR ",2022-03-19
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,409 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,567 SAR ",2022-03-19
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"1,725 SAR ",2022-03-19
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,852 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"2,192 SAR ",2022-03-19
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,660 SAR ",2022-03-19
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,885 SAR ",2022-03-19
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"2,367 SAR ",2022-03-19
+"SAUDIA, Air France",RUH,SVO,21h 10m ,2 stops ,"3,183 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,17h 55m ,2 stops ,"4,596 SAR ",2022-03-19
+"Egypt Air, Aeroflot",RUH,SVO,20h 40m ,2 stops ,"4,801 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,17h 05m ,2 stops ,"8,906 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,17h 40m ,2 stops ,"9,031 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"9,043 SAR ",2022-03-19
+"MEA, Aeroflot",RUH,SVO,21h 10m ,2 stops ,"12,023 SAR ",2022-03-19
+"Lufthansa, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"12,125 SAR ",2022-03-19
+"Lufthansa, Aeroflot",RUH,SVO,17h 10m ,2 stops ,"12,438 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,18h 20m ,2 stops ,"12,949 SAR ",2022-03-19
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"13,995 SAR ",2022-03-19
+"MEA, Aeroflot",RUH,SVO,17h 15m ,2 stops ,"14,134 SAR ",2022-03-19
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,222 SAR ",2022-03-20
+"SAUDIA, Nordwind Airlines",RUH,SVO,11h 50m ,1 stop ,"1,574 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,070 SAR ",2022-03-20
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,19h 55m ,1 stop ,"1,791 SAR ",2022-03-20
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,822 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,023 SAR ",2022-03-20
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"2,122 SAR ",2022-03-20
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,206 SAR ",2022-03-20
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-20
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,714 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,651 SAR ",2022-03-20
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-03-20
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-20
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,592 SAR ",2022-03-20
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,755 SAR ",2022-03-20
+Air France,RUH,SVO,13h 15m ,1 stop ,"3,013 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,651 SAR ",2022-03-20
+"Emirates, Aeroflot",RUH,SVO,17h 20m ,1 stop ,"2,758 SAR ",2022-03-20
+"Air France, Aeroflot",RUH,SVO,13h 15m ,1 stop ,"3,308 SAR ",2022-03-20
+"Turkish Airlines, Pobeda",RUH,SVO,16h 40m ,2 stops ,"1,645 SAR ",2022-03-20
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,804 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,20h 30m ,2 stops ,"1,576 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,14h 45m ,2 stops ,"2,062 SAR ",2022-03-20
+"Gulf Air, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,093 SAR ",2022-03-20
+"Turkish Airlines, Pobeda",RUH,SVO,16h 05m ,2 stops ,"2,094 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,18h 05m ,2 stops ,"2,128 SAR ",2022-03-20
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-03-20
+"KLM, Aeroflot",RUH,SVO,17h 50m ,2 stops ,"2,473 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,18h 20m ,2 stops ,"2,503 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,18h 20m ,2 stops ,"2,511 SAR ",2022-03-20
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,517 SAR ",2022-03-20
+"Gulf Air, Aeroflot",RUH,SVO,15h 05m ,2 stops ,"2,559 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,671 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,671 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,223 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,628 SAR ",2022-03-20
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,637 SAR ",2022-03-20
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,641 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,17h 15m ,3 stops ,"1,725 SAR ",2022-03-20
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,838 SAR ",2022-03-20
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,977 SAR ",2022-03-20
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,269 SAR ",2022-03-20
+"Egypt Air, Air France",RUH,SVO,19h 00m ,2 stops ,"2,710 SAR ",2022-03-20
+"Emirates, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,759 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"3,408 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"3,416 SAR ",2022-03-20
+"Egypt Air, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"3,449 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,19h 05m ,1 stop ,"5,970 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,14h 15m ,1 stop ,"6,273 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,9h 40m ,1 stop ,"6,292 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,12h 10m ,1 stop ,"6,292 SAR ",2022-03-20
+"SAUDIA, Aeroflot",RUH,SVO,14h 45m ,1 stop ,"6,292 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,21h 15m ,3 stops ,"2,413 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,21h 15m ,3 stops ,"2,413 SAR ",2022-03-20
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"2,883 SAR ",2022-03-20
+"Lufthansa, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"12,124 SAR ",2022-03-20
+"MEA, Aeroflot",RUH,SVO,17h 00m ,1 stop ,"15,592 SAR ",2022-03-20
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,218 SAR ",2022-03-21
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,644 SAR ",2022-03-21
+"Etihad Airways, Nordwind Airlines",RUH,SVO,19h 20m ,3 stops ,"1,242 SAR ",2022-03-21
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,192 SAR ",2022-03-21
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,828 SAR ",2022-03-21
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,876 SAR ",2022-03-21
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,980 SAR ",2022-03-21
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,192 SAR ",2022-03-21
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-21
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,754 SAR ",2022-03-21
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,570 SAR ",2022-03-21
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-21
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,737 SAR ",2022-03-21
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,955 SAR ",2022-03-21
+"Etihad Airways, Aeroflot",RUH,SVO,19h 55m ,2 stops ,"1,257 SAR ",2022-03-21
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,430 SAR ",2022-03-21
+Multiple Airlines,RUH,SVO,14h 10m ,2 stops ,"1,791 SAR ",2022-03-21
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"1,795 SAR ",2022-03-21
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"1,811 SAR ",2022-03-21
+"Royal Jordanian, Aeroflot",RUH,SVO,15h 00m ,2 stops ,"1,965 SAR ",2022-03-21
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,20h 40m ,2 stops ,"1,898 SAR ",2022-03-21
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,008 SAR ",2022-03-21
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,071 SAR ",2022-03-21
+"Turkish Airlines, Air Serbia",RUH,SVO,16h 45m ,2 stops ,"2,143 SAR ",2022-03-21
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,671 SAR ",2022-03-21
+"SAUDIA, Aeroflot",RUH,SVO,19h 00m ,2 stops ,"2,671 SAR ",2022-03-21
+"SAUDIA, Aeroflot",RUH,SVO,20h 00m ,2 stops ,"2,671 SAR ",2022-03-21
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,649 SAR ",2022-03-21
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"1,704 SAR ",2022-03-21
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 00m ,3 stops ,"1,747 SAR ",2022-03-21
+"Egypt Air, Nordwind Airlines",RUH,SVO,18h 35m ,3 stops ,"1,750 SAR ",2022-03-21
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,853 SAR ",2022-03-21
+"Gulf Air, Nordwind Airlines",RUH,SVO,16h 30m ,3 stops ,"1,881 SAR ",2022-03-21
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,247 SAR ",2022-03-22
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,659 SAR ",2022-03-22
+Multiple Airlines,RUH,SVO,17h 30m ,3 stops ,"1,197 SAR ",2022-03-22
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,841 SAR ",2022-03-22
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-03-22
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,008 SAR ",2022-03-22
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,192 SAR ",2022-03-22
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-22
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,570 SAR ",2022-03-22
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,734 SAR ",2022-03-22
+"KLM, Aeroflot",RUH,SVO,17h 50m ,1 stop ,"2,542 SAR ",2022-03-22
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-22
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-22
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-03-22
+Multiple Airlines,RUH,SVO,19h 45m ,2 stops ,"1,625 SAR ",2022-03-22
+Multiple Airlines,RUH,SVO,15h 05m ,2 stops ,"1,714 SAR ",2022-03-22
+"British Airways, Finnair",RUH,SVO,19h 10m ,2 stops ,"1,781 SAR ",2022-03-22
+"flydubai, Aeroflot",RUH,SVO,12h 45m ,2 stops ,"2,126 SAR ",2022-03-22
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"1,987 SAR ",2022-03-22
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,055 SAR ",2022-03-22
+"Turkish Airlines, Air Serbia",RUH,SVO,17h 25m ,2 stops ,"2,060 SAR ",2022-03-22
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 15m ,2 stops ,"2,175 SAR ",2022-03-22
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,175 SAR ",2022-03-22
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,175 SAR ",2022-03-22
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"2,175 SAR ",2022-03-22
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 30m ,2 stops ,"2,175 SAR ",2022-03-22
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-03-22
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,331 SAR ",2022-03-22
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,524 SAR ",2022-03-22
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,671 SAR ",2022-03-22
+"SAUDIA, Aeroflot",RUH,SVO,19h 00m ,2 stops ,"2,671 SAR ",2022-03-22
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,094 SAR ",2022-03-22
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,992 SAR ",2022-03-22
+Multiple Airlines,RUH,SVO,18h 40m ,3 stops ,"4,183 SAR ",2022-03-22
+Multiple Airlines,RUH,SVO,17h 00m ,3 stops ,"4,357 SAR ",2022-03-22
+"Air France, Aeroflot",RUH,SVO,19h 05m ,3 stops ,"5,649 SAR ",2022-03-22
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,219 SAR ",2022-03-23
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,688 SAR ",2022-03-23
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,823 SAR ",2022-03-23
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,823 SAR ",2022-03-23
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-03-23
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"1,979 SAR ",2022-03-23
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,206 SAR ",2022-03-23
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,565 SAR ",2022-03-23
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"2,732 SAR ",2022-03-23
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,754 SAR ",2022-03-23
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,736 SAR ",2022-03-23
+"SAUDIA, Aeroflot",RUH,SVO,17h 15m ,1 stop ,"2,793 SAR ",2022-03-23
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,12h 55m ,2 stops ,"1,514 SAR ",2022-03-23
+Multiple Airlines,RUH,SVO,15h 45m ,2 stops ,"1,503 SAR ",2022-03-23
+Multiple Airlines,RUH,SVO,13h 35m ,2 stops ,"1,658 SAR ",2022-03-23
+Multiple Airlines,RUH,SVO,16h 25m ,2 stops ,"1,658 SAR ",2022-03-23
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,376 SAR ",2022-03-24
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,10h 50m ,1 stop ,"1,618 SAR ",2022-03-24
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"1,781 SAR ",2022-03-24
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-03-24
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,030 SAR ",2022-03-24
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,314 SAR ",2022-03-24
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,295 SAR ",2022-03-24
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,314 SAR ",2022-03-24
+"SAUDIA, Aeroflot",RUH,SVO,11h 20m ,1 stop ,"2,720 SAR ",2022-03-24
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,584 SAR ",2022-03-24
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-03-24
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,806 SAR ",2022-03-24
+"SAUDIA, Aeroflot",RUH,SVO,17h 30m ,1 stop ,"2,896 SAR ",2022-03-24
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"3,144 SAR ",2022-03-24
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,346 SAR ",2022-03-24
+"Egypt Air, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,021 SAR ",2022-03-24
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,239 SAR ",2022-03-24
+"KLM, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,517 SAR ",2022-03-24
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,034 SAR ",2022-03-24
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,293 SAR ",2022-03-24
+Multiple Airlines,RUH,SVO,18h 25m ,3 stops ,"1,544 SAR ",2022-03-24
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,629 SAR ",2022-03-24
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,629 SAR ",2022-03-24
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,782 SAR ",2022-03-24
+"Gulf Air, KLM",RUH,SVO,19h 45m ,3 stops ,"1,796 SAR ",2022-03-24
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"1,886 SAR ",2022-03-24
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"2,001 SAR ",2022-03-24
+"Egypt Air, Air France",RUH,SVO,20h 30m ,3 stops ,"2,003 SAR ",2022-03-24
+"Royal Jordanian, KLM",RUH,SVO,19h 10m ,3 stops ,"2,365 SAR ",2022-03-24
+"Royal Jordanian, Air France",RUH,SVO,18h 25m ,3 stops ,"2,483 SAR ",2022-03-24
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,809 SAR ",2022-03-24
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,832 SAR ",2022-03-24
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,416 SAR ",2022-03-24
+"Egypt Air, KLM",RUH,SVO,21h 15m ,3 stops ,"2,480 SAR ",2022-03-24
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,340 SAR ",2022-03-25
+"SAUDIA, Nordwind Airlines",RUH,SVO,11h 50m ,1 stop ,"1,611 SAR ",2022-03-25
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 10m ,1 stop ,"1,726 SAR ",2022-03-25
+"Turkish Airlines, Aeroflot",RUH,SVO,12h 05m ,1 stop ,"1,903 SAR ",2022-03-25
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,876 SAR ",2022-03-25
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"1,903 SAR ",2022-03-25
+"MEA, Aeroflot",RUH,SVO,10h 20m ,1 stop ,"2,763 SAR ",2022-03-25
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,327 SAR ",2022-03-25
+KLM,RUH,SVO,16h 30m ,1 stop ,"2,498 SAR ",2022-03-25
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"2,651 SAR ",2022-03-25
+"SAUDIA, Air France",RUH,SVO,13h 15m ,1 stop ,"2,754 SAR ",2022-03-25
+"SAUDIA, Aeroflot",RUH,SVO,19h 55m ,1 stop ,"2,651 SAR ",2022-03-25
+"SAUDIA, Aeroflot",RUH,SVO,20h 50m ,1 stop ,"2,736 SAR ",2022-03-25
+"KLM, Aeroflot",RUH,SVO,16h 30m ,1 stop ,"2,812 SAR ",2022-03-25
+Air France,RUH,SVO,17h 30m ,1 stop ,"2,971 SAR ",2022-03-25
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"3,141 SAR ",2022-03-25
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"3,780 SAR ",2022-03-25
+Multiple Airlines,RUH,SVO,16h 20m ,2 stops ,"1,895 SAR ",2022-03-25
+"Turkish Airlines, KLM",RUH,SVO,19h 10m ,2 stops ,"1,936 SAR ",2022-03-25
+KLM,RUH,SVO,16h 30m ,2 stops ,"2,463 SAR ",2022-03-25
+Multiple Airlines,RUH,SVO,19h 10m ,3 stops ,"1,007 SAR ",2022-03-25
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,246 SAR ",2022-03-25
+Multiple Airlines,RUH,SVO,15h 45m ,3 stops ,"1,568 SAR ",2022-03-25
+"Egypt Air, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,503 SAR ",2022-03-25
+"Egypt Air, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,512 SAR ",2022-03-25
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,650 SAR ",2022-03-25
+"SAUDIA, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,774 SAR ",2022-03-25
+"SAUDIA, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,774 SAR ",2022-03-25
+Air France,RUH,SVO,19h 05m ,2 stops ,"2,881 SAR ",2022-03-25
+"Qatar Airways, Finnair",RUH,SVO,16h 00m ,2 stops ,"3,070 SAR ",2022-03-25
+"Egypt Air, Aeroflot",RUH,SVO,20h 10m ,2 stops ,"3,473 SAR ",2022-03-25
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,198 SAR ",2022-03-26
+"SAUDIA, Aeroflot",RUH,SVO,13h 10m ,1 stop ,"1,758 SAR ",2022-03-26
+"Turkish Airlines, Nordwind Airlines",RUH,SVO,15h 35m ,1 stop ,"1,687 SAR ",2022-03-26
+"flynas, Aeroflot",RUH,SVO,13h 30m ,1 stop ,"1,882 SAR ",2022-03-26
+Qatar Airways,RUH,SVO,9h 00m ,1 stop ,"2,192 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 50m ,1 stop ,"1,911 SAR ",2022-03-26
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,192 SAR ",2022-03-26
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,198 SAR ",2022-03-26
+"Egypt Air, Aeroflot",RUH,SVO,17h 05m ,1 stop ,"2,261 SAR ",2022-03-26
+"SAUDIA, Air France",RUH,SVO,13h 00m ,1 stop ,"2,754 SAR ",2022-03-26
+"SAUDIA, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"2,927 SAR ",2022-03-26
+"flydubai, Aeroflot",RUH,SVO,11h 40m ,1 stop ,"2,982 SAR ",2022-03-26
+"Emirates, Aeroflot",RUH,SVO,11h 25m ,1 stop ,"3,150 SAR ",2022-03-26
+"flynas, Finnair",RUH,SVO,16h 45m ,2 stops ,"1,482 SAR ",2022-03-26
+Multiple Airlines,RUH,SVO,14h 40m ,2 stops ,"1,758 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 30m ,2 stops ,"2,046 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,20h 35m ,2 stops ,"2,046 SAR ",2022-03-26
+"Gulf Air, Aeroflot",RUH,SVO,17h 05m ,2 stops ,"2,082 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 15m ,2 stops ,"2,258 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,283 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 00m ,2 stops ,"2,283 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 35m ,2 stops ,"2,283 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 30m ,2 stops ,"2,283 SAR ",2022-03-26
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 00m ,2 stops ,"2,449 SAR ",2022-03-26
+"Royal Jordanian, Aeroflot",RUH,SVO,12h 05m ,2 stops ,"2,532 SAR ",2022-03-26
+"Royal Jordanian, Aeroflot",RUH,SVO,16h 30m ,2 stops ,"2,532 SAR ",2022-03-26
+"SAUDIA, Aeroflot",RUH,SVO,20h 45m ,2 stops ,"2,774 SAR ",2022-03-26
+"flyadeal, Qatar Airways",RUH,SVO,12h 35m ,2 stops ,"2,849 SAR ",2022-03-26
+Multiple Airlines,RUH,SVO,19h 00m ,3 stops ,"1,243 SAR ",2022-03-26
+Multiple Airlines,RUH,SVO,19h 15m ,3 stops ,"1,492 SAR ",2022-03-26
+Multiple Airlines,RUH,SVO,18h 15m ,3 stops ,"2,315 SAR ",2022-03-26
+Multiple Airlines,RUH,SVO,18h 15m ,3 stops ,"2,315 SAR ",2022-03-26
+"Gulf Air, Brussels Airlines",RUH,SVO,16h 45m ,3 stops ,"2,532 SAR ",2022-03-26
+"Lufthansa, Aeroflot",RUH,SVO,21h 05m ,1 stop ,"12,124 SAR ",2022-03-26
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,264 SAR ",2022-03-27
+KLM,RUH,SVO,15h 35m ,1 stop ,"2,295 SAR ",2022-03-27
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,295 SAR ",2022-03-27
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,206 SAR ",2022-03-27
+"SAUDIA, Air France",RUH,SVO,15h 05m ,1 stop ,"2,754 SAR ",2022-03-27
+"Pegasus Airlines, Aeroflot",RUH,SVO,28h 20m ,2 stops ,"1,103 SAR ",2022-03-27
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,455 SAR ",2022-03-27
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 55m ,2 stops ,"1,866 SAR ",2022-03-27
+"Turkish Airlines, Aeroflot",RUH,SVO,15h 25m ,2 stops ,"2,169 SAR ",2022-03-27
+KLM,RUH,SVO,15h 35m ,2 stops ,"2,239 SAR ",2022-03-27
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,242 SAR ",2022-03-27
+KLM,RUH,SVO,15h 35m ,2 stops ,"2,349 SAR ",2022-03-27
+Air France,RUH,SVO,17h 15m ,2 stops ,"2,373 SAR ",2022-03-27
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-03-27
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-03-27
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,371 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,430 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,430 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,440 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,492 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,533 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,545 SAR ",2022-03-27
+"Gulf Air, KLM",RUH,SVO,17h 30m ,3 stops ,"1,653 SAR ",2022-03-27
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,704 SAR ",2022-03-27
+"Gulf Air, LOT",RUH,SVO,21h 10m ,3 stops ,"1,715 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,749 SAR ",2022-03-27
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,755 SAR ",2022-03-27
+"Gulf Air, KLM",RUH,SVO,19h 00m ,3 stops ,"1,832 SAR ",2022-03-27
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,246 SAR ",2022-03-28
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-03-28
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-03-28
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,295 SAR ",2022-03-28
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-03-28
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-03-28
+"Aegean Airlines, Bulgaria Air",RUH,SVO,15h 15m ,2 stops ,"1,869 SAR ",2022-03-28
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,092 SAR ",2022-03-28
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,242 SAR ",2022-03-28
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,373 SAR ",2022-03-28
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,373 SAR ",2022-03-28
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-03-28
+"Aegean Airlines, airBaltic",RUH,SVO,17h 05m ,3 stops ,"1,307 SAR ",2022-03-28
+"Etihad Airways, Air Serbia",RUH,SVO,17h 00m ,3 stops ,"1,433 SAR ",2022-03-28
+"Gulf Air, LOT",RUH,SVO,21h 10m ,3 stops ,"1,703 SAR ",2022-03-28
+"Gulf Air, KLM",RUH,SVO,17h 30m ,3 stops ,"2,099 SAR ",2022-03-28
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,340 SAR ",2022-03-28
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,407 SAR ",2022-03-28
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,222 SAR ",2022-03-29
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-03-29
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-03-29
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-03-29
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,983 SAR ,2022-03-29
+"British Airways, Finnair",RUH,SVO,18h 45m ,2 stops ,"1,781 SAR ",2022-03-29
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,157 SAR ",2022-03-29
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-03-29
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,171 SAR ",2022-03-29
+"Gulf Air, LOT",RUH,SVO,21h 10m ,3 stops ,"1,703 SAR ",2022-03-29
+"Gulf Air, KLM",RUH,SVO,17h 30m ,3 stops ,"1,798 SAR ",2022-03-29
+"Gulf Air, KLM",RUH,SVO,19h 00m ,3 stops ,"1,986 SAR ",2022-03-29
+"Qatar Airways, Finnair",RUH,SVO,20h 25m ,2 stops ,"3,094 SAR ",2022-03-29
+Multiple Airlines,RUH,SVO,16h 40m ,3 stops ,"4,232 SAR ",2022-03-29
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,228 SAR ",2022-03-30
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,295 SAR ",2022-03-30
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-03-30
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-03-30
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-03-30
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,983 SAR ,2022-03-30
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"1,941 SAR ",2022-03-30
+"British Airways, Finnair",RUH,SVO,18h 45m ,2 stops ,"1,781 SAR ",2022-03-30
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"1,853 SAR ",2022-03-30
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 50m ,2 stops ,"1,986 SAR ",2022-03-30
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,017 SAR ",2022-03-30
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,155 SAR ",2022-03-30
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,242 SAR ",2022-03-30
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-03-30
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-03-30
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,171 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,461 SAR ",2022-03-30
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,489 SAR ",2022-03-30
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,489 SAR ",2022-03-30
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,489 SAR ",2022-03-30
+"Etihad Airways, Air Serbia",RUH,SVO,16h 35m ,3 stops ,"1,494 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,533 SAR ",2022-03-30
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,603 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,616 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,619 SAR ",2022-03-30
+"Gulf Air, KLM",RUH,SVO,19h 00m ,3 stops ,"1,645 SAR ",2022-03-30
+Multiple Airlines,RUH,SVO,18h 10m ,3 stops ,"1,646 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,680 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,682 SAR ",2022-03-30
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"1,836 SAR ",2022-03-30
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,843 SAR ",2022-03-30
+"Gulf Air, KLM",RUH,SVO,17h 30m ,3 stops ,"1,986 SAR ",2022-03-30
+Multiple Airlines,RUH,SVO,16h 50m ,3 stops ,"4,254 SAR ",2022-03-30
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"9,510 SAR ",2022-03-30
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,327 SAR ",2022-03-31
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,317 SAR ",2022-03-31
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,295 SAR ",2022-03-31
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,317 SAR ",2022-03-31
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-03-31
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-03-31
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,981 SAR ,2022-03-31
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,591 SAR ",2022-03-31
+"British Airways, Finnair",RUH,SVO,18h 45m ,2 stops ,"1,781 SAR ",2022-03-31
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,166 SAR ",2022-03-31
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,171 SAR ",2022-03-31
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,244 SAR ",2022-03-31
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,728 SAR ",2022-03-31
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,728 SAR ",2022-03-31
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,847 SAR ",2022-03-31
+"SAUDIA, KLM",RUH,SVO,13h 50m ,2 stops ,"3,031 SAR ",2022-03-31
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,171 SAR ",2022-03-31
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,340 SAR ",2022-03-31
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,514 SAR ",2022-03-31
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,646 SAR ",2022-03-31
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,670 SAR ",2022-03-31
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,670 SAR ",2022-03-31
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,695 SAR ",2022-03-31
+"Gulf Air, LOT",RUH,SVO,21h 10m ,3 stops ,"1,703 SAR ",2022-03-31
+"Gulf Air, KLM",RUH,SVO,17h 30m ,3 stops ,"1,732 SAR ",2022-03-31
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,733 SAR ",2022-03-31
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,741 SAR ",2022-03-31
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"1,796 SAR ",2022-03-31
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,866 SAR ",2022-03-31
+"Gulf Air, KLM",RUH,SVO,18h 30m ,3 stops ,"1,885 SAR ",2022-03-31
+"SAUDIA, airBaltic",RUH,SVO,17h 40m ,2 stops ,"2,909 SAR ",2022-03-31
+"SAUDIA, Finnair",RUH,SVO,17h 05m ,2 stops ,"2,931 SAR ",2022-03-31
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"4,654 SAR ",2022-03-31
+Multiple Airlines,RUH,SVO,17h 20m ,3 stops ,"3,043 SAR ",2022-03-31
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-03-31
+"SAUDIA, KLM",RUH,SVO,16h 30m ,2 stops ,"8,516 SAR ",2022-03-31
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,341 SAR ",2022-04-01
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,331 SAR ",2022-04-01
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-01
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-01
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,022 SAR ",2022-04-01
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,530 SAR ",2022-04-01
+"Aegean Airlines, Finnair",RUH,SVO,16h 30m ,2 stops ,"1,633 SAR ",2022-04-01
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,024 SAR ",2022-04-01
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 55m ,2 stops ,"2,084 SAR ",2022-04-01
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,105 SAR ",2022-04-01
+"SAUDIA, Air France",RUH,SVO,15h 05m ,2 stops ,"2,996 SAR ",2022-04-01
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"3,062 SAR ",2022-04-01
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,070 SAR ",2022-04-01
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,355 SAR ",2022-04-01
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,356 SAR ",2022-04-01
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,362 SAR ",2022-04-01
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,396 SAR ",2022-04-01
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,396 SAR ",2022-04-01
+Multiple Airlines,RUH,SVO,18h 05m ,3 stops ,"1,452 SAR ",2022-04-01
+"Aegean Airlines, Finnair",RUH,SVO,16h 30m ,3 stops ,"1,673 SAR ",2022-04-01
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,691 SAR ",2022-04-01
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,691 SAR ",2022-04-01
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,499 SAR ",2022-04-01
+"SAUDIA, KLM",RUH,SVO,16h 30m ,2 stops ,"8,516 SAR ",2022-04-01
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"9,332 SAR ",2022-04-01
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"9,332 SAR ",2022-04-01
+"SAUDIA, KLM",RUH,SVO,14h 25m ,2 stops ,"9,345 SAR ",2022-04-01
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,285 SAR ",2022-04-02
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-04-02
+Multiple Airlines,RUH,SVO,38h 35m ,3 stops ,"1,450 SAR ",2022-04-02
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-02
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-02
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-02
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-02
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,083 SAR ",2022-04-02
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,244 SAR ",2022-04-02
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-02
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-02
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-02
+"SAUDIA, Air France",RUH,SVO,14h 40m ,2 stops ,"3,399 SAR ",2022-04-02
+"Gulf Air, Brussels Airlines",RUH,SVO,20h 55m ,3 stops ,"2,552 SAR ",2022-04-02
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,991 SAR ",2022-04-02
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,499 SAR ",2022-04-02
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-02
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-02
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,547 SAR ",2022-04-02
+"SAUDIA, KLM",RUH,SVO,16h 05m ,2 stops ,"9,368 SAR ",2022-04-02
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,221 SAR ",2022-04-03
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-03
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,141 SAR ",2022-04-03
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-03
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-03
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-03
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,530 SAR ",2022-04-03
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,156 SAR ",2022-04-03
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,244 SAR ",2022-04-03
+"SAUDIA, Finnair",RUH,SVO,17h 05m ,2 stops ,"2,926 SAR ",2022-04-03
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,929 SAR ",2022-04-03
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-03
+"SAUDIA, Air France",RUH,SVO,15h 30m ,2 stops ,"3,000 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,13h 50m ,2 stops ,"3,026 SAR ",2022-04-03
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,356 SAR ",2022-04-03
+Multiple Airlines,RUH,SVO,20h 45m ,3 stops ,"1,450 SAR ",2022-04-03
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,487 SAR ",2022-04-03
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,487 SAR ",2022-04-03
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,525 SAR ",2022-04-03
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,585 SAR ",2022-04-03
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,741 SAR ",2022-04-03
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,742 SAR ",2022-04-03
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,166 SAR ",2022-04-03
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"4,146 SAR ",2022-04-03
+"SAUDIA, Air France",RUH,SVO,17h 15m ,2 stops ,"6,883 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,499 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,16h 30m ,2 stops ,"8,516 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,13h 50m ,2 stops ,"8,520 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,16h 20m ,2 stops ,"8,581 SAR ",2022-04-03
+"SAUDIA, KLM",RUH,SVO,16h 20m ,2 stops ,"8,581 SAR ",2022-04-03
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,195 SAR ",2022-04-04
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,195 SAR ",2022-04-04
+"Etihad Airways, Air Serbia",RUH,SVO,17h 00m ,3 stops ,"1,394 SAR ",2022-04-04
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,195 SAR ",2022-04-04
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-04
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-04
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-04
+"Pegasus Airlines, Air Serbia",RUH,SVO,16h 10m ,2 stops ,"1,576 SAR ",2022-04-04
+"Aegean Airlines, Bulgaria Air",RUH,SVO,15h 15m ,2 stops ,"1,715 SAR ",2022-04-04
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,084 SAR ",2022-04-04
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-04
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,373 SAR ",2022-04-04
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-04
+"Etihad Airways, KLM",RUH,SVO,17h 15m ,2 stops ,"2,895 SAR ",2022-04-04
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-04
+"SAUDIA, KLM",RUH,SVO,18h 50m ,2 stops ,"3,090 SAR ",2022-04-04
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"3,180 SAR ",2022-04-04
+"Aegean Airlines, airBaltic",RUH,SVO,17h 05m ,3 stops ,"1,454 SAR ",2022-04-04
+"Aegean Airlines, Finnair",RUH,SVO,16h 30m ,3 stops ,"1,834 SAR ",2022-04-04
+"Egypt Air, Air Serbia",RUH,SVO,17h 25m ,3 stops ,"2,076 SAR ",2022-04-04
+"SAUDIA, Air France",RUH,SVO,19h 50m ,2 stops ,"3,180 SAR ",2022-04-04
+"SAUDIA, Air France",RUH,SVO,17h 15m ,2 stops ,"5,557 SAR ",2022-04-04
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,499 SAR ",2022-04-04
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-04
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,547 SAR ",2022-04-04
+"SAUDIA, KLM",RUH,SVO,16h 05m ,2 stops ,"9,368 SAR ",2022-04-04
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,222 SAR ",2022-04-06
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 00m ,1 stop ,"1,808 SAR ",2022-04-06
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,966 SAR ,2022-04-06
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,295 SAR ",2022-04-06
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-06
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-06
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-06
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 50m ,2 stops ,"1,825 SAR ",2022-04-06
+"Gulf Air, Aeroflot",RUH,SVO,18h 40m ,2 stops ,"1,987 SAR ",2022-04-06
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,088 SAR ",2022-04-06
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,118 SAR ",2022-04-06
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-06
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 40m ,2 stops ,"2,022 SAR ",2022-04-06
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 40m ,2 stops ,"2,059 SAR ",2022-04-06
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"2,143 SAR ",2022-04-06
+"Royal Jordanian, Aeroflot",RUH,SVO,18h 25m ,2 stops ,"2,161 SAR ",2022-04-06
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,164 SAR ",2022-04-06
+"Emirates, Aeroflot",RUH,SVO,15h 35m ,2 stops ,"2,279 SAR ",2022-04-06
+"SAUDIA, Air France",RUH,SVO,18h 05m ,2 stops ,"2,754 SAR ",2022-04-06
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,929 SAR ",2022-04-06
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-06
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"1,192 SAR ",2022-04-06
+"Etihad Airways, Air Serbia",RUH,SVO,16h 35m ,3 stops ,"1,334 SAR ",2022-04-06
+Multiple Airlines,RUH,SVO,18h 10m ,3 stops ,"1,499 SAR ",2022-04-06
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,095 SAR ",2022-04-06
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,099 SAR ",2022-04-06
+"Turkish Airlines, Finnair",RUH,SVO,18h 00m ,3 stops ,"2,169 SAR ",2022-04-06
+"Gulf Air, KLM",RUH,SVO,19h 00m ,3 stops ,"2,322 SAR ",2022-04-06
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,350 SAR ",2022-04-06
+"Royal Jordanian, Air Serbia",RUH,SVO,14h 15m ,3 stops ,"2,354 SAR ",2022-04-06
+"Royal Jordanian, Air France",RUH,SVO,17h 20m ,3 stops ,"2,483 SAR ",2022-04-06
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,496 SAR ",2022-04-06
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,560 SAR ",2022-04-06
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,639 SAR ",2022-04-06
+"Etihad Airways, Air France",RUH,SVO,15h 25m ,2 stops ,"3,033 SAR ",2022-04-06
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"3,180 SAR ",2022-04-06
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,694 SAR ",2022-04-06
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,694 SAR ",2022-04-06
+Multiple Airlines,RUH,SVO,18h 35m ,3 stops ,"3,071 SAR ",2022-04-06
+Multiple Airlines,RUH,SVO,16h 50m ,3 stops ,"4,156 SAR ",2022-04-06
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,499 SAR ",2022-04-06
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-06
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-06
+"SAUDIA, KLM",RUH,SVO,15h 45m ,2 stops ,"8,547 SAR ",2022-04-06
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,432 SAR ",2022-04-07
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,318 SAR ",2022-04-07
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,179 SAR ",2022-04-07
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,318 SAR ",2022-04-07
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,498 SAR ",2022-04-07
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-07
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-07
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,581 SAR ",2022-04-07
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,015 SAR ",2022-04-07
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,2 stops ,"2,049 SAR ",2022-04-07
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,129 SAR ",2022-04-07
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,132 SAR ",2022-04-07
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,163 SAR ",2022-04-07
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,479 SAR ",2022-04-07
+"SAUDIA, airBaltic",RUH,SVO,17h 40m ,2 stops ,"2,852 SAR ",2022-04-07
+"Etihad Airways, Air France",RUH,SVO,15h 25m ,2 stops ,"3,033 SAR ",2022-04-07
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"3,180 SAR ",2022-04-07
+"SAUDIA, Air France",RUH,SVO,19h 50m ,2 stops ,"3,180 SAR ",2022-04-07
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,289 SAR ",2022-04-07
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,370 SAR ",2022-04-07
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"1,399 SAR ",2022-04-07
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,468 SAR ",2022-04-07
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,533 SAR ",2022-04-07
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,533 SAR ",2022-04-07
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,568 SAR ",2022-04-07
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,606 SAR ",2022-04-07
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,634 SAR ",2022-04-07
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,908 SAR ",2022-04-07
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,002 SAR ",2022-04-07
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,184 SAR ",2022-04-07
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,887 SAR ",2022-04-07
+"SAUDIA, LOT",RUH,SVO,17h 30m ,2 stops ,"3,210 SAR ",2022-04-07
+"SAUDIA, KLM",RUH,SVO,13h 50m ,2 stops ,"3,855 SAR ",2022-04-07
+"SAUDIA, Air France",RUH,SVO,17h 15m ,2 stops ,"4,118 SAR ",2022-04-07
+Air France,RUH,SVO,18h 00m ,2 stops ,"4,971 SAR ",2022-04-07
+Air France,RUH,SVO,18h 00m ,2 stops ,"4,971 SAR ",2022-04-07
+"KLM, Air France",RUH,SVO,18h 00m ,3 stops ,"3,849 SAR ",2022-04-07
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,499 SAR ",2022-04-07
+"SAUDIA, KLM",RUH,SVO,14h 20m ,2 stops ,"8,508 SAR ",2022-04-07
+"SAUDIA, KLM",RUH,SVO,16h 30m ,2 stops ,"8,516 SAR ",2022-04-07
+"SAUDIA, KLM",RUH,SVO,16h 20m ,2 stops ,"8,581 SAR ",2022-04-07
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,358 SAR ",2022-04-08
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,331 SAR ",2022-04-08
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,280 SAR ",2022-04-08
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-08
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-08
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 55m ,2 stops ,"2,084 SAR ",2022-04-08
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,105 SAR ",2022-04-08
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,193 SAR ",2022-04-08
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,228 SAR ",2022-04-08
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,423 SAR ",2022-04-08
+"Aegean Airlines, Finnair",RUH,SVO,16h 30m ,2 stops ,"2,435 SAR ",2022-04-08
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,461 SAR ",2022-04-08
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"3,127 SAR ",2022-04-08
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,289 SAR ",2022-04-08
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,334 SAR ",2022-04-08
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,452 SAR ",2022-04-08
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,531 SAR ",2022-04-08
+"Aegean Airlines, Air Serbia",RUH,SVO,18h 15m ,3 stops ,"1,547 SAR ",2022-04-08
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,558 SAR ",2022-04-08
+"Aegean Airlines, LOT",RUH,SVO,16h 55m ,3 stops ,"1,770 SAR ",2022-04-08
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,787 SAR ",2022-04-08
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"1,822 SAR ",2022-04-08
+Multiple Airlines,RUH,SVO,19h 45m ,3 stops ,"1,869 SAR ",2022-04-08
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,003 SAR ",2022-04-08
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,071 SAR ",2022-04-08
+"Turkish Airlines, Finnair",RUH,SVO,18h 00m ,3 stops ,"2,252 SAR ",2022-04-08
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,261 SAR ",2022-04-08
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,340 SAR ",2022-04-08
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,379 SAR ",2022-04-08
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"6,869 SAR ",2022-04-08
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,242 SAR ",2022-04-09
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-04-09
+Multiple Airlines,RUH,SVO,38h 35m ,3 stops ,"1,461 SAR ",2022-04-09
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-09
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,553 SAR ",2022-04-09
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-09
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-09
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,054 SAR ",2022-04-09
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,054 SAR ",2022-04-09
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,468 SAR ",2022-04-09
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-09
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,728 SAR ",2022-04-09
+"SAUDIA, Qatar Airways",RUH,SVO,11h 25m ,2 stops ,"2,838 SAR ",2022-04-09
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,159 SAR ",2022-04-09
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,3 stops ,"2,496 SAR ",2022-04-09
+"Gulf Air, Brussels Airlines",RUH,SVO,16h 20m ,3 stops ,"2,552 SAR ",2022-04-09
+"Gulf Air, Brussels Airlines",RUH,SVO,20h 55m ,3 stops ,"2,552 SAR ",2022-04-09
+"MEA, Brussels Airlines",RUH,SVO,17h 45m ,3 stops ,"2,633 SAR ",2022-04-09
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,887 SAR ",2022-04-09
+"SAUDIA, Air France",RUH,SVO,20h 15m ,2 stops ,"6,544 SAR ",2022-04-09
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,239 SAR ",2022-04-10
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-10
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,246 SAR ",2022-04-10
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-10
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-10
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-10
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,581 SAR ",2022-04-10
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,124 SAR ",2022-04-10
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-10
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-04-10
+"SAUDIA, LOT",RUH,SVO,17h 30m ,2 stops ,"3,134 SAR ",2022-04-10
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,159 SAR ",2022-04-10
+Multiple Airlines,RUH,SVO,20h 45m ,3 stops ,"1,461 SAR ",2022-04-10
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"1,874 SAR ",2022-04-10
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,122 SAR ",2022-04-10
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,240 SAR ",2022-04-10
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,428 SAR ",2022-04-10
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,474 SAR ",2022-04-10
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,474 SAR ",2022-04-10
+"Gulf Air, Brussels Airlines",RUH,SVO,20h 55m ,3 stops ,"2,532 SAR ",2022-04-10
+"MEA, Brussels Airlines",RUH,SVO,17h 45m ,3 stops ,"2,613 SAR ",2022-04-10
+Multiple Airlines,RUH,SVO,16h 45m ,2 stops ,"3,312 SAR ",2022-04-10
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,210 SAR ",2022-04-11
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-04-11
+"Etihad Airways, Air Serbia",RUH,SVO,17h 00m ,3 stops ,"1,418 SAR ",2022-04-11
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-11
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-11
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-11
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-11
+"Pegasus Airlines, Air Serbia",RUH,SVO,16h 10m ,2 stops ,"1,711 SAR ",2022-04-11
+"Aegean Airlines, Bulgaria Air",RUH,SVO,15h 15m ,2 stops ,"1,731 SAR ",2022-04-11
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,046 SAR ",2022-04-11
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-11
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-11
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-11
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-11
+Multiple Airlines,RUH,SVO,18h 05m ,3 stops ,"1,622 SAR ",2022-04-11
+"Aegean Airlines, airBaltic",RUH,SVO,17h 05m ,3 stops ,"1,696 SAR ",2022-04-11
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,255 SAR ",2022-04-11
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,323 SAR ",2022-04-11
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"6,544 SAR ",2022-04-11
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-12
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-12
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,115 SAR ",2022-04-12
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-12
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-12
+Multiple Airlines,RUH,SVO,20h 20m ,2 stops ,"1,503 SAR ",2022-04-12
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"1,927 SAR ",2022-04-12
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,090 SAR ",2022-04-12
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,164 SAR ",2022-04-12
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,257 SAR ",2022-04-12
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-12
+"SAUDIA, Qatar Airways",RUH,SVO,13h 50m ,2 stops ,"3,083 SAR ",2022-04-12
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"1,465 SAR ",2022-04-12
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"1,481 SAR ",2022-04-12
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,523 SAR ",2022-04-12
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,694 SAR ",2022-04-12
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,800 SAR ",2022-04-12
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,858 SAR ",2022-04-12
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,015 SAR ",2022-04-12
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,106 SAR ",2022-04-12
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,118 SAR ",2022-04-12
+Multiple Airlines,RUH,SVO,19h 35m ,3 stops ,"2,118 SAR ",2022-04-12
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,153 SAR ",2022-04-12
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,194 SAR ",2022-04-12
+"SAUDIA, Qatar Airways",RUH,SVO,20h 50m ,3 stops ,"3,087 SAR ",2022-04-12
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,263 SAR ",2022-04-13
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-13
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,251 SAR ",2022-04-13
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-13
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-13
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-13
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 50m ,2 stops ,"2,001 SAR ",2022-04-13
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,088 SAR ",2022-04-13
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 40m ,2 stops ,"2,022 SAR ",2022-04-13
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 40m ,2 stops ,"2,059 SAR ",2022-04-13
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,088 SAR ",2022-04-13
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,157 SAR ",2022-04-13
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-13
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,903 SAR ",2022-04-13
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-04-13
+"Etihad Airways, Air Serbia",RUH,SVO,16h 35m ,3 stops ,"1,356 SAR ",2022-04-13
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,095 SAR ",2022-04-13
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,121 SAR ",2022-04-13
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,263 SAR ",2022-04-13
+Multiple Airlines,RUH,SVO,17h 40m ,3 stops ,"2,263 SAR ",2022-04-13
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,263 SAR ",2022-04-13
+Multiple Airlines,RUH,SVO,19h 35m ,3 stops ,"2,263 SAR ",2022-04-13
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,3 stops ,"2,431 SAR ",2022-04-13
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,560 SAR ",2022-04-13
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,886 SAR ",2022-04-13
+Multiple Airlines,RUH,SVO,16h 50m ,3 stops ,"4,752 SAR ",2022-04-13
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,378 SAR ",2022-04-14
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,318 SAR ",2022-04-14
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,170 SAR ",2022-04-14
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,318 SAR ",2022-04-14
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,730 SAR ",2022-04-14
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-14
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-14
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,177 SAR ",2022-04-14
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,756 SAR ",2022-04-14
+"SAUDIA, airBaltic",RUH,SVO,17h 40m ,2 stops ,"2,873 SAR ",2022-04-14
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,923 SAR ",2022-04-14
+Air France,RUH,SVO,18h 00m ,2 stops ,"3,151 SAR ",2022-04-14
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,289 SAR ",2022-04-14
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,623 SAR ",2022-04-14
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,657 SAR ",2022-04-14
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"1,724 SAR ",2022-04-14
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,009 SAR ",2022-04-14
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,095 SAR ",2022-04-14
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-14
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,342 SAR ",2022-04-15
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-15
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,356 SAR ",2022-04-15
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,331 SAR ",2022-04-15
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-15
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,277 SAR ",2022-04-15
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"3,127 SAR ",2022-04-15
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,289 SAR ",2022-04-15
+"Aegean Airlines, LOT",RUH,SVO,16h 55m ,3 stops ,"1,803 SAR ",2022-04-15
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,323 SAR ",2022-04-15
+"Emirates, airBaltic",RUH,SVO,21h 05m ,3 stops ,"2,889 SAR ",2022-04-15
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"2,894 SAR ",2022-04-15
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"3,034 SAR ",2022-04-15
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"6,869 SAR ",2022-04-15
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,189 SAR ",2022-04-16
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,189 SAR ",2022-04-16
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,092 SAR ",2022-04-16
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,189 SAR ",2022-04-16
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-16
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-16
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-16
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-16
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,691 SAR ",2022-04-16
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,691 SAR ",2022-04-16
+"SAUDIA, Qatar Airways",RUH,SVO,11h 25m ,2 stops ,"2,890 SAR ",2022-04-16
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,159 SAR ",2022-04-16
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,571 SAR ",2022-04-16
+"Gulf Air, Brussels Airlines",RUH,SVO,16h 20m ,3 stops ,"2,698 SAR ",2022-04-16
+"Gulf Air, Brussels Airlines",RUH,SVO,20h 55m ,3 stops ,"2,698 SAR ",2022-04-16
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,769 SAR ",2022-04-16
+"MEA, Brussels Airlines",RUH,SVO,17h 45m ,3 stops ,"2,780 SAR ",2022-04-16
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-16
+"SAUDIA, Air France",RUH,SVO,20h 15m ,2 stops ,"6,544 SAR ",2022-04-16
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,261 SAR ",2022-04-17
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-17
+Multiple Airlines,RUH,SVO,20h 45m ,3 stops ,"1,409 SAR ",2022-04-17
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-17
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-17
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-17
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,171 SAR ",2022-04-17
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-17
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-04-17
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,159 SAR ",2022-04-17
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,095 SAR ",2022-04-17
+"Gulf Air, Brussels Airlines",RUH,SVO,20h 55m ,3 stops ,"2,532 SAR ",2022-04-17
+"MEA, Brussels Airlines",RUH,SVO,17h 45m ,3 stops ,"2,613 SAR ",2022-04-17
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,694 SAR ",2022-04-17
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,694 SAR ",2022-04-17
+"Oman Air, KLM",RUH,SVO,18h 50m ,3 stops ,"2,785 SAR ",2022-04-17
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"2,894 SAR ",2022-04-17
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-17
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,211 SAR ",2022-04-18
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-04-18
+"Etihad Airways, Air Serbia",RUH,SVO,17h 00m ,3 stops ,"1,480 SAR ",2022-04-18
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-18
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-18
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-18
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-18
+"Aegean Airlines, Bulgaria Air",RUH,SVO,15h 15m ,2 stops ,"1,734 SAR ",2022-04-18
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,157 SAR ",2022-04-18
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-18
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-18
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-18
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,694 SAR ",2022-04-18
+"SAUDIA, Qatar Airways",RUH,SVO,11h 25m ,2 stops ,"2,741 SAR ",2022-04-18
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,159 SAR ",2022-04-18
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,255 SAR ",2022-04-18
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,323 SAR ",2022-04-18
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,457 SAR ",2022-04-18
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,457 SAR ",2022-04-18
+"Gulf Air, Brussels Airlines",RUH,SVO,16h 20m ,3 stops ,"2,698 SAR ",2022-04-18
+"Gulf Air, LOT",RUH,SVO,21h 10m ,3 stops ,"2,723 SAR ",2022-04-18
+"MEA, Brussels Airlines",RUH,SVO,17h 45m ,3 stops ,"2,780 SAR ",2022-04-18
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,802 SAR ",2022-04-18
+"Turkish Airlines, airBaltic",RUH,SVO,18h 50m ,3 stops ,"2,802 SAR ",2022-04-18
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-18
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"6,869 SAR ",2022-04-18
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,289 SAR ",2022-04-19
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-19
+"Pegasus Airlines, Aeroflot",RUH,SVO,28h 20m ,2 stops ,"1,259 SAR ",2022-04-19
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 00m ,1 stop ,"2,120 SAR ",2022-04-19
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-19
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-19
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"1,863 SAR ",2022-04-19
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,090 SAR ",2022-04-19
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,090 SAR ",2022-04-19
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,171 SAR ",2022-04-19
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,708 SAR ",2022-04-19
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"1,480 SAR ",2022-04-19
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"1,562 SAR ",2022-04-19
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,862 SAR ",2022-04-19
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,878 SAR ",2022-04-19
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,185 SAR ",2022-04-19
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,193 SAR ",2022-04-19
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"2,822 SAR ",2022-04-19
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"6,544 SAR ",2022-04-19
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,224 SAR ",2022-04-20
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-20
+"Etihad Airways, Air Serbia",RUH,SVO,16h 35m ,3 stops ,"1,356 SAR ",2022-04-20
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-20
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,553 SAR ",2022-04-20
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-20
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,099 SAR ",2022-04-20
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"1,853 SAR ",2022-04-20
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 50m ,2 stops ,"2,001 SAR ",2022-04-20
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 40m ,2 stops ,"2,022 SAR ",2022-04-20
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 40m ,2 stops ,"2,059 SAR ",2022-04-20
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,319 SAR ",2022-04-20
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,323 SAR ",2022-04-20
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,468 SAR ",2022-04-20
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 50m ,2 stops ,"2,323 SAR ",2022-04-20
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,378 SAR ",2022-04-20
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-20
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-04-20
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"1,462 SAR ",2022-04-20
+Multiple Airlines,RUH,SVO,18h 10m ,3 stops ,"1,526 SAR ",2022-04-20
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"1,856 SAR ",2022-04-20
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,193 SAR ",2022-04-20
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,253 SAR ",2022-04-20
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,3 stops ,"2,282 SAR ",2022-04-20
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,298 SAR ",2022-04-20
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,322 SAR ",2022-04-20
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,3 stops ,"2,618 SAR ",2022-04-20
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,620 SAR ",2022-04-20
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,428 SAR ",2022-04-21
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,320 SAR ",2022-04-21
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,150 SAR ",2022-04-21
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,320 SAR ",2022-04-21
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-21
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,813 SAR ",2022-04-21
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-21
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,538 SAR ",2022-04-21
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,013 SAR ",2022-04-21
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,147 SAR ",2022-04-21
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,177 SAR ",2022-04-21
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,2 stops ,"2,187 SAR ",2022-04-21
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"2,333 SAR ",2022-04-21
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,382 SAR ",2022-04-21
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,667 SAR ",2022-04-21
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,728 SAR ",2022-04-21
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,847 SAR ",2022-04-21
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,923 SAR ",2022-04-21
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,744 SAR ",2022-04-21
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,830 SAR ",2022-04-21
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,856 SAR ",2022-04-21
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,996 SAR ",2022-04-21
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,095 SAR ",2022-04-21
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,560 SAR ",2022-04-21
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-21
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,354 SAR ",2022-04-22
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,333 SAR ",2022-04-22
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,178 SAR ",2022-04-22
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-22
+"Pegasus Airlines, Air Serbia",RUH,SVO,15h 50m ,2 stops ,"1,591 SAR ",2022-04-22
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,012 SAR ",2022-04-22
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 55m ,2 stops ,"2,089 SAR ",2022-04-22
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,108 SAR ",2022-04-22
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,275 SAR ",2022-04-22
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,297 SAR ",2022-04-22
+"Turkish Airlines, Air Malta",RUH,SVO,20h 55m ,2 stops ,"2,364 SAR ",2022-04-22
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,464 SAR ",2022-04-22
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"3,070 SAR ",2022-04-22
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"3,127 SAR ",2022-04-22
+"Etihad Airways, Air Serbia",RUH,SVO,16h 40m ,3 stops ,"1,269 SAR ",2022-04-22
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,878 SAR ",2022-04-22
+"Aegean Airlines, LOT",RUH,SVO,16h 55m ,3 stops ,"1,886 SAR ",2022-04-22
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,917 SAR ",2022-04-22
+"Royal Jordanian, airBaltic",RUH,SVO,18h 15m ,3 stops ,"2,323 SAR ",2022-04-22
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,381 SAR ",2022-04-22
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"2,894 SAR ",2022-04-22
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-22
+Multiple Airlines,RUH,SVO,16h 40m ,3 stops ,"4,435 SAR ",2022-04-22
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"6,869 SAR ",2022-04-22
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-22
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,241 SAR ",2022-04-23
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-04-23
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,084 SAR ",2022-04-23
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-23
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-23
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-23
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,349 SAR ",2022-04-23
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-23
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,708 SAR ",2022-04-23
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,728 SAR ",2022-04-23
+"Gulf Air, Air France",RUH,SVO,19h 10m ,3 stops ,"2,605 SAR ",2022-04-23
+"Oman Air, Air France",RUH,SVO,20h 30m ,3 stops ,"2,626 SAR ",2022-04-23
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,3 stops ,"2,656 SAR ",2022-04-23
+"Gulf Air, LOT",RUH,SVO,21h 10m ,3 stops ,"2,674 SAR ",2022-04-23
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,3 stops ,"2,782 SAR ",2022-04-23
+"Turkish Airlines, Air France",RUH,SVO,17h 55m ,3 stops ,"2,874 SAR ",2022-04-23
+"Gulf Air, Bulgaria Air",RUH,SVO,19h 30m ,3 stops ,"2,896 SAR ",2022-04-23
+"Pegasus Airlines, LOT",RUH,SVO,14h 30m ,3 stops ,"2,939 SAR ",2022-04-23
+"MEA, Bulgaria Air",RUH,SVO,20h 55m ,3 stops ,"2,978 SAR ",2022-04-23
+Multiple Airlines,RUH,SVO,19h 20m ,3 stops ,"3,017 SAR ",2022-04-23
+Multiple Airlines,RUH,SVO,19h 20m ,3 stops ,"3,017 SAR ",2022-04-23
+"Lufthansa, Finnair",RUH,SVO,17h 25m ,2 stops ,"4,615 SAR ",2022-04-23
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,241 SAR ",2022-04-24
+Qatar Airways,RUH,SVO,20h 00m ,1 stop ,"2,209 SAR ",2022-04-24
+"Egypt Air, Air France",RUH,SVO,35h 05m ,3 stops ,"1,478 SAR ",2022-04-24
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,325 SAR ",2022-04-24
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-24
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-24
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"1,948 SAR ",2022-04-24
+"Turkish Airlines, Air Serbia",RUH,SVO,14h 55m ,2 stops ,"2,007 SAR ",2022-04-24
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,028 SAR ",2022-04-24
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,245 SAR ",2022-04-24
+"Turkish Airlines, Air Serbia",RUH,SVO,19h 45m ,2 stops ,"2,117 SAR ",2022-04-24
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,245 SAR ",2022-04-24
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,310 SAR ",2022-04-24
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 50m ,2 stops ,"2,310 SAR ",2022-04-24
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,310 SAR ",2022-04-24
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,384 SAR ",2022-04-24
+"Turkish Airlines, Bulgaria Air",RUH,SVO,16h 45m ,2 stops ,"2,564 SAR ",2022-04-24
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-24
+"Oman Air, Qatar Airways",RUH,SVO,15h 55m ,2 stops ,"2,997 SAR ",2022-04-24
+"SAUDIA, LOT",RUH,SVO,17h 30m ,2 stops ,"3,010 SAR ",2022-04-24
+Multiple Airlines,RUH,SVO,20h 45m ,3 stops ,"1,731 SAR ",2022-04-24
+"Egypt Air, Air Serbia",RUH,SVO,17h 05m ,3 stops ,"2,090 SAR ",2022-04-24
+"Egypt Air, airBaltic",RUH,SVO,21h 00m ,3 stops ,"2,095 SAR ",2022-04-24
+Multiple Airlines,RUH,SVO,16h 05m ,3 stops ,"2,171 SAR ",2022-04-24
+Multiple Airlines,RUH,SVO,17h 40m ,3 stops ,"2,171 SAR ",2022-04-24
+Multiple Airlines,RUH,SVO,18h 50m ,3 stops ,"2,171 SAR ",2022-04-24
+Multiple Airlines,RUH,SVO,19h 35m ,3 stops ,"2,171 SAR ",2022-04-24
+Multiple Airlines,RUH,SVO,14h 20m ,3 stops ,"2,177 SAR ",2022-04-24
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,211 SAR ",2022-04-25
+Qatar Airways,RUH,SVO,8h 00m ,1 stop ,"2,196 SAR ",2022-04-25
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,041 SAR ",2022-04-25
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-25
+KLM,RUH,SVO,16h 20m ,1 stop ,"2,553 SAR ",2022-04-25
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-25
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-25
+"Pegasus Airlines, Air Serbia",RUH,SVO,16h 10m ,2 stops ,"1,759 SAR ",2022-04-25
+"Turkish Airlines, Air Serbia",RUH,SVO,15h 15m ,2 stops ,"2,060 SAR ",2022-04-25
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"2,092 SAR ",2022-04-25
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"2,038 SAR ",2022-04-25
+"Turkish Airlines, Air Serbia",RUH,SVO,20h 05m ,2 stops ,"2,081 SAR ",2022-04-25
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,373 SAR ",2022-04-25
+KLM,RUH,SVO,16h 20m ,2 stops ,"2,468 SAR ",2022-04-25
+Air France,RUH,SVO,18h 00m ,2 stops ,"2,566 SAR ",2022-04-25
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,772 SAR ",2022-04-25
+"Etihad Airways, Air Serbia",RUH,SVO,17h 00m ,3 stops ,"1,368 SAR ",2022-04-25
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,665 SAR ",2022-04-25
+"Aegean Airlines, Air Serbia",RUH,SVO,18h 35m ,3 stops ,"1,694 SAR ",2022-04-25
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,783 SAR ",2022-04-25
+"Pegasus Airlines, airBaltic",RUH,SVO,19h 45m ,3 stops ,"1,994 SAR ",2022-04-25
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"2,130 SAR ",2022-04-25
+Multiple Airlines,RUH,SVO,14h 40m ,3 stops ,"2,256 SAR ",2022-04-25
+"Royal Jordanian, KLM",RUH,SVO,18h 45m ,3 stops ,"2,258 SAR ",2022-04-25
+Multiple Airlines,RUH,SVO,16h 30m ,3 stops ,"4,438 SAR ",2022-04-25
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,197 SAR ",2022-04-26
+Qatar Airways,RUH,SVO,14h 40m ,1 stop ,"2,196 SAR ",2022-04-26
+"Pegasus Airlines, Aeroflot",RUH,SVO,27h 15m ,2 stops ,"1,041 SAR ",2022-04-26
+"SAUDIA, Air France",RUH,SVO,12h 30m ,1 stop ,"2,754 SAR ",2022-04-26
+"SAUDIA, Air France",RUH,SVO,16h 00m ,1 stop ,"2,754 SAR ",2022-04-26
+"Turkish Airlines, LOT",RUH,SVO,12h 25m ,2 stops ,"1,941 SAR ",2022-04-26
+"Turkish Airlines, LOT",RUH,SVO,18h 25m ,2 stops ,"2,088 SAR ",2022-04-26
+"Turkish Airlines, Aeroflot",RUH,SVO,16h 05m ,2 stops ,"2,197 SAR ",2022-04-26
+"Turkish Airlines, KLM",RUH,SVO,19h 20m ,2 stops ,"2,177 SAR ",2022-04-26
+"Turkish Airlines, Air Malta",RUH,SVO,20h 55m ,2 stops ,"2,262 SAR ",2022-04-26
+"Turkish Airlines, Aeroflot",RUH,SVO,17h 40m ,2 stops ,"2,277 SAR ",2022-04-26
+"Turkish Airlines, Aeroflot",RUH,SVO,18h 50m ,2 stops ,"2,277 SAR ",2022-04-26
+"Turkish Airlines, Aeroflot",RUH,SVO,19h 35m ,2 stops ,"2,277 SAR ",2022-04-26
+"Turkish Airlines, Aeroflot",RUH,SVO,21h 15m ,2 stops ,"2,277 SAR ",2022-04-26
+"Qatar Airways, Finnair",RUH,SVO,14h 10m ,2 stops ,"2,940 SAR ",2022-04-26
+"Pegasus Airlines, airBaltic",RUH,SVO,14h 40m ,3 stops ,"1,407 SAR ",2022-04-26
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,551 SAR ",2022-04-26
+"Pegasus Airlines, KLM",RUH,SVO,20h 15m ,3 stops ,"1,949 SAR ",2022-04-26
+"Turkish Airlines, Finnair",RUH,SVO,18h 00m ,3 stops ,"2,169 SAR ",2022-04-26
+"Egypt Air, Air France",RUH,SVO,20h 05m ,3 stops ,"2,200 SAR ",2022-04-26
+"Turkish Airlines, airBaltic",RUH,SVO,18h 35m ,3 stops ,"2,227 SAR ",2022-04-26
+Multiple Airlines,RUH,SVO,16h 40m ,3 stops ,"4,360 SAR ",2022-04-26
+"SAUDIA, Air France",RUH,SVO,17h 55m ,2 stops ,"7,255 SAR ",2022-04-26

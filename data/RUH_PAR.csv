@@ -1,0 +1,554 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-02
+Turkish Airlines,RUH,PAR,13h 00m ,1 stop ,"1,551 SAR ",2022-02-02
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,832 SAR ",2022-02-02
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,920 SAR ",2022-02-02
+Emirates,RUH,PAR,11h 40m ,1 stop ,"2,028 SAR ",2022-02-02
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,399 SAR ",2022-02-02
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,697 SAR ",2022-02-02
+Emirates,RUH,PAR,24h 11m ,2 stops ,"10,406 SAR ",2022-02-02
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-12
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,880 SAR ,2022-02-12
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-12
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,448 SAR ",2022-02-12
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,864 SAR ",2022-02-12
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,337 SAR ",2022-02-12
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-21
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-21
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,448 SAR ",2022-02-21
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,864 SAR ",2022-02-21
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,337 SAR ",2022-02-21
+Emirates,RUH,PAR,24h 11m ,2 stops ,"10,406 SAR ",2022-02-21
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,007 SAR ",2022-02-22
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-22
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,880 SAR ,2022-02-22
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-22
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,448 SAR ",2022-02-22
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,864 SAR ",2022-02-22
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,337 SAR ",2022-02-22
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-23
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-23
+Turkish Airlines,RUH,PAR,13h 00m ,1 stop ,"1,448 SAR ",2022-02-23
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,864 SAR ",2022-02-23
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,337 SAR ",2022-02-23
+AnadoluJet,RUH,PAR,11h 20m ,1 stop ,"3,474 SAR ",2022-02-23
+Emirates,RUH,PAR,24h 11m ,2 stops ,"10,406 SAR ",2022-02-23
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,936 SAR ",2022-02-24
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,880 SAR ,2022-02-24
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-24
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,522 SAR ",2022-02-24
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,992 SAR ",2022-02-24
+Kuwait Airways,RUH,PAR,24h 30m ,1 stop ,"2,017 SAR ",2022-02-24
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,337 SAR ",2022-02-24
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,936 SAR ",2022-02-25
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,880 SAR ,2022-02-25
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-25
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,522 SAR ",2022-02-25
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,859 SAR ",2022-02-25
+Emirates,RUH,PAR,11h 40m ,1 stop ,"1,978 SAR ",2022-02-25
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,992 SAR ",2022-02-25
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,540 SAR ",2022-02-25
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,337 SAR ",2022-02-25
+SWISS,RUH,PAR,13h 30m ,2 stops ,"14,728 SAR ",2022-02-25
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-26
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-26
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,448 SAR ",2022-02-26
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,859 SAR ",2022-02-26
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,327 SAR ",2022-02-26
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-27
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,877 SAR ,2022-02-27
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-27
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,448 SAR ",2022-02-27
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,859 SAR ",2022-02-27
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,327 SAR ",2022-02-27
+SWISS,RUH,PAR,14h 00m ,2 stops ,"3,557 SAR ",2022-02-27
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,852 SAR ",2022-02-28
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-02-28
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,448 SAR ",2022-02-28
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,327 SAR ",2022-02-28
+Emirates,RUH,PAR,24h 11m ,2 stops ,"10,406 SAR ",2022-02-28
+Air France,RUH,PAR,6h 55m ,nonstop ,"2,583 SAR ",2022-03-01
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,877 SAR ,2022-03-01
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,832 SAR ",2022-03-01
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"7,128 SAR ",2022-03-01
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,838 SAR ",2022-03-02
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-02
+Turkish Airlines,RUH,PAR,13h 00m ,1 stop ,"1,448 SAR ",2022-03-02
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,859 SAR ",2022-03-02
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,327 SAR ",2022-03-02
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,936 SAR ",2022-03-04
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,877 SAR ,2022-03-04
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-04
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,522 SAR ",2022-03-04
+Emirates,RUH,PAR,11h 40m ,1 stop ,"1,973 SAR ",2022-03-04
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,987 SAR ",2022-03-04
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,327 SAR ",2022-03-04
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,849 SAR ",2022-03-05
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-05
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,445 SAR ",2022-03-05
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,472 SAR ",2022-03-05
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-05
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,321 SAR ",2022-03-05
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,946 SAR ",2022-03-06
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,041 SAR ",2022-03-06
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-06
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,445 SAR ",2022-03-06
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,323 SAR ",2022-03-06
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,375 SAR ",2022-03-07
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-07
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,445 SAR ",2022-03-07
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-07
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,323 SAR ",2022-03-07
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,007 SAR ",2022-03-08
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,838 SAR ",2022-03-08
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,858 SAR ,2022-03-08
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-08
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,445 SAR ",2022-03-08
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-08
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,323 SAR ",2022-03-08
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,341 SAR ",2022-03-09
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-09
+Turkish Airlines,RUH,PAR,13h 00m ,1 stop ,"1,551 SAR ",2022-03-09
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,920 SAR ",2022-03-09
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,399 SAR ",2022-03-09
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,280 SAR ",2022-03-10
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,858 SAR ,2022-03-10
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-10
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,519 SAR ",2022-03-10
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,320 SAR ",2022-03-10
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,280 SAR ",2022-03-11
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,858 SAR ,2022-03-11
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-11
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,855 SAR ",2022-03-11
+Emirates,RUH,PAR,11h 40m ,1 stop ,"1,969 SAR ",2022-03-11
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,984 SAR ",2022-03-11
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,537 SAR ",2022-03-11
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,320 SAR ",2022-03-11
+SWISS,RUH,PAR,13h 30m ,2 stops ,"3,593 SAR ",2022-03-11
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,209 SAR ",2022-03-12
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,858 SAR ,2022-03-12
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-12
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,445 SAR ",2022-03-12
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,320 SAR ",2022-03-12
+SAUDIA,RUH,PAR,5h 55m ,nonstop ,"2,209 SAR ",2022-03-13
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,859 SAR ,2022-03-13
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-13
+Turkish Airlines,RUH,PAR,8h 40m ,1 stop ,"1,445 SAR ",2022-03-13
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,744 SAR ",2022-03-13
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-13
+Emirates,RUH,PAR,11h 40m ,1 stop ,"2,175 SAR ",2022-03-13
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,538 SAR ",2022-03-13
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,321 SAR ",2022-03-13
+SWISS,RUH,PAR,13h 30m ,2 stops ,"3,593 SAR ",2022-03-13
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,209 SAR ",2022-03-14
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-14
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,445 SAR ",2022-03-14
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-14
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,321 SAR ",2022-03-14
+Emirates,RUH,PAR,24h 11m ,2 stops ,"12,056 SAR ",2022-03-14
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,209 SAR ",2022-03-15
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-15
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,445 SAR ",2022-03-15
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-15
+Emirates,RUH,PAR,11h 40m ,1 stop ,"1,969 SAR ",2022-03-15
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,321 SAR ",2022-03-15
+SWISS,RUH,PAR,13h 30m ,2 stops ,"5,274 SAR ",2022-03-15
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,209 SAR ",2022-03-16
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-16
+Turkish Airlines,RUH,PAR,13h 00m ,1 stop ,"1,445 SAR ",2022-03-16
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,856 SAR ",2022-03-16
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,321 SAR ",2022-03-16
+AnadoluJet,RUH,PAR,11h 20m ,1 stop ,"3,468 SAR ",2022-03-16
+Emirates,RUH,PAR,24h 11m ,2 stops ,"12,056 SAR ",2022-03-16
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,281 SAR ",2022-03-17
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,860 SAR ,2022-03-17
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-17
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,512 SAR ",2022-03-17
+Emirates,RUH,PAR,11h 40m ,1 stop ,"1,970 SAR ",2022-03-17
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,986 SAR ",2022-03-17
+Kuwait Airways,RUH,PAR,24h 30m ,1 stop ,"2,012 SAR ",2022-03-17
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,317 SAR ",2022-03-17
+SWISS,RUH,PAR,13h 30m ,2 stops ,"8,155 SAR ",2022-03-17
+Air France,RUH,PAR,6h 55m ,nonstop ,"2,583 SAR ",2022-03-18
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,420 SAR ",2022-03-18
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,626 SAR ",2022-03-18
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,944 SAR ",2022-03-18
+Emirates,RUH,PAR,11h 40m ,1 stop ,"2,028 SAR ",2022-03-18
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"2,050 SAR ",2022-03-18
+Emirates,RUH,PAR,12h 50m ,1 stop ,"2,028 SAR ",2022-03-18
+KLM,RUH,PAR,12h 25m ,2 stops ,"1,518 SAR ",2022-03-18
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,697 SAR ",2022-03-18
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,399 SAR ",2022-03-18
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,011 SAR ",2022-03-18
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,851 SAR ",2022-03-19
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,860 SAR ,2022-03-19
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,420 SAR ",2022-03-19
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,438 SAR ",2022-03-19
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,857 SAR ",2022-03-19
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,317 SAR ",2022-03-19
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,963 SAR ",2022-03-20
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,011 SAR ",2022-03-20
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-20
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,551 SAR ",2022-03-20
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,832 SAR ",2022-03-20
+Emirates,RUH,PAR,11h 40m ,1 stop ,"2,028 SAR ",2022-03-20
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,693 SAR ",2022-03-20
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,399 SAR ",2022-03-20
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-21
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,551 SAR ",2022-03-21
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,920 SAR ",2022-03-21
+Emirates,RUH,PAR,11h 40m ,1 stop ,"2,028 SAR ",2022-03-21
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,399 SAR ",2022-03-21
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"7,474 SAR ",2022-03-21
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,011 SAR ",2022-03-21
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,963 SAR ",2022-03-22
+Egypt Air,RUH,PAR,10h 45m ,1 stop ,"1,011 SAR ",2022-03-22
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-22
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,551 SAR ",2022-03-22
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,399 SAR ",2022-03-22
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,963 SAR ",2022-03-23
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-23
+Turkish Airlines,RUH,PAR,13h 00m ,1 stop ,"1,551 SAR ",2022-03-23
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,920 SAR ",2022-03-23
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,045 SAR ",2022-03-24
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-24
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,626 SAR ",2022-03-24
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"2,050 SAR ",2022-03-24
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,399 SAR ",2022-03-24
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"2,045 SAR ",2022-03-25
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-25
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,626 SAR ",2022-03-25
+Etihad Airways,RUH,PAR,10h 30m ,1 stop ,"1,944 SAR ",2022-03-25
+Emirates,RUH,PAR,11h 40m ,1 stop ,"2,028 SAR ",2022-03-25
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"2,050 SAR ",2022-03-25
+Gulf Air,RUH,PAR,11h 45m ,2 stops ,"1,693 SAR ",2022-03-25
+Lufthansa,RUH,PAR,9h 45m ,1 stop ,"3,399 SAR ",2022-03-25
+SAUDIA,RUH,PAR,6h 55m ,nonstop ,"1,963 SAR ",2022-03-26
+British Airways,RUH,PAR,10h 30m ,1 stop ,"1,072 SAR ",2022-03-26
+Turkish Airlines,RUH,PAR,9h 40m ,1 stop ,"1,551 SAR ",2022-03-26
+Qatar Airways,RUH,PAR,10h 55m ,1 stop ,"1,920 SAR ",2022-03-26
+Lufthansa,RUH,PAR,10h 40m ,1 stop ,"3,399 SAR ",2022-03-26
+British Airways,RUH,PAR,9h 35m ,1 stop ,"1,072 SAR ",2022-03-27
+Turkish Airlines,RUH,PAR,10h 10m ,1 stop ,"1,551 SAR ",2022-03-27
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-03-27
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,832 SAR ",2022-03-27
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-03-27
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-03-27
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,478 SAR ",2022-03-27
+Oman Air,RUH,PAR,23h 10m ,1 stop ,"1,627 SAR ",2022-03-27
+Lufthansa,RUH,PAR,8h 55m ,1 stop ,"3,399 SAR ",2022-03-27
+KLM,RUH,PAR,12h 05m ,2 stops ,"1,518 SAR ",2022-03-27
+Air France,RUH,PAR,12h 25m ,2 stops ,"1,896 SAR ",2022-03-27
+SWISS,RUH,PAR,13h 00m ,2 stops ,"3,669 SAR ",2022-03-27
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,"1,009 SAR ",2022-03-27
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-03-28
+Aegean Airlines,RUH,PAR,9h 05m ,1 stop ,694 SAR ,2022-03-28
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-03-28
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-03-28
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-03-28
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-03-28
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-03-28
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-03-28
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-03-28
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"7,474 SAR ",2022-03-28
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,852 SAR ",2022-03-29
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-03-29
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,387 SAR ",2022-03-29
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,443 SAR ",2022-03-29
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,861 SAR ",2022-03-29
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,324 SAR ",2022-03-29
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,852 SAR ",2022-03-30
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-03-30
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,387 SAR ",2022-03-30
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,443 SAR ",2022-03-30
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,861 SAR ",2022-03-30
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,324 SAR ",2022-03-30
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"5,197 SAR ",2022-03-30
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-03-31
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-03-31
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-03-31
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-03-31
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-03-31
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"2,050 SAR ",2022-03-31
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-03-31
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-03-31
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-03-31
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-01
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-01
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-01
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-01
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-01
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-01
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-01
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-01
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-02
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-02
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-02
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-04-02
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-02
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,820 SAR ",2022-04-02
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-02
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-02
+KLM,RUH,PAR,12h 05m ,2 stops ,"1,518 SAR ",2022-04-02
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-02
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-02
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-03
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-03
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-03
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,648 SAR ",2022-04-03
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-03
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-03
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-03
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,853 SAR ",2022-04-04
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-04
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,387 SAR ",2022-04-04
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,443 SAR ",2022-04-04
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,582 SAR ",2022-04-04
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,861 SAR ",2022-04-04
+Emirates,RUH,PAR,10h 35m ,1 stop ,"1,971 SAR ",2022-04-04
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,327 SAR ",2022-04-04
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"5,197 SAR ",2022-04-04
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,853 SAR ",2022-04-05
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-05
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,387 SAR ",2022-04-05
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,444 SAR ",2022-04-05
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,582 SAR ",2022-04-05
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,328 SAR ",2022-04-05
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"5,197 SAR ",2022-04-05
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-06
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-06
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-04-06
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,820 SAR ",2022-04-06
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"1,627 SAR ",2022-04-06
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-06
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-06
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,478 SAR ",2022-04-06
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-06
+KLM,RUH,PAR,12h 05m ,2 stops ,"1,518 SAR ",2022-04-06
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-06
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-06
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-07
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-07
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-07
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-07
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-07
+Air France,RUH,PAR,12h 05m ,2 stops ,"2,424 SAR ",2022-04-07
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-07
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-07
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-08
+Aegean Airlines,RUH,PAR,9h 05m ,1 stop ,928 SAR ,2022-04-08
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,"1,009 SAR ",2022-04-08
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-08
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-08
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-08
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-08
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-08
+Kuwait Airways,RUH,PAR,19h 05m ,1 stop ,"2,087 SAR ",2022-04-08
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-08
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-08
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-09
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-09
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-09
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-09
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-09
+Air France,RUH,PAR,12h 05m ,2 stops ,"1,896 SAR ",2022-04-09
+Kuwait Airways,RUH,PAR,19h 05m ,1 stop ,"2,087 SAR ",2022-04-09
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-09
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,"1,009 SAR ",2022-04-09
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,861 SAR ,2022-04-10
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-11
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-11
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-04-11
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,820 SAR ",2022-04-11
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-11
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"1,627 SAR ",2022-04-11
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,478 SAR ",2022-04-11
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-11
+KLM,RUH,PAR,12h 05m ,2 stops ,"1,518 SAR ",2022-04-11
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-11
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-12
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-12
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-04-12
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,820 SAR ",2022-04-12
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-12
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-12
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"1,627 SAR ",2022-04-12
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,478 SAR ",2022-04-12
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-12
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-13
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-13
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-13
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-13
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-13
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-13
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-13
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-13
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-13
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-14
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-14
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-14
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-14
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,877 SAR ",2022-04-14
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-14
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"1,824 SAR ",2022-04-14
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-14
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"2,050 SAR ",2022-04-14
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,199 SAR ",2022-04-14
+Air France,RUH,PAR,12h 05m ,2 stops ,"2,424 SAR ",2022-04-14
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-14
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-15
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,"1,009 SAR ",2022-04-15
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-15
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-15
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-15
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-15
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-15
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-15
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-16
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-16
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,"1,009 SAR ",2022-04-16
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-16
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-16
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-16
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-16
+Kuwait Airways,RUH,PAR,19h 05m ,1 stop ,"2,087 SAR ",2022-04-16
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-16
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-16
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-17
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-17
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-17
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,660 SAR ",2022-04-17
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-17
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-17
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-17
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-17
+Aegean Airlines,RUH,PAR,9h 05m ,1 stop ,928 SAR ,2022-04-18
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-18
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-18
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-04-18
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-18
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-18
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"1,627 SAR ",2022-04-18
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,478 SAR ",2022-04-18
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-18
+KLM,RUH,PAR,12h 05m ,2 stops ,"1,518 SAR ",2022-04-18
+Air France,RUH,PAR,12h 05m ,2 stops ,"1,896 SAR ",2022-04-18
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-18
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"9,268 SAR ",2022-04-18
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-18
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-19
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-19
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-19
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-19
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-19
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-19
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"2,083 SAR ",2022-04-19
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-19
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-19
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-20
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-20
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-20
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-20
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-20
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-20
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-20
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-20
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-20
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-20
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-21
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-21
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-21
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-21
+Etihad Airways,RUH,PAR,9h 55m ,1 stop ,"1,877 SAR ",2022-04-21
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-21
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-21
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"2,199 SAR ",2022-04-21
+Oman Air,RUH,PAR,23h 10m ,1 stop ,"1,627 SAR ",2022-04-21
+Kuwait Airways,RUH,PAR,19h 05m ,1 stop ,"2,087 SAR ",2022-04-21
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-21
+KLM,RUH,PAR,12h 05m ,2 stops ,"2,005 SAR ",2022-04-21
+Air France,RUH,PAR,12h 05m ,2 stops ,"2,424 SAR ",2022-04-21
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-21
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-21
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,045 SAR ",2022-04-22
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-22
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-22
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-22
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-22
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-22
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"2,050 SAR ",2022-04-22
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-22
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-22
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-23
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-23
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-23
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-23
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-23
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-23
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-23
+KLM,RUH,PAR,12h 05m ,2 stops ,"1,745 SAR ",2022-04-23
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-23
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,838 SAR ",2022-04-24
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,072 SAR ",2022-04-24
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-24
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,659 SAR ",2022-04-24
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,866 SAR ",2022-04-24
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,868 SAR ",2022-04-24
+Kuwait Airways,RUH,PAR,19h 05m ,1 stop ,"2,063 SAR ",2022-04-24
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-24
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-25
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-25
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-25
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,590 SAR ",2022-04-25
+"SAUDIA, Transavia France",RUH,PAR,8h 05m ,1 stop ,"1,693 SAR ",2022-04-25
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-25
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-25
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-25
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-26
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-26
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-26
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,590 SAR ",2022-04-26
+MEA,RUH,PAR,8h 45m ,1 stop ,"1,738 SAR ",2022-04-26
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"2,083 SAR ",2022-04-26
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-26
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-26
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-26
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"1,963 SAR ",2022-04-27
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-27
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,551 SAR ",2022-04-27
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,590 SAR ",2022-04-27
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"1,920 SAR ",2022-04-27
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-27
+KLM,RUH,PAR,12h 05m ,2 stops ,"2,005 SAR ",2022-04-27
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-27
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-27
+Emirates,RUH,PAR,23h 26m ,2 stops ,"12,056 SAR ",2022-04-27
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-27
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,420 SAR ",2022-04-28
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-28
+Gulf Air,RUH,PAR,9h 10m ,1 stop ,"1,603 SAR ",2022-04-28
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,836 SAR ",2022-04-28
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,936 SAR ",2022-04-28
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-28
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"2,050 SAR ",2022-04-28
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-28
+Air France,RUH,PAR,12h 05m ,2 stops ,"2,424 SAR ",2022-04-28
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-28
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-28
+"Egypt Air, Lufthansa",RUH,PAR,10h 45m ,2 stops ,"7,094 SAR ",2022-04-28
+SAUDIA,RUH,PAR,6h 15m ,nonstop ,"2,420 SAR ",2022-04-29
+Aegean Airlines,RUH,PAR,9h 05m ,1 stop ,928 SAR ,2022-04-29
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,"1,009 SAR ",2022-04-29
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"1,053 SAR ",2022-04-29
+Royal Jordanian,RUH,PAR,8h 25m ,1 stop ,"1,465 SAR ",2022-04-29
+Turkish Airlines,RUH,PAR,9h 20m ,1 stop ,"1,626 SAR ",2022-04-29
+British Airways,RUH,PAR,10h 00m ,1 stop ,"1,936 SAR ",2022-04-29
+Emirates,RUH,PAR,10h 35m ,1 stop ,"2,028 SAR ",2022-04-29
+Qatar Airways,RUH,PAR,9h 55m ,1 stop ,"2,050 SAR ",2022-04-29
+MEA,RUH,PAR,8h 45m ,1 stop ,"2,053 SAR ",2022-04-29
+Lufthansa,RUH,PAR,8h 50m ,1 stop ,"3,399 SAR ",2022-04-29
+SWISS,RUH,PAR,12h 55m ,2 stops ,"3,669 SAR ",2022-04-29
+Emirates,RUH,PAR,23h 26m ,2 stops ,"12,056 SAR ",2022-04-29
+Egypt Air,RUH,PAR,9h 40m ,1 stop ,986 SAR ,2022-04-30
+Pegasus Airlines,RUH,PAR,9h 05m ,1 stop ,"1,023 SAR ",2022-04-30
+Oman Air,RUH,PAR,16h 00m ,1 stop ,"2,083 SAR ",2022-04-30

@@ -1,0 +1,3315 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,504 SAR ,2022-02-01
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-01
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,433 SAR ,2022-02-01
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,038 SAR ",2022-02-01
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,038 SAR ",2022-02-01
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,079 SAR ",2022-02-01
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-01
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-01
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-01
+"Nordwind Airlines, Wizz Air",SVO,PAR,14h 10m ,1 stop ,462 SAR ,2022-02-01
+LOT,SVO,PAR,6h 35m ,1 stop ,577 SAR ,2022-02-01
+LOT,SVO,PAR,10h 45m ,1 stop ,577 SAR ,2022-02-01
+KLM,SVO,PAR,5h 50m ,1 stop ,643 SAR ,2022-02-01
+KLM,SVO,PAR,6h 05m ,1 stop ,643 SAR ,2022-02-01
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-01
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-01
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-01
+LOT,SVO,PAR,14h 40m ,1 stop ,577 SAR ,2022-02-01
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-01
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-01
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-01
+"Aeroflot, easyJet",SVO,PAR,12h 40m ,1 stop ,783 SAR ,2022-02-01
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,599 SAR ,2022-02-01
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,630 SAR ,2022-02-01
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,630 SAR ,2022-02-01
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,630 SAR ,2022-02-01
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,630 SAR ,2022-02-01
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,630 SAR ,2022-02-01
+"Aeroflot, Ryanair",SVO,PAR,11h 55m ,2 stops ,682 SAR ,2022-02-01
+"Finnair, Vueling",SVO,PAR,10h 55m ,2 stops ,699 SAR ,2022-02-01
+Multiple Airlines,SVO,PAR,15h 05m ,3 stops ,675 SAR ,2022-02-01
+Multiple Airlines,SVO,PAR,15h 40m ,3 stops ,675 SAR ,2022-02-01
+Multiple Airlines,SVO,PAR,15h 20m ,3 stops ,798 SAR ,2022-02-01
+"KLM, Ryanair",SVO,PAR,16h 05m ,3 stops ,816 SAR ,2022-02-01
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,957 SAR ",2022-02-01
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-01
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,591 SAR ",2022-02-01
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-01
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-01
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-01
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-01
+Air France,SVO,PAR,4h 10m ,nonstop ,606 SAR ,2022-02-02
+Finnair,SVO,PAR,7h 50m ,1 stop ,395 SAR ,2022-02-02
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,056 SAR ",2022-02-02
+Finnair,SVO,PAR,6h 35m ,1 stop ,435 SAR ,2022-02-02
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,111 SAR ",2022-02-02
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-02-02
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-02-02
+Finnair,SVO,PAR,10h 50m ,1 stop ,435 SAR ,2022-02-02
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-02-02
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,518 SAR ,2022-02-02
+LOT,SVO,PAR,6h 35m ,1 stop ,577 SAR ,2022-02-02
+airBaltic,SVO,PAR,13h 25m ,1 stop ,485 SAR ,2022-02-02
+LOT,SVO,PAR,10h 45m ,1 stop ,577 SAR ,2022-02-02
+LOT,SVO,PAR,14h 40m ,1 stop ,577 SAR ,2022-02-02
+KLM,SVO,PAR,5h 50m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,6h 05m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-02
+KLM,SVO,PAR,16h 15m ,1 stop ,643 SAR ,2022-02-02
+"Aeroflot, Wizz Air",SVO,PAR,12h 15m ,1 stop ,657 SAR ,2022-02-02
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,701 SAR ,2022-02-02
+"Finnair, Ryanair",SVO,PAR,10h 10m ,2 stops ,596 SAR ,2022-02-02
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,599 SAR ,2022-02-02
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,630 SAR ,2022-02-02
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,630 SAR ,2022-02-02
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,630 SAR ,2022-02-02
+"Nordwind Airlines, Turkish Airlines",SVO,PAR,13h 35m ,2 stops ,722 SAR ,2022-02-02
+KLM,SVO,PAR,6h 55m ,1 stop ,"1,170 SAR ",2022-02-02
+Multiple Airlines,SVO,PAR,16h 05m ,2 stops ,499 SAR ,2022-02-02
+Multiple Airlines,SVO,PAR,14h 30m ,3 stops ,588 SAR ,2022-02-02
+"Finnair, Ryanair",SVO,PAR,14h 50m ,3 stops ,630 SAR ,2022-02-02
+Multiple Airlines,SVO,PAR,13h 00m ,3 stops ,675 SAR ,2022-02-02
+"Finnair, Ryanair",SVO,PAR,13h 25m ,3 stops ,715 SAR ,2022-02-02
+"Finnair, Lufthansa",SVO,PAR,13h 25m ,3 stops ,738 SAR ,2022-02-02
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,957 SAR ",2022-02-02
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-02
+"Czech Airlines, Lufthansa",SVO,PAR,8h 10m ,2 stops ,"9,068 SAR ",2022-02-02
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-02
+"Aeroflot, KLM",SVO,PAR,8h 00m ,1 stop ,"12,499 SAR ",2022-02-02
+"Aeroflot, KLM",SVO,PAR,9h 15m ,1 stop ,"12,499 SAR ",2022-02-02
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-02
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-02
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-02
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,504 SAR ,2022-02-03
+Air France,SVO,PAR,4h 20m ,nonstop ,606 SAR ,2022-02-03
+Finnair,SVO,PAR,9h 35m ,1 stop ,395 SAR ,2022-02-03
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-03
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,056 SAR ",2022-02-03
+Finnair,SVO,PAR,6h 35m ,1 stop ,435 SAR ,2022-02-03
+Finnair,SVO,PAR,13h 50m ,1 stop ,395 SAR ,2022-02-03
+Finnair,SVO,PAR,10h 50m ,1 stop ,435 SAR ,2022-02-03
+airBaltic,SVO,PAR,8h 55m ,1 stop ,485 SAR ,2022-02-03
+LOT,SVO,PAR,6h 35m ,1 stop ,577 SAR ,2022-02-03
+KLM,SVO,PAR,5h 50m ,1 stop ,643 SAR ,2022-02-03
+KLM,SVO,PAR,6h 05m ,1 stop ,643 SAR ,2022-02-03
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-03
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-03
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,433 SAR ,2022-02-03
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-02-03
+LOT,SVO,PAR,10h 45m ,1 stop ,577 SAR ,2022-02-03
+LOT,SVO,PAR,14h 40m ,1 stop ,577 SAR ,2022-02-03
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-03
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-03
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-03
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-03
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,599 SAR ,2022-02-03
+Multiple Airlines,SVO,PAR,14h 15m ,2 stops ,618 SAR ,2022-02-03
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,630 SAR ,2022-02-03
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,630 SAR ,2022-02-03
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,630 SAR ,2022-02-03
+KLM,SVO,PAR,16h 15m ,1 stop ,643 SAR ,2022-02-03
+"airBaltic, Vueling",SVO,PAR,13h 40m ,2 stops ,656 SAR ,2022-02-03
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,701 SAR ,2022-02-03
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,747 SAR ,2022-02-03
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,747 SAR ,2022-02-03
+"Aeroflot, Transavia France",SVO,PAR,9h 55m ,1 stop ,885 SAR ,2022-02-03
+"Aeroflot, Vueling",SVO,PAR,9h 50m ,1 stop ,967 SAR ,2022-02-03
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,015 SAR ",2022-02-03
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,015 SAR ",2022-02-03
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,231 SAR ",2022-02-03
+Aeroflot,SVO,PAR,16h 05m ,1 stop ,"1,231 SAR ",2022-02-03
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,280 SAR ",2022-02-03
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,280 SAR ",2022-02-03
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,280 SAR ",2022-02-03
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,280 SAR ",2022-02-03
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,280 SAR ",2022-02-03
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,280 SAR ",2022-02-03
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,280 SAR ",2022-02-03
+"Finnair, Vueling",SVO,PAR,13h 55m ,2 stops ,659 SAR ,2022-02-03
+"Aeroflot, Ryanair",SVO,PAR,14h 30m ,2 stops ,671 SAR ,2022-02-03
+"Aeroflot, Ryanair",SVO,PAR,14h 00m ,2 stops ,712 SAR ,2022-02-03
+Multiple Airlines,SVO,PAR,13h 30m ,3 stops ,768 SAR ,2022-02-03
+Multiple Airlines,SVO,PAR,15h 15m ,3 stops ,786 SAR ,2022-02-03
+Multiple Airlines,SVO,PAR,15h 35m ,3 stops ,833 SAR ,2022-02-03
+Multiple Airlines,SVO,PAR,16h 10m ,3 stops ,833 SAR ,2022-02-03
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,957 SAR ",2022-02-03
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,735 SAR ",2022-02-03
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-03
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-03
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-03
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,592 SAR ,2022-02-04
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-04
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-04
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,056 SAR ",2022-02-04
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,056 SAR ",2022-02-04
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,518 SAR ,2022-02-04
+LOT,SVO,PAR,6h 35m ,1 stop ,577 SAR ,2022-02-04
+KLM,SVO,PAR,5h 50m ,1 stop ,643 SAR ,2022-02-04
+KLM,SVO,PAR,6h 05m ,1 stop ,643 SAR ,2022-02-04
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-04
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-04
+LOT,SVO,PAR,10h 45m ,1 stop ,577 SAR ,2022-02-04
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-04
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-04
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-04
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-04
+"Aeroflot, Ryanair",SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-04
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,726 SAR ,2022-02-04
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,726 SAR ,2022-02-04
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,015 SAR ",2022-02-04
+LOT,SVO,PAR,14h 40m ,1 stop ,577 SAR ,2022-02-04
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,630 SAR ,2022-02-04
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,630 SAR ,2022-02-04
+"Finnair, Ryanair",SVO,PAR,10h 25m ,2 stops ,630 SAR ,2022-02-04
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-04
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-04
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,683 SAR ,2022-02-04
+"Aeroflot, Wizz Air",SVO,PAR,12h 15m ,1 stop ,696 SAR ,2022-02-04
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,813 SAR ,2022-02-04
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,015 SAR ",2022-02-04
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,231 SAR ",2022-02-04
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,231 SAR ",2022-02-04
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,280 SAR ",2022-02-04
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,280 SAR ",2022-02-04
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,630 SAR ,2022-02-04
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,630 SAR ,2022-02-04
+"Aeroflot, Finnair",SVO,PAR,11h 00m ,2 stops ,777 SAR ,2022-02-04
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,798 SAR ",2022-02-04
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,591 SAR ",2022-02-04
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-04
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-04
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-04
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,504 SAR ,2022-02-05
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-05
+Finnair,SVO,PAR,16h 20m ,1 stop ,395 SAR ,2022-02-05
+Air France,SVO,PAR,4h 20m ,nonstop ,730 SAR ,2022-02-05
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,056 SAR ",2022-02-05
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,111 SAR ",2022-02-05
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,433 SAR ,2022-02-05
+Finnair,SVO,PAR,6h 35m ,1 stop ,435 SAR ,2022-02-05
+Finnair,SVO,PAR,10h 50m ,1 stop ,435 SAR ,2022-02-05
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-02-05
+Air Serbia,SVO,PAR,9h 40m ,1 stop ,518 SAR ,2022-02-05
+LOT,SVO,PAR,6h 35m ,1 stop ,577 SAR ,2022-02-05
+LOT,SVO,PAR,10h 45m ,1 stop ,577 SAR ,2022-02-05
+LOT,SVO,PAR,14h 40m ,1 stop ,577 SAR ,2022-02-05
+KLM,SVO,PAR,5h 50m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,6h 05m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-05
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-05
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,732 SAR ,2022-02-05
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,732 SAR ,2022-02-05
+"Aeroflot, HiSky",SVO,PAR,13h 50m ,1 stop ,769 SAR ,2022-02-05
+"Aeroflot, Air France",SVO,PAR,7h 30m ,1 stop ,786 SAR ,2022-02-05
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,813 SAR ,2022-02-05
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,015 SAR ",2022-02-05
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,015 SAR ",2022-02-05
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,580 SAR ,2022-02-05
+Multiple Airlines,SVO,PAR,15h 45m ,2 stops ,618 SAR ,2022-02-05
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,630 SAR ,2022-02-05
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,630 SAR ,2022-02-05
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,630 SAR ,2022-02-05
+Multiple Airlines,SVO,PAR,12h 25m ,2 stops ,737 SAR ,2022-02-05
+"Finnair, Ryanair",SVO,PAR,10h 55m ,2 stops ,751 SAR ,2022-02-05
+"KLM, Ryanair",SVO,PAR,14h 40m ,2 stops ,753 SAR ,2022-02-05
+Multiple Airlines,SVO,PAR,7h 55m ,2 stops ,765 SAR ,2022-02-05
+"Aeroflot, Smartwings",SVO,PAR,9h 15m ,2 stops ,795 SAR ,2022-02-05
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,231 SAR ",2022-02-05
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,280 SAR ",2022-02-05
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,280 SAR ",2022-02-05
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,280 SAR ",2022-02-05
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,280 SAR ",2022-02-05
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,280 SAR ",2022-02-05
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,280 SAR ",2022-02-05
+"Aeroflot, Air France",SVO,PAR,6h 05m ,1 stop ,"1,387 SAR ",2022-02-05
+"KLM, Ryanair",SVO,PAR,15h 40m ,2 stops ,676 SAR ,2022-02-05
+Multiple Airlines,SVO,PAR,13h 00m ,3 stops ,717 SAR ,2022-02-05
+Multiple Airlines,SVO,PAR,14h 55m ,3 stops ,722 SAR ,2022-02-05
+Multiple Airlines,SVO,PAR,14h 55m ,2 stops ,756 SAR ,2022-02-05
+Air Algerie,SVO,PAR,10h 50m ,1 stop ,"2,753 SAR ",2022-02-05
+Air Algerie,SVO,PAR,11h 55m ,1 stop ,"2,753 SAR ",2022-02-05
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,714 SAR ",2022-02-05
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,591 SAR ",2022-02-05
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-05
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-05
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-05
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,056 SAR ",2022-02-06
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-02-06
+Finnair,SVO,PAR,7h 50m ,1 stop ,470 SAR ,2022-02-06
+Finnair,SVO,PAR,6h 35m ,1 stop ,480 SAR ,2022-02-06
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,518 SAR ,2022-02-06
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,443 SAR ",2022-02-06
+Finnair,SVO,PAR,10h 50m ,1 stop ,480 SAR ,2022-02-06
+LOT,SVO,PAR,6h 35m ,1 stop ,577 SAR ,2022-02-06
+KLM,SVO,PAR,5h 50m ,1 stop ,643 SAR ,2022-02-06
+KLM,SVO,PAR,6h 05m ,1 stop ,643 SAR ,2022-02-06
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-02-06
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-02-06
+airBaltic,SVO,PAR,13h 25m ,1 stop ,485 SAR ,2022-02-06
+LOT,SVO,PAR,10h 45m ,1 stop ,577 SAR ,2022-02-06
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-06
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-06
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-06
+"Aeroflot, airBaltic",SVO,PAR,8h 15m ,1 stop ,675 SAR ,2022-02-06
+LOT,SVO,PAR,14h 40m ,1 stop ,577 SAR ,2022-02-06
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-06
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-06
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-06
+"KLM, Air France",SVO,PAR,16h 15m ,1 stop ,658 SAR ,2022-02-06
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,808 SAR ,2022-02-06
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,808 SAR ,2022-02-06
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,701 SAR ,2022-02-06
+Bulgaria Air,SVO,PAR,15h 05m ,1 stop ,813 SAR ,2022-02-06
+"Aeroflot, Ryanair",SVO,PAR,10h 45m ,1 stop ,815 SAR ,2022-02-06
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,015 SAR ",2022-02-06
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,015 SAR ",2022-02-06
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,580 SAR ,2022-02-06
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,599 SAR ,2022-02-06
+"Finnair, Ryanair",SVO,PAR,10h 05m ,2 stops ,601 SAR ,2022-02-06
+Multiple Airlines,SVO,PAR,15h 50m ,2 stops ,618 SAR ,2022-02-06
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,231 SAR ",2022-02-06
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,231 SAR ",2022-02-06
+Aeroflot,SVO,PAR,7h 50m ,1 stop ,"1,412 SAR ",2022-02-06
+Aeroflot,SVO,PAR,8h 45m ,1 stop ,"1,412 SAR ",2022-02-06
+Aeroflot,SVO,PAR,9h 25m ,1 stop ,"1,412 SAR ",2022-02-06
+Aeroflot,SVO,PAR,10h 45m ,1 stop ,"1,412 SAR ",2022-02-06
+Aeroflot,SVO,PAR,11h 30m ,1 stop ,"1,412 SAR ",2022-02-06
+Aeroflot,SVO,PAR,13h 40m ,1 stop ,"1,412 SAR ",2022-02-06
+Aeroflot,SVO,PAR,14h 20m ,1 stop ,"1,412 SAR ",2022-02-06
+Multiple Airlines,SVO,PAR,22h 00m ,2 stops ,399 SAR ,2022-02-06
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,858 SAR ",2022-02-06
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,858 SAR ",2022-02-06
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-06
+"Aeroflot, Kenya Airways",SVO,PAR,12h 50m ,2 stops ,"6,650 SAR ",2022-02-06
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-06
+"Aeroflot, KLM",SVO,PAR,8h 00m ,1 stop ,"12,499 SAR ",2022-02-06
+"Aeroflot, KLM",SVO,PAR,9h 15m ,1 stop ,"12,499 SAR ",2022-02-06
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-06
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-06
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-06
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,504 SAR ,2022-02-07
+Air France,SVO,PAR,4h 10m ,nonstop ,618 SAR ,2022-02-07
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,430 SAR ,2022-02-07
+Air France,SVO,PAR,4h 20m ,nonstop ,646 SAR ,2022-02-07
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-02-07
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-07
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-07
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-07
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-07
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-07
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-07
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-07
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-07
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-07
+KLM,SVO,PAR,16h 15m ,1 stop ,641 SAR ,2022-02-07
+KLM,SVO,PAR,7h 25m ,1 stop ,643 SAR ,2022-02-07
+KLM,SVO,PAR,8h 15m ,1 stop ,643 SAR ,2022-02-07
+KLM,SVO,PAR,10h 10m ,1 stop ,643 SAR ,2022-02-07
+KLM,SVO,PAR,11h 45m ,1 stop ,643 SAR ,2022-02-07
+KLM,SVO,PAR,14h 20m ,1 stop ,643 SAR ,2022-02-07
+KLM,SVO,PAR,15h 55m ,1 stop ,643 SAR ,2022-02-07
+KLM,SVO,PAR,6h 05m ,1 stop ,726 SAR ,2022-02-07
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,014 SAR ",2022-02-07
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,014 SAR ",2022-02-07
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,609 SAR ,2022-02-07
+"Aeroflot, Air Serbia",SVO,PAR,10h 55m ,2 stops ,704 SAR ,2022-02-07
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,279 SAR ",2022-02-07
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,279 SAR ",2022-02-07
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,279 SAR ",2022-02-07
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,280 SAR ",2022-02-07
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,280 SAR ",2022-02-07
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,280 SAR ",2022-02-07
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,280 SAR ",2022-02-07
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,280 SAR ",2022-02-07
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-07
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-07
+"LOT, KLM",SVO,PAR,15h 40m ,2 stops ,"6,439 SAR ",2022-02-07
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-07
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-07
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-07
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-07
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,504 SAR ,2022-02-08
+Air France,SVO,PAR,4h 10m ,nonstop ,618 SAR ,2022-02-08
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,430 SAR ,2022-02-08
+Air France,SVO,PAR,4h 20m ,nonstop ,618 SAR ,2022-02-08
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,054 SAR ",2022-02-08
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,054 SAR ",2022-02-08
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-08
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-08
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-08
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-08
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-08
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-08
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-08
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-08
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-08
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-08
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-08
+"Nordwind Airlines, Wizz Air",SVO,PAR,14h 10m ,1 stop ,513 SAR ,2022-02-08
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-08
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-08
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-08
+"KLM, Air France",SVO,PAR,16h 15m ,1 stop ,699 SAR ,2022-02-08
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,699 SAR ,2022-02-08
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,609 SAR ,2022-02-08
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,641 SAR ,2022-02-08
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,641 SAR ,2022-02-08
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,641 SAR ,2022-02-08
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,641 SAR ,2022-02-08
+Multiple Airlines,SVO,PAR,12h 00m ,2 stops ,660 SAR ,2022-02-08
+Multiple Airlines,SVO,PAR,13h 20m ,2 stops ,660 SAR ,2022-02-08
+"Aeroflot, Ryanair",SVO,PAR,11h 55m ,2 stops ,671 SAR ,2022-02-08
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,694 SAR ,2022-02-08
+"Aeroflot, Finnair",SVO,PAR,14h 30m ,2 stops ,694 SAR ,2022-02-08
+"Finnair, Vueling",SVO,PAR,10h 55m ,2 stops ,711 SAR ,2022-02-08
+Multiple Airlines,SVO,PAR,10h 00m ,2 stops ,716 SAR ,2022-02-08
+Multiple Airlines,SVO,PAR,15h 05m ,3 stops ,665 SAR ,2022-02-08
+Multiple Airlines,SVO,PAR,15h 40m ,3 stops ,665 SAR ,2022-02-08
+"Finnair, Vueling",SVO,PAR,11h 00m ,2 stops ,700 SAR ,2022-02-08
+Multiple Airlines,SVO,PAR,15h 20m ,3 stops ,798 SAR ,2022-02-08
+"KLM, Ryanair",SVO,PAR,16h 05m ,3 stops ,837 SAR ,2022-02-08
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-08
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-08
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-08
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-08
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-08
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-08
+Air France,SVO,PAR,4h 10m ,nonstop ,618 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,28h 15m ,2 stops ,370 SAR ,2022-02-09
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,054 SAR ",2022-02-09
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-09
+Finnair,SVO,PAR,7h 50m ,1 stop ,395 SAR ,2022-02-09
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-02-09
+Finnair,SVO,PAR,6h 35m ,1 stop ,435 SAR ,2022-02-09
+Finnair,SVO,PAR,10h 50m ,1 stop ,435 SAR ,2022-02-09
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-02-09
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-02-09
+airBaltic,SVO,PAR,13h 25m ,1 stop ,483 SAR ,2022-02-09
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-09
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-09
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-09
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-09
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-09
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-09
+KLM,SVO,PAR,16h 15m ,1 stop ,641 SAR ,2022-02-09
+"Finnair, Ryanair",SVO,PAR,10h 10m ,2 stops ,567 SAR ,2022-02-09
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,609 SAR ,2022-02-09
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,641 SAR ,2022-02-09
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,641 SAR ,2022-02-09
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,641 SAR ,2022-02-09
+"Aeroflot, Ryanair",SVO,PAR,9h 30m ,2 stops ,817 SAR ,2022-02-09
+"Aeroflot, Vueling",SVO,PAR,10h 50m ,2 stops ,927 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,16h 05m ,2 stops ,533 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,14h 30m ,3 stops ,645 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,13h 00m ,3 stops ,665 SAR ,2022-02-09
+"Finnair, Ryanair",SVO,PAR,14h 50m ,3 stops ,676 SAR ,2022-02-09
+"Finnair, Ryanair",SVO,PAR,13h 25m ,3 stops ,715 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,15h 35m ,3 stops ,780 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,16h 10m ,3 stops ,780 SAR ,2022-02-09
+Multiple Airlines,SVO,PAR,13h 05m ,2 stops ,"1,010 SAR ",2022-02-09
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-09
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-09
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-09
+"Czech Airlines, Lufthansa",SVO,PAR,8h 10m ,2 stops ,"9,068 SAR ",2022-02-09
+"LOT, Air France",SVO,PAR,13h 55m ,1 stop ,"11,827 SAR ",2022-02-09
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-09
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-09
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-09
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,504 SAR ,2022-02-10
+Air France,SVO,PAR,4h 20m ,nonstop ,591 SAR ,2022-02-10
+Finnair,SVO,PAR,9h 35m ,1 stop ,395 SAR ,2022-02-10
+Air France,SVO,PAR,4h 10m ,nonstop ,743 SAR ,2022-02-10
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,054 SAR ",2022-02-10
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-10
+Finnair,SVO,PAR,13h 50m ,1 stop ,395 SAR ,2022-02-10
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,430 SAR ,2022-02-10
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-10
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-10
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-10
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-10
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-10
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-10
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-10
+KLM,SVO,PAR,5h 50m ,1 stop ,730 SAR ,2022-02-10
+Air France,SVO,PAR,4h 10m ,nonstop ,618 SAR ,2022-02-11
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-11
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,054 SAR ",2022-02-11
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,054 SAR ",2022-02-11
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-11
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-11
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-11
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-11
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-11
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-11
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-11
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-11
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-11
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-11
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-11
+"Aeroflot, Ryanair",SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-11
+"Aeroflot, Transavia France",SVO,PAR,6h 40m ,1 stop ,691 SAR ,2022-02-11
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,745 SAR ,2022-02-11
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,869 SAR ,2022-02-11
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,014 SAR ",2022-02-11
+Multiple Airlines,SVO,PAR,9h 55m ,2 stops ,491 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,10h 50m ,2 stops ,491 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,12h 50m ,2 stops ,491 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,10h 10m ,2 stops ,546 SAR ,2022-02-11
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-11
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,629 SAR ,2022-02-11
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,629 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,12h 45m ,2 stops ,630 SAR ,2022-02-11
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,641 SAR ,2022-02-11
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,641 SAR ,2022-02-11
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-11
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-11
+"Nordwind Airlines, Lufthansa",SVO,PAR,11h 20m ,2 stops ,658 SAR ,2022-02-11
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,"1,007 SAR ",2022-02-11
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,014 SAR ",2022-02-11
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,229 SAR ",2022-02-11
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,229 SAR ",2022-02-11
+KLM,SVO,PAR,6h 20m ,1 stop ,"1,261 SAR ",2022-02-11
+KLM,SVO,PAR,7h 55m ,1 stop ,"1,261 SAR ",2022-02-11
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,279 SAR ",2022-02-11
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,279 SAR ",2022-02-11
+"Nordwind Airlines, Lufthansa",SVO,PAR,12h 20m ,2 stops ,658 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,15h 05m ,3 stops ,717 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,15h 40m ,3 stops ,717 SAR ,2022-02-11
+Multiple Airlines,SVO,PAR,10h 50m ,3 stops ,743 SAR ,2022-02-11
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,798 SAR ",2022-02-11
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-11
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-11
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,504 SAR ,2022-02-12
+Air France,SVO,PAR,4h 10m ,nonstop ,618 SAR ,2022-02-12
+Finnair,SVO,PAR,16h 20m ,1 stop ,395 SAR ,2022-02-12
+Air France,SVO,PAR,4h 20m ,nonstop ,743 SAR ,2022-02-12
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,055 SAR ",2022-02-12
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,430 SAR ,2022-02-12
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-12
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,245 SAR ",2022-02-12
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-12
+Air Serbia,SVO,PAR,9h 40m ,1 stop ,516 SAR ,2022-02-12
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-12
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-12
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-12
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-12
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-12
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-12
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-12
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-12
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-12
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-12
+KLM,SVO,PAR,8h 15m ,1 stop ,730 SAR ,2022-02-12
+"Aeroflot, Air France",SVO,PAR,7h 30m ,1 stop ,797 SAR ,2022-02-12
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-12
+"KLM, Air France",SVO,PAR,16h 15m ,1 stop ,654 SAR ,2022-02-12
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,699 SAR ,2022-02-12
+"Aeroflot, HiSky",SVO,PAR,13h 50m ,1 stop ,759 SAR ,2022-02-12
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,759 SAR ,2022-02-12
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,759 SAR ,2022-02-12
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,810 SAR ,2022-02-12
+"Aeroflot, Air France",SVO,PAR,8h 15m ,1 stop ,990 SAR ,2022-02-12
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,014 SAR ",2022-02-12
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,014 SAR ",2022-02-12
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,629 SAR ,2022-02-12
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,629 SAR ,2022-02-12
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,629 SAR ,2022-02-12
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,750 SAR ,2022-02-12
+"Finnair, Ryanair",SVO,PAR,10h 55m ,2 stops ,751 SAR ,2022-02-12
+"Aeroflot, Air Serbia",SVO,PAR,12h 00m ,2 stops ,760 SAR ,2022-02-12
+"Aeroflot, Air France",SVO,PAR,15h 45m ,1 stop ,"1,141 SAR ",2022-02-12
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,230 SAR ",2022-02-12
+"Aeroflot, Ryanair",SVO,PAR,15h 00m ,3 stops ,683 SAR ,2022-02-12
+Multiple Airlines,SVO,PAR,13h 00m ,3 stops ,717 SAR ,2022-02-12
+Multiple Airlines,SVO,PAR,14h 55m ,3 stops ,736 SAR ,2022-02-12
+Multiple Airlines,SVO,PAR,15h 20m ,3 stops ,799 SAR ,2022-02-12
+Multiple Airlines,SVO,PAR,13h 30m ,3 stops ,883 SAR ,2022-02-12
+Air Algerie,SVO,PAR,10h 50m ,1 stop ,"2,752 SAR ",2022-02-12
+Air Algerie,SVO,PAR,11h 55m ,1 stop ,"2,752 SAR ",2022-02-12
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,714 SAR ",2022-02-12
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-12
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-12
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-12
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-12
+Air France,SVO,PAR,4h 10m ,nonstop ,618 SAR ,2022-02-13
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-02-13
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,055 SAR ",2022-02-13
+Finnair,SVO,PAR,6h 35m ,1 stop ,480 SAR ,2022-02-13
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-13
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-13
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-02-13
+Finnair,SVO,PAR,10h 50m ,1 stop ,480 SAR ,2022-02-13
+airBaltic,SVO,PAR,13h 25m ,1 stop ,483 SAR ,2022-02-13
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-13
+Finnair,SVO,PAR,7h 50m ,1 stop ,596 SAR ,2022-02-13
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-13
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-13
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-13
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-13
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-13
+"Aeroflot, Transavia France",SVO,PAR,8h 05m ,1 stop ,646 SAR ,2022-02-13
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,724 SAR ,2022-02-13
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,724 SAR ,2022-02-13
+Finnair,SVO,PAR,15h 55m ,1 stop ,470 SAR ,2022-02-13
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-13
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-13
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-13
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-13
+"Aeroflot, easyJet",SVO,PAR,7h 35m ,1 stop ,688 SAR ,2022-02-13
+"Aeroflot, airBaltic",SVO,PAR,8h 15m ,1 stop ,696 SAR ,2022-02-13
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,014 SAR ",2022-02-13
+"Finnair, Ryanair",SVO,PAR,10h 05m ,2 stops ,601 SAR ,2022-02-13
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,609 SAR ,2022-02-13
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,626 SAR ,2022-02-13
+"Finnair, Transavia France",SVO,PAR,14h 45m ,2 stops ,637 SAR ,2022-02-13
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,641 SAR ,2022-02-13
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,641 SAR ,2022-02-13
+"Finnair, Vueling",SVO,PAR,10h 50m ,2 stops ,641 SAR ,2022-02-13
+Multiple Airlines,SVO,PAR,12h 10m ,2 stops ,718 SAR ,2022-02-13
+Bulgaria Air,SVO,PAR,15h 05m ,1 stop ,810 SAR ,2022-02-13
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,014 SAR ",2022-02-13
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,230 SAR ",2022-02-13
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,230 SAR ",2022-02-13
+Aeroflot,SVO,PAR,7h 50m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,8h 45m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,9h 25m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,10h 35m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,10h 45m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,11h 30m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,12h 30m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,13h 40m ,1 stop ,"1,411 SAR ",2022-02-13
+Aeroflot,SVO,PAR,14h 20m ,1 stop ,"1,411 SAR ",2022-02-13
+Multiple Airlines,SVO,PAR,15h 15m ,3 stops ,702 SAR ,2022-02-13
+"Aeroflot, Kenya Airways",SVO,PAR,12h 50m ,2 stops ,"5,611 SAR ",2022-02-13
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-13
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-13
+Multiple Airlines,SVO,PAR,14h 55m ,2 stops ,"8,240 SAR ",2022-02-13
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-13
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-13
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-13
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,504 SAR ,2022-02-14
+Air France,SVO,PAR,4h 10m ,nonstop ,599 SAR ,2022-02-14
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,430 SAR ,2022-02-14
+Air France,SVO,PAR,4h 20m ,nonstop ,599 SAR ,2022-02-14
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-02-14
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-14
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-14
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-14
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-14
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-14
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-14
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-14
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-14
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-14
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,16h 15m ,1 stop ,641 SAR ,2022-02-14
+KLM,SVO,PAR,11h 45m ,1 stop ,644 SAR ,2022-02-14
+"Aeroflot, Transavia France",SVO,PAR,7h 25m ,1 stop ,662 SAR ,2022-02-14
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,014 SAR ",2022-02-14
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,014 SAR ",2022-02-14
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,589 SAR ,2022-02-14
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,619 SAR ,2022-02-14
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,619 SAR ,2022-02-14
+"Aeroflot, Air Serbia",SVO,PAR,10h 55m ,2 stops ,716 SAR ,2022-02-14
+"Aeroflot, Ryanair",SVO,PAR,11h 40m ,2 stops ,758 SAR ,2022-02-14
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,791 SAR ,2022-02-14
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,411 SAR ",2022-02-14
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,411 SAR ",2022-02-14
+Multiple Airlines,SVO,PAR,16h 05m ,2 stops ,561 SAR ,2022-02-14
+"Aeroflot, Lufthansa",SVO,PAR,8h 30m ,1 stop ,777 SAR ,2022-02-14
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-14
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-14
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-14
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-14
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-14
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-14
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,504 SAR ,2022-02-15
+Air France,SVO,PAR,4h 20m ,nonstop ,573 SAR ,2022-02-15
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,430 SAR ,2022-02-15
+Air France,SVO,PAR,4h 10m ,nonstop ,599 SAR ,2022-02-15
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,022 SAR ",2022-02-15
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,022 SAR ",2022-02-15
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-15
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-15
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-15
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-15
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-15
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-15
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-15
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-15
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-15
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-15
+"Nordwind Airlines, Wizz Air",SVO,PAR,14h 10m ,1 stop ,614 SAR ,2022-02-15
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-15
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-15
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-15
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-15
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,690 SAR ,2022-02-15
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,731 SAR ,2022-02-15
+"Aeroflot, easyJet",SVO,PAR,12h 40m ,1 stop ,782 SAR ,2022-02-15
+"Aeroflot, easyJet",SVO,PAR,9h 30m ,1 stop ,801 SAR ,2022-02-15
+"Aeroflot, Air France",SVO,PAR,11h 10m ,1 stop ,804 SAR ,2022-02-15
+"Aeroflot, easyJet",SVO,PAR,7h 30m ,1 stop ,828 SAR ,2022-02-15
+"Nordwind Airlines, Turkish Airlines",SVO,PAR,10h 35m ,1 stop ,865 SAR ,2022-02-15
+"Aeroflot, Lufthansa",SVO,PAR,11h 05m ,1 stop ,990 SAR ,2022-02-15
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,589 SAR ,2022-02-15
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,619 SAR ,2022-02-15
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,619 SAR ,2022-02-15
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,619 SAR ,2022-02-15
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,619 SAR ,2022-02-15
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,626 SAR ,2022-02-15
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,671 SAR ,2022-02-15
+"Aeroflot, Finnair",SVO,PAR,14h 30m ,2 stops ,671 SAR ,2022-02-15
+"Finnair, Vueling",SVO,PAR,10h 55m ,2 stops ,682 SAR ,2022-02-15
+"Aeroflot, Ryanair",SVO,PAR,11h 55m ,2 stops ,682 SAR ,2022-02-15
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,717 SAR ,2022-02-15
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,752 SAR ,2022-02-15
+"LOT, easyJet",SVO,PAR,10h 15m ,2 stops ,883 SAR ,2022-02-15
+"Aeroflot, KLM",SVO,PAR,9h 00m ,2 stops ,949 SAR ,2022-02-15
+"Aeroflot, KLM",SVO,PAR,9h 55m ,2 stops ,949 SAR ,2022-02-15
+"Aeroflot, KLM",SVO,PAR,10h 35m ,2 stops ,949 SAR ,2022-02-15
+Multiple Airlines,SVO,PAR,15h 05m ,3 stops ,675 SAR ,2022-02-15
+Multiple Airlines,SVO,PAR,15h 40m ,3 stops ,675 SAR ,2022-02-15
+"Finnair, Vueling",SVO,PAR,11h 00m ,2 stops ,700 SAR ,2022-02-15
+"KLM, Ryanair",SVO,PAR,16h 05m ,3 stops ,837 SAR ,2022-02-15
+Multiple Airlines,SVO,PAR,15h 20m ,3 stops ,842 SAR ,2022-02-15
+"airBaltic, Lufthansa",SVO,PAR,9h 25m ,2 stops ,"1,314 SAR ",2022-02-15
+"Aeroflot, LOT",SVO,PAR,14h 40m ,1 stop ,"4,101 SAR ",2022-02-15
+"LOT, KLM",SVO,PAR,15h 40m ,2 stops ,"4,557 SAR ",2022-02-15
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,856 SAR ",2022-02-15
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,856 SAR ",2022-02-15
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-15
+"Aeroflot, Lufthansa",SVO,PAR,13h 00m ,2 stops ,"5,586 SAR ",2022-02-15
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-15
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-15
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-15
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-15
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-15
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-15
+Air France,SVO,PAR,4h 10m ,nonstop ,597 SAR ,2022-02-16
+Finnair,SVO,PAR,7h 50m ,1 stop ,395 SAR ,2022-02-16
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,024 SAR ",2022-02-16
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,090 SAR ",2022-02-16
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-16
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-02-16
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-16
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-16
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-16
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-16
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-16
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-16
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-02-16
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-16
+airBaltic,SVO,PAR,13h 25m ,1 stop ,483 SAR ,2022-02-16
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-16
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-16
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-16
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-16
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-16
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,668 SAR ,2022-02-16
+"Finnair, Ryanair",SVO,PAR,10h 10m ,2 stops ,577 SAR ,2022-02-16
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,589 SAR ,2022-02-16
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,608 SAR ,2022-02-16
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,608 SAR ,2022-02-16
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,619 SAR ,2022-02-16
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,619 SAR ,2022-02-16
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-16
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-16
+KLM,SVO,PAR,16h 15m ,1 stop ,641 SAR ,2022-02-16
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,729 SAR ,2022-02-16
+"Aeroflot, Czech Airlines",SVO,PAR,9h 15m ,2 stops ,769 SAR ,2022-02-16
+Multiple Airlines,SVO,PAR,16h 05m ,2 stops ,592 SAR ,2022-02-16
+Multiple Airlines,SVO,PAR,14h 30m ,3 stops ,672 SAR ,2022-02-16
+Multiple Airlines,SVO,PAR,13h 00m ,3 stops ,675 SAR ,2022-02-16
+"Finnair, Ryanair",SVO,PAR,14h 50m ,3 stops ,701 SAR ,2022-02-16
+"Finnair, Ryanair",SVO,PAR,13h 25m ,3 stops ,715 SAR ,2022-02-16
+Multiple Airlines,SVO,PAR,14h 40m ,3 stops ,722 SAR ,2022-02-16
+Multiple Airlines,SVO,PAR,13h 05m ,2 stops ,998 SAR ,2022-02-16
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-16
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-16
+"Czech Airlines, Lufthansa",SVO,PAR,8h 10m ,2 stops ,"9,068 SAR ",2022-02-16
+"KLM, SWISS",SVO,PAR,9h 50m ,2 stops ,"9,797 SAR ",2022-02-16
+"Aeroflot, KLM",SVO,PAR,8h 00m ,1 stop ,"12,499 SAR ",2022-02-16
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-16
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-16
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-16
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,504 SAR ,2022-02-17
+Air France,SVO,PAR,4h 10m ,nonstop ,599 SAR ,2022-02-17
+Finnair,SVO,PAR,9h 35m ,1 stop ,395 SAR ,2022-02-17
+Air France,SVO,PAR,4h 20m ,nonstop ,599 SAR ,2022-02-17
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,024 SAR ",2022-02-17
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-17
+Finnair,SVO,PAR,13h 50m ,1 stop ,395 SAR ,2022-02-17
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,430 SAR ,2022-02-17
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-17
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-17
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-17
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-17
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-17
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-17
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-17
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-17
+KLM,SVO,PAR,16h 15m ,1 stop ,641 SAR ,2022-02-17
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,701 SAR ,2022-02-17
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,734 SAR ,2022-02-17
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,734 SAR ,2022-02-17
+"Aeroflot, easyJet",SVO,PAR,9h 15m ,1 stop ,855 SAR ,2022-02-17
+"Pobeda, Finnair",SVO,PAR,9h 55m ,2 stops ,577 SAR ,2022-02-17
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,608 SAR ,2022-02-17
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,608 SAR ,2022-02-17
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,608 SAR ,2022-02-17
+"Aeroflot, Finnair",SVO,PAR,12h 00m ,2 stops ,608 SAR ,2022-02-17
+"Aeroflot, Finnair",SVO,PAR,12h 35m ,2 stops ,608 SAR ,2022-02-17
+"Aeroflot, Vueling",SVO,PAR,9h 50m ,1 stop ,933 SAR ,2022-02-17
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,014 SAR ",2022-02-17
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,014 SAR ",2022-02-17
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,230 SAR ",2022-02-17
+Aeroflot,SVO,PAR,16h 05m ,1 stop ,"1,230 SAR ",2022-02-17
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,279 SAR ",2022-02-17
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,279 SAR ",2022-02-17
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,279 SAR ",2022-02-17
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,279 SAR ",2022-02-17
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,279 SAR ",2022-02-17
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,279 SAR ",2022-02-17
+"Aeroflot, Ryanair",SVO,PAR,14h 30m ,2 stops ,682 SAR ,2022-02-17
+"airBaltic, Vueling",SVO,PAR,13h 40m ,2 stops ,700 SAR ,2022-02-17
+"Aeroflot, Ryanair",SVO,PAR,14h 00m ,2 stops ,701 SAR ,2022-02-17
+"Finnair, easyJet",SVO,PAR,13h 50m ,2 stops ,713 SAR ,2022-02-17
+Multiple Airlines,SVO,PAR,15h 15m ,3 stops ,830 SAR ,2022-02-17
+Multiple Airlines,SVO,PAR,13h 30m ,3 stops ,950 SAR ,2022-02-17
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,954 SAR ",2022-02-17
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,735 SAR ",2022-02-17
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-17
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-17
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-17
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-17
+Air France,SVO,PAR,4h 10m ,nonstop ,599 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,16h 00m ,2 stops ,405 SAR ,2022-02-18
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,055 SAR ",2022-02-18
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-02-18
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-02-18
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-02-18
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-18
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-18
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-18
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,626 SAR ,2022-02-18
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-18
+Finnair,SVO,PAR,14h 45m ,1 stop ,645 SAR ,2022-02-18
+"Aeroflot, Transavia France",SVO,PAR,6h 40m ,1 stop ,673 SAR ,2022-02-18
+"Aeroflot, easyJet",SVO,PAR,7h 35m ,1 stop ,701 SAR ,2022-02-18
+KLM,SVO,PAR,8h 15m ,1 stop ,730 SAR ,2022-02-18
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,734 SAR ,2022-02-18
+KLM,SVO,PAR,6h 05m ,1 stop ,825 SAR ,2022-02-18
+"KLM, Air France",SVO,PAR,16h 15m ,1 stop ,654 SAR ,2022-02-18
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,699 SAR ,2022-02-18
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,729 SAR ,2022-02-18
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,729 SAR ,2022-02-18
+KLM,SVO,PAR,14h 20m ,1 stop ,730 SAR ,2022-02-18
+KLM,SVO,PAR,15h 55m ,1 stop ,730 SAR ,2022-02-18
+"Aeroflot, Wizz Air",SVO,PAR,12h 15m ,1 stop ,745 SAR ,2022-02-18
+"Aeroflot, Ryanair",SVO,PAR,10h 25m ,1 stop ,756 SAR ,2022-02-18
+"KLM, Air France",SVO,PAR,21h 45m ,1 stop ,787 SAR ,2022-02-18
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,810 SAR ,2022-02-18
+KLM,SVO,PAR,7h 25m ,1 stop ,825 SAR ,2022-02-18
+KLM,SVO,PAR,10h 10m ,1 stop ,825 SAR ,2022-02-18
+KLM,SVO,PAR,11h 45m ,1 stop ,825 SAR ,2022-02-18
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,869 SAR ,2022-02-18
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,014 SAR ",2022-02-18
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,014 SAR ",2022-02-18
+Multiple Airlines,SVO,PAR,16h 45m ,2 stops ,405 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,9h 55m ,2 stops ,517 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,10h 50m ,2 stops ,517 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,12h 50m ,2 stops ,517 SAR ,2022-02-18
+"Aeroflot, Finnair",SVO,PAR,7h 45m ,2 stops ,608 SAR ,2022-02-18
+"Aeroflot, Finnair",SVO,PAR,8h 20m ,2 stops ,608 SAR ,2022-02-18
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,608 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,10h 10m ,2 stops ,608 SAR ,2022-02-18
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,723 SAR ,2022-02-18
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,230 SAR ",2022-02-18
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,230 SAR ",2022-02-18
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,279 SAR ",2022-02-18
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,279 SAR ",2022-02-18
+Multiple Airlines,SVO,PAR,16h 05m ,2 stops ,516 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,10h 50m ,3 stops ,681 SAR ,2022-02-18
+Multiple Airlines,SVO,PAR,15h 35m ,3 stops ,762 SAR ,2022-02-18
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,798 SAR ",2022-02-18
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,588 SAR ",2022-02-18
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-18
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-18
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-18
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-18
+LOT,SVO,PAR,6h 35m ,1 stop ,656 SAR ,2022-02-19
+Air France,SVO,PAR,4h 10m ,nonstop ,599 SAR ,2022-02-19
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-19
+Air France,SVO,PAR,4h 20m ,nonstop ,721 SAR ,2022-02-19
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,045 SAR ",2022-02-19
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-19
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-19
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-19
+"Aeroflot, easyJet",SVO,PAR,5h 45m ,1 stop ,669 SAR ,2022-02-19
+KLM,SVO,PAR,6h 05m ,1 stop ,730 SAR ,2022-02-19
+KLM,SVO,PAR,7h 25m ,1 stop ,730 SAR ,2022-02-19
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,781 SAR ,2022-02-19
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-19
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-02-19
+"Aeroflot, easyJet",SVO,PAR,8h 20m ,1 stop ,701 SAR ,2022-02-19
+KLM,SVO,PAR,8h 15m ,1 stop ,730 SAR ,2022-02-19
+KLM,SVO,PAR,10h 10m ,1 stop ,730 SAR ,2022-02-19
+KLM,SVO,PAR,11h 45m ,1 stop ,730 SAR ,2022-02-19
+"Nordwind Airlines, Air France",SVO,PAR,7h 25m ,1 stop ,737 SAR ,2022-02-19
+"Nordwind Airlines, Air France",SVO,PAR,8h 25m ,1 stop ,750 SAR ,2022-02-19
+Air Serbia,SVO,PAR,9h 40m ,1 stop ,781 SAR ,2022-02-19
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,014 SAR ",2022-02-19
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-19
+"Finnair, easyJet",SVO,PAR,10h 25m ,2 stops ,641 SAR ,2022-02-19
+Finnair,SVO,PAR,14h 45m ,1 stop ,645 SAR ,2022-02-19
+"Finnair, LOT",SVO,PAR,11h 30m ,2 stops ,679 SAR ,2022-02-19
+"Aeroflot, Air Serbia",SVO,PAR,12h 00m ,2 stops ,692 SAR ,2022-02-19
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,720 SAR ,2022-02-19
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,720 SAR ,2022-02-19
+KLM,SVO,PAR,14h 20m ,1 stop ,730 SAR ,2022-02-19
+KLM,SVO,PAR,15h 55m ,1 stop ,730 SAR ,2022-02-19
+"Aeroflot, HiSky",SVO,PAR,13h 50m ,1 stop ,769 SAR ,2022-02-19
+"Aeroflot, Czech Airlines",SVO,PAR,9h 15m ,2 stops ,776 SAR ,2022-02-19
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,810 SAR ,2022-02-19
+"Aeroflot, Finnair",SVO,PAR,9h 55m ,2 stops ,869 SAR ,2022-02-19
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,014 SAR ",2022-02-19
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,230 SAR ",2022-02-19
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,608 SAR ",2022-02-19
+Multiple Airlines,SVO,PAR,15h 45m ,2 stops ,598 SAR ,2022-02-19
+"Aeroflot, Ryanair",SVO,PAR,15h 00m ,3 stops ,692 SAR ,2022-02-19
+Multiple Airlines,SVO,PAR,14h 55m ,3 stops ,745 SAR ,2022-02-19
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,750 SAR ,2022-02-19
+Multiple Airlines,SVO,PAR,13h 30m ,3 stops ,971 SAR ,2022-02-19
+Multiple Airlines,SVO,PAR,13h 05m ,3 stops ,"1,001 SAR ",2022-02-19
+Multiple Airlines,SVO,PAR,15h 15m ,3 stops ,"1,016 SAR ",2022-02-19
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"1,023 SAR ",2022-02-19
+"Aeroflot, Air France",SVO,PAR,11h 55m ,2 stops ,"1,117 SAR ",2022-02-19
+Air Algerie,SVO,PAR,10h 50m ,1 stop ,"2,752 SAR ",2022-02-19
+Air Algerie,SVO,PAR,11h 55m ,1 stop ,"2,752 SAR ",2022-02-19
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,714 SAR ",2022-02-19
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-19
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-19
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-19
+airBaltic,SVO,PAR,13h 25m ,1 stop ,577 SAR ,2022-02-20
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,055 SAR ",2022-02-20
+Multiple Airlines,SVO,PAR,21h 30m ,2 stops ,454 SAR ,2022-02-20
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,442 SAR ",2022-02-20
+airBaltic,SVO,PAR,13h 25m ,1 stop ,483 SAR ,2022-02-20
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-20
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-20
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-20
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-20
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-20
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-20
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-20
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-20
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-20
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-20
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-20
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-02-20
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-02-20
+Finnair,SVO,PAR,14h 45m ,1 stop ,645 SAR ,2022-02-20
+"Aeroflot, Transavia France",SVO,PAR,8h 05m ,1 stop ,673 SAR ,2022-02-20
+"Aeroflot, airBaltic",SVO,PAR,8h 15m ,1 stop ,673 SAR ,2022-02-20
+Finnair,SVO,PAR,11h 40m ,1 stop ,703 SAR ,2022-02-20
+Finnair,SVO,PAR,15h 55m ,1 stop ,703 SAR ,2022-02-20
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,720 SAR ,2022-02-20
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,724 SAR ,2022-02-20
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,781 SAR ,2022-02-20
+Finnair,SVO,PAR,7h 50m ,1 stop ,789 SAR ,2022-02-20
+"Aeroflot, Ryanair",SVO,PAR,14h 45m ,1 stop ,743 SAR ,2022-02-20
+Bulgaria Air,SVO,PAR,15h 05m ,1 stop ,810 SAR ,2022-02-20
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,014 SAR ",2022-02-20
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,014 SAR ",2022-02-20
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,229 SAR ",2022-02-20
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,229 SAR ",2022-02-20
+Multiple Airlines,SVO,PAR,12h 10m ,2 stops ,651 SAR ,2022-02-20
+"Finnair, Ryanair",SVO,PAR,10h 05m ,2 stops ,652 SAR ,2022-02-20
+"Aeroflot, Air Serbia",SVO,PAR,14h 05m ,2 stops ,663 SAR ,2022-02-20
+Aeroflot,SVO,PAR,7h 50m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,8h 45m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,9h 25m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,10h 35m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,10h 45m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,11h 30m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,13h 40m ,1 stop ,"1,608 SAR ",2022-02-20
+Aeroflot,SVO,PAR,14h 20m ,1 stop ,"1,608 SAR ",2022-02-20
+Multiple Airlines,SVO,PAR,15h 05m ,3 stops ,825 SAR ,2022-02-20
+Multiple Airlines,SVO,PAR,15h 40m ,3 stops ,825 SAR ,2022-02-20
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"1,189 SAR ",2022-02-20
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,856 SAR ",2022-02-20
+"Aeroflot, Kenya Airways",SVO,PAR,12h 50m ,2 stops ,"5,611 SAR ",2022-02-20
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-02-20
+Multiple Airlines,SVO,PAR,14h 55m ,2 stops ,"8,240 SAR ",2022-02-20
+Multiple Airlines,SVO,PAR,10h 40m ,2 stops ,"12,130 SAR ",2022-02-20
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-02-20
+"Aeroflot, KLM",SVO,PAR,5h 50m ,1 stop ,"12,541 SAR ",2022-02-20
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-02-20
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-02-20
+airBaltic,SVO,PAR,8h 55m ,1 stop ,577 SAR ,2022-02-21
+Air France,SVO,PAR,4h 20m ,nonstop ,606 SAR ,2022-02-21
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-21
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-21
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,038 SAR ",2022-02-21
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-21
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,552 SAR ,2022-02-21
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-21
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-21
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-21
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-21
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-21
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-21
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-21
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-21
+KLM,SVO,PAR,11h 45m ,1 stop ,644 SAR ,2022-02-21
+LOT,SVO,PAR,6h 35m ,1 stop ,656 SAR ,2022-02-22
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-22
+"Finnair, Vueling",SVO,PAR,17h 50m ,2 stops ,559 SAR ,2022-02-22
+Air France,SVO,PAR,4h 20m ,nonstop ,732 SAR ,2022-02-22
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,055 SAR ",2022-02-22
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-02-22
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-22
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-22
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-22
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-22
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-22
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-22
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-22
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-22
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-22
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-02-22
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-22
+airBaltic,SVO,PAR,13h 25m ,1 stop ,577 SAR ,2022-02-23
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-23
+airBaltic,SVO,PAR,13h 25m ,1 stop ,483 SAR ,2022-02-23
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,038 SAR ",2022-02-23
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-23
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-23
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-23
+Finnair,SVO,PAR,7h 50m ,1 stop ,603 SAR ,2022-02-23
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-23
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-23
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-23
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-23
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-23
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-23
+Finnair,SVO,PAR,11h 40m ,1 stop ,603 SAR ,2022-02-23
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-23
+airBaltic,SVO,PAR,8h 55m ,1 stop ,577 SAR ,2022-02-24
+Air France,SVO,PAR,4h 20m ,nonstop ,606 SAR ,2022-02-24
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-24
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-24
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,037 SAR ",2022-02-24
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-24
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-24
+Finnair,SVO,PAR,9h 35m ,1 stop ,603 SAR ,2022-02-24
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-24
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-24
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-24
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-24
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-24
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-24
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,552 SAR ,2022-02-24
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-24
+LOT,SVO,PAR,6h 35m ,1 stop ,656 SAR ,2022-02-25
+Air France,SVO,PAR,4h 10m ,nonstop ,920 SAR ,2022-02-25
+Multiple Airlines,SVO,PAR,23h 35m ,2 stops ,431 SAR ,2022-02-25
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,040 SAR ",2022-02-25
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-02-25
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-25
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-25
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-25
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-25
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-25
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-02-25
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-25
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-25
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-25
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-25
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-25
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-25
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,504 SAR ,2022-02-26
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-26
+Finnair,SVO,PAR,16h 20m ,1 stop ,395 SAR ,2022-02-26
+Air France,SVO,PAR,4h 20m ,nonstop ,608 SAR ,2022-02-26
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,037 SAR ",2022-02-26
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-26
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,430 SAR ,2022-02-26
+Air Serbia,SVO,PAR,9h 40m ,1 stop ,516 SAR ,2022-02-26
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-26
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-26
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-26
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-26
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-26
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-26
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-02-26
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-02-26
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-27
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-02-27
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,055 SAR ",2022-02-27
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-02-27
+Finnair,SVO,PAR,6h 35m ,1 stop ,559 SAR ,2022-02-27
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-02-27
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-27
+airBaltic,SVO,PAR,13h 25m ,1 stop ,483 SAR ,2022-02-27
+Finnair,SVO,PAR,10h 50m ,1 stop ,559 SAR ,2022-02-27
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-27
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-27
+KLM,SVO,PAR,5h 50m ,1 stop ,641 SAR ,2022-02-27
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-27
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-27
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-02-27
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,504 SAR ,2022-02-28
+Air France,SVO,PAR,4h 20m ,nonstop ,606 SAR ,2022-02-28
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,431 SAR ,2022-02-28
+Air France,SVO,PAR,4h 10m ,nonstop ,608 SAR ,2022-02-28
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,038 SAR ",2022-02-28
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,110 SAR ",2022-02-28
+Finnair,SVO,PAR,6h 35m ,1 stop ,480 SAR ,2022-02-28
+Finnair,SVO,PAR,10h 50m ,1 stop ,480 SAR ,2022-02-28
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-02-28
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-02-28
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-02-28
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-02-28
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-02-28
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-02-28
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-02-28
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-02-28
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,504 SAR ,2022-03-03
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-03-03
+Finnair,SVO,PAR,9h 35m ,1 stop ,395 SAR ,2022-03-03
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-03-03
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,435 SAR ",2022-03-03
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,435 SAR ",2022-03-03
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-03-03
+airBaltic,SVO,PAR,8h 55m ,1 stop ,483 SAR ,2022-03-03
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-03-03
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-03-03
+Finnair,SVO,PAR,13h 50m ,1 stop ,395 SAR ,2022-03-03
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,431 SAR ,2022-03-03
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-03-03
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-03-03
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-03-03
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-03-03
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-03-03
+KLM,SVO,PAR,12h 40m ,1 stop ,641 SAR ,2022-03-03
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-03-03
+Finnair,SVO,PAR,14h 45m ,1 stop ,645 SAR ,2022-03-03
+KLM,SVO,PAR,8h 15m ,1 stop ,730 SAR ,2022-03-03
+"Aeroflot, easyJet",SVO,PAR,7h 30m ,1 stop ,808 SAR ,2022-03-03
+"Aeroflot, Transavia France",SVO,PAR,7h 55m ,1 stop ,815 SAR ,2022-03-03
+KLM,SVO,PAR,15h 55m ,1 stop ,730 SAR ,2022-03-03
+KLM,SVO,PAR,16h 15m ,1 stop ,730 SAR ,2022-03-03
+"Aeroflot, easyJet",SVO,PAR,9h 15m ,1 stop ,791 SAR ,2022-03-03
+"Aeroflot, Transavia France",SVO,PAR,9h 55m ,1 stop ,897 SAR ,2022-03-03
+"Nordwind Airlines, Turkish Airlines",SVO,PAR,10h 35m ,1 stop ,911 SAR ,2022-03-03
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,014 SAR ",2022-03-03
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,014 SAR ",2022-03-03
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,"1,020 SAR ",2022-03-03
+"Aeroflot, Vueling",SVO,PAR,9h 50m ,1 stop ,"1,060 SAR ",2022-03-03
+"Aeroflot, Transavia France",SVO,PAR,6h 45m ,1 stop ,"1,149 SAR ",2022-03-03
+"LOT, Ryanair",SVO,PAR,9h 30m ,2 stops ,934 SAR ,2022-03-03
+"airBaltic, Lufthansa",SVO,PAR,13h 00m ,2 stops ,962 SAR ,2022-03-03
+"LOT, easyJet",SVO,PAR,10h 15m ,2 stops ,"1,031 SAR ",2022-03-03
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,"1,230 SAR ",2022-03-03
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,"1,230 SAR ",2022-03-03
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,230 SAR ",2022-03-03
+Aeroflot,SVO,PAR,16h 05m ,1 stop ,"1,230 SAR ",2022-03-03
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,279 SAR ",2022-03-03
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,279 SAR ",2022-03-03
+"airBaltic, Lufthansa",SVO,PAR,9h 25m ,2 stops ,"1,314 SAR ",2022-03-03
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,851 SAR ",2022-03-03
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,851 SAR ",2022-03-03
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,851 SAR ",2022-03-03
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,950 SAR ",2022-03-03
+"Aeroflot, Air France",SVO,PAR,12h 25m ,1 stop ,"5,320 SAR ",2022-03-03
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,735 SAR ",2022-03-03
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,080 SAR ",2022-03-03
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,080 SAR ",2022-03-03
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,080 SAR ",2022-03-03
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,080 SAR ",2022-03-03
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-03
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,"12,499 SAR ",2022-03-03
+LOT,SVO,PAR,6h 35m ,1 stop ,656 SAR ,2022-03-04
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,055 SAR ",2022-03-04
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,516 SAR ,2022-03-04
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,055 SAR ",2022-03-04
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,440 SAR ",2022-03-04
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,440 SAR ",2022-03-04
+LOT,SVO,PAR,6h 35m ,1 stop ,574 SAR ,2022-03-04
+LOT,SVO,PAR,10h 45m ,1 stop ,574 SAR ,2022-03-04
+KLM,SVO,PAR,7h 25m ,1 stop ,730 SAR ,2022-03-04
+KLM,SVO,PAR,10h 10m ,1 stop ,730 SAR ,2022-03-04
+KLM,SVO,PAR,6h 05m ,1 stop ,937 SAR ,2022-03-04
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,949 SAR ,2022-03-04
+Finnair,SVO,PAR,6h 35m ,1 stop ,976 SAR ,2022-03-04
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,014 SAR ",2022-03-04
+LOT,SVO,PAR,14h 40m ,1 stop ,574 SAR ,2022-03-04
+Finnair,SVO,PAR,14h 45m ,1 stop ,645 SAR ,2022-03-04
+KLM,SVO,PAR,11h 45m ,1 stop ,730 SAR ,2022-03-04
+KLM,SVO,PAR,12h 40m ,1 stop ,730 SAR ,2022-03-04
+KLM,SVO,PAR,14h 20m ,1 stop ,730 SAR ,2022-03-04
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,810 SAR ,2022-03-04
+"Aeroflot, Transavia France",SVO,PAR,9h 45m ,1 stop ,862 SAR ,2022-03-04
+"Aeroflot, easyJet",SVO,PAR,10h 05m ,1 stop ,911 SAR ,2022-03-04
+"LOT, Wizz Air",SVO,PAR,7h 55m ,1 stop ,936 SAR ,2022-03-04
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,949 SAR ,2022-03-04
+"Aeroflot, Transavia France",SVO,PAR,6h 40m ,1 stop ,951 SAR ,2022-03-04
+"Aeroflot, Air Serbia",SVO,PAR,10h 55m ,1 stop ,955 SAR ,2022-03-04
+Finnair,SVO,PAR,10h 50m ,1 stop ,976 SAR ,2022-03-04
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,014 SAR ",2022-03-04
+KLM,SVO,PAR,8h 15m ,1 stop ,"1,237 SAR ",2022-03-04
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,279 SAR ",2022-03-04
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,279 SAR ",2022-03-04
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,053 SAR ",2022-03-13
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,094 SAR ",2022-03-13
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,442 SAR ",2022-03-13
+LOT,SVO,PAR,6h 35m ,1 stop ,569 SAR ,2022-03-13
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,098 SAR ",2022-03-14
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,121 SAR ",2022-03-14
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,463 SAR ",2022-03-14
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,453 SAR ,2022-03-14
+LOT,SVO,PAR,6h 35m ,1 stop ,649 SAR ,2022-03-14
+KLM,SVO,PAR,6h 05m ,1 stop ,658 SAR ,2022-03-14
+Brussels Airlines,SVO,PAR,16h 55m ,1 stop ,580 SAR ,2022-03-14
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,763 SAR ",2022-03-14
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,504 SAR ,2022-03-15
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,053 SAR ",2022-03-15
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-15
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,185 SAR ",2022-03-15
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-03-15
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-03-15
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-15
+LOT,SVO,PAR,6h 35m ,1 stop ,569 SAR ,2022-03-15
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,443 SAR ",2022-03-15
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,429 SAR ,2022-03-15
+LOT,SVO,PAR,10h 45m ,1 stop ,569 SAR ,2022-03-15
+LOT,SVO,PAR,14h 40m ,1 stop ,569 SAR ,2022-03-15
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,12h 40m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-03-15
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-03-15
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,719 SAR ,2022-03-15
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,731 SAR ,2022-03-15
+"Aeroflot, easyJet",SVO,PAR,10h 05m ,1 stop ,808 SAR ,2022-03-15
+"Aeroflot, Vueling",SVO,PAR,10h 05m ,1 stop ,838 SAR ,2022-03-15
+"Aeroflot, easyJet",SVO,PAR,7h 30m ,1 stop ,856 SAR ,2022-03-15
+"Aeroflot, Air France",SVO,PAR,8h 40m ,1 stop ,895 SAR ,2022-03-15
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,742 SAR ,2022-03-15
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,760 SAR ,2022-03-15
+"Aeroflot, LOT",SVO,PAR,14h 40m ,1 stop ,"4,088 SAR ",2022-03-15
+"LOT, KLM",SVO,PAR,15h 40m ,2 stops ,"4,550 SAR ",2022-03-15
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,850 SAR ",2022-03-15
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,850 SAR ",2022-03-15
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,850 SAR ",2022-03-15
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,945 SAR ",2022-03-15
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-03-15
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,580 SAR ",2022-03-15
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,099 SAR ",2022-03-15
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,099 SAR ",2022-03-15
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,099 SAR ",2022-03-15
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,099 SAR ",2022-03-15
+Multiple Airlines,SVO,PAR,14h 50m ,2 stops ,"12,099 SAR ",2022-03-15
+Multiple Airlines,SVO,PAR,15h 30m ,2 stops ,"12,099 SAR ",2022-03-15
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-15
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-15
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-15
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-16
+Finnair,SVO,PAR,7h 50m ,1 stop ,395 SAR ,2022-03-16
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,094 SAR ",2022-03-16
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,108 SAR ",2022-03-16
+Finnair,SVO,PAR,6h 35m ,1 stop ,435 SAR ,2022-03-16
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,514 SAR ,2022-03-16
+LOT,SVO,PAR,6h 35m ,1 stop ,569 SAR ,2022-03-16
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,443 SAR ",2022-03-16
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-03-16
+Finnair,SVO,PAR,10h 50m ,1 stop ,435 SAR ,2022-03-16
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-03-16
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-03-16
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-03-16
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-03-16
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-03-16
+airBaltic,SVO,PAR,13h 25m ,1 stop ,480 SAR ,2022-03-16
+LOT,SVO,PAR,10h 45m ,1 stop ,569 SAR ,2022-03-16
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-03-16
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-03-16
+LOT,SVO,PAR,14h 40m ,1 stop ,569 SAR ,2022-03-16
+KLM,SVO,PAR,12h 40m ,1 stop ,641 SAR ,2022-03-16
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-03-16
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-03-16
+KLM,SVO,PAR,16h 15m ,1 stop ,641 SAR ,2022-03-16
+"Aeroflot, easyJet",SVO,PAR,10h 05m ,1 stop ,806 SAR ,2022-03-16
+"Aeroflot, Air France",SVO,PAR,10h 00m ,1 stop ,930 SAR ,2022-03-16
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,983 SAR ,2022-03-16
+"Aeroflot, Vueling",SVO,PAR,11h 55m ,1 stop ,877 SAR ,2022-03-16
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,898 SAR ,2022-03-16
+"Aeroflot, easyJet",SVO,PAR,11h 20m ,1 stop ,929 SAR ,2022-03-16
+"LOT, Ryanair",SVO,PAR,9h 00m ,2 stops ,967 SAR ,2022-03-16
+"Aeroflot, Vueling",SVO,PAR,10h 35m ,1 stop ,992 SAR ,2022-03-16
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,995 SAR ,2022-03-16
+KLM,SVO,PAR,6h 20m ,1 stop ,"1,261 SAR ",2022-03-16
+KLM,SVO,PAR,7h 55m ,1 stop ,"1,261 SAR ",2022-03-16
+"KLM, easyJet",SVO,PAR,10h 55m ,2 stops ,"1,007 SAR ",2022-03-16
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,"1,014 SAR ",2022-03-16
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,850 SAR ",2022-03-16
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,850 SAR ",2022-03-16
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,850 SAR ",2022-03-16
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,945 SAR ",2022-03-16
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-03-16
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,580 SAR ",2022-03-16
+Multiple Airlines,SVO,PAR,20h 05m ,2 stops ,"6,687 SAR ",2022-03-16
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,099 SAR ",2022-03-16
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,099 SAR ",2022-03-16
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,099 SAR ",2022-03-16
+Multiple Airlines,SVO,PAR,14h 50m ,2 stops ,"12,099 SAR ",2022-03-16
+Multiple Airlines,SVO,PAR,15h 30m ,2 stops ,"12,099 SAR ",2022-03-16
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-16
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-16
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,504 SAR ,2022-03-17
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-17
+Finnair,SVO,PAR,9h 35m ,1 stop ,395 SAR ,2022-03-17
+Finnair,SVO,PAR,6h 35m ,1 stop ,480 SAR ,2022-03-17
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,443 SAR ",2022-03-17
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,444 SAR ",2022-03-17
+airBaltic,SVO,PAR,8h 55m ,1 stop ,481 SAR ,2022-03-17
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-17
+KLM,SVO,PAR,6h 05m ,1 stop ,641 SAR ,2022-03-17
+Finnair,SVO,PAR,13h 50m ,1 stop ,395 SAR ,2022-03-17
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,427 SAR ,2022-03-17
+Finnair,SVO,PAR,14h 45m ,1 stop ,435 SAR ,2022-03-17
+Finnair,SVO,PAR,10h 50m ,1 stop ,480 SAR ,2022-03-17
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-17
+KLM,SVO,PAR,7h 25m ,1 stop ,641 SAR ,2022-03-17
+KLM,SVO,PAR,8h 15m ,1 stop ,641 SAR ,2022-03-17
+KLM,SVO,PAR,10h 10m ,1 stop ,641 SAR ,2022-03-17
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-17
+KLM,SVO,PAR,11h 45m ,1 stop ,641 SAR ,2022-03-17
+KLM,SVO,PAR,12h 40m ,1 stop ,641 SAR ,2022-03-17
+KLM,SVO,PAR,14h 20m ,1 stop ,641 SAR ,2022-03-17
+"Aeroflot, Lufthansa",SVO,PAR,7h 00m ,1 stop ,892 SAR ,2022-03-17
+KLM,SVO,PAR,15h 55m ,1 stop ,641 SAR ,2022-03-17
+KLM,SVO,PAR,16h 15m ,1 stop ,642 SAR ,2022-03-17
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,700 SAR ,2022-03-17
+"KLM, Air France",SVO,PAR,21h 45m ,1 stop ,703 SAR ,2022-03-17
+"Aeroflot, easyJet",SVO,PAR,9h 30m ,1 stop ,791 SAR ,2022-03-17
+"Nordwind Airlines, Turkish Airlines",SVO,PAR,10h 35m ,1 stop ,876 SAR ,2022-03-17
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,983 SAR ,2022-03-17
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,010 SAR ",2022-03-17
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,010 SAR ",2022-03-17
+"Aeroflot, Transavia France",SVO,PAR,7h 55m ,1 stop ,"1,060 SAR ",2022-03-17
+"Aeroflot, Transavia France",SVO,PAR,6h 45m ,1 stop ,"1,104 SAR ",2022-03-17
+"KLM, Air France",SVO,PAR,28h 40m ,1 stop ,701 SAR ,2022-03-17
+"KLM, Air France",SVO,PAR,25h 55m ,1 stop ,703 SAR ,2022-03-17
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,905 SAR ,2022-03-17
+"LOT, Ryanair",SVO,PAR,9h 30m ,2 stops ,952 SAR ,2022-03-17
+"airBaltic, Lufthansa",SVO,PAR,13h 00m ,2 stops ,961 SAR ,2022-03-17
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,"1,014 SAR ",2022-03-17
+"Aeroflot, easyJet",SVO,PAR,9h 15m ,1 stop ,"1,134 SAR ",2022-03-17
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,"1,231 SAR ",2022-03-17
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,"1,231 SAR ",2022-03-17
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,231 SAR ",2022-03-17
+Aeroflot,SVO,PAR,16h 05m ,1 stop ,"1,231 SAR ",2022-03-17
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,280 SAR ",2022-03-17
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,280 SAR ",2022-03-17
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,280 SAR ",2022-03-17
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,280 SAR ",2022-03-17
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,280 SAR ",2022-03-17
+"LOT, easyJet",SVO,PAR,10h 15m ,2 stops ,"1,048 SAR ",2022-03-17
+"LOT, Lufthansa",SVO,PAR,10h 00m ,2 stops ,"4,570 SAR ",2022-03-17
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,850 SAR ",2022-03-17
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,850 SAR ",2022-03-17
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,940 SAR ",2022-03-17
+"Aeroflot, Air France",SVO,PAR,12h 25m ,1 stop ,"5,320 SAR ",2022-03-17
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,735 SAR ",2022-03-17
+"Aeroflot, Lufthansa",SVO,PAR,10h 35m ,2 stops ,"6,867 SAR ",2022-03-17
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,093 SAR ",2022-03-17
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,093 SAR ",2022-03-17
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,093 SAR ",2022-03-17
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,099 SAR ",2022-03-17
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-17
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,"12,499 SAR ",2022-03-17
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-17
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-17
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,592 SAR ,2022-03-18
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,054 SAR ",2022-03-18
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,054 SAR ",2022-03-18
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-18
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,514 SAR ,2022-03-18
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-18
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,444 SAR ",2022-03-18
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,444 SAR ",2022-03-18
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-18
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-18
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-18
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-18
+KLM,SVO,PAR,8h 15m ,1 stop ,642 SAR ,2022-03-18
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-18
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-18
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-03-18
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-03-18
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-18
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-18
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-18
+"Aeroflot, Ryanair",SVO,PAR,11h 40m ,1 stop ,773 SAR ,2022-03-18
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,809 SAR ,2022-03-18
+"Aeroflot, easyJet",SVO,PAR,9h 15m ,1 stop ,821 SAR ,2022-03-18
+"Aeroflot, easyJet",SVO,PAR,9h 30m ,1 stop ,858 SAR ,2022-03-18
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,873 SAR ,2022-03-18
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,873 SAR ,2022-03-18
+"Aeroflot, Transavia France",SVO,PAR,10h 05m ,1 stop ,916 SAR ,2022-03-18
+"Aeroflot, Ryanair",SVO,PAR,6h 35m ,1 stop ,920 SAR ,2022-03-18
+"Aeroflot, Transavia France",SVO,PAR,6h 40m ,1 stop ,951 SAR ,2022-03-18
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,010 SAR ",2022-03-18
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,010 SAR ",2022-03-18
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,231 SAR ",2022-03-18
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,231 SAR ",2022-03-18
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,281 SAR ",2022-03-18
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,281 SAR ",2022-03-18
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,281 SAR ",2022-03-18
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,281 SAR ",2022-03-18
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,281 SAR ",2022-03-18
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,281 SAR ",2022-03-18
+Multiple Airlines,SVO,PAR,25h 20m ,2 stops ,384 SAR ,2022-03-18
+"Aeroflot, FLYONE",SVO,PAR,12h 05m ,2 stops ,686 SAR ,2022-03-18
+"KLM, easyJet",SVO,PAR,13h 40m ,2 stops ,762 SAR ,2022-03-18
+"Aeroflot, FLYONE",SVO,PAR,11h 05m ,2 stops ,834 SAR ,2022-03-18
+"LOT, Transavia France",SVO,PAR,10h 25m ,2 stops ,875 SAR ,2022-03-18
+"Aeroflot, LOT",SVO,PAR,10h 50m ,2 stops ,888 SAR ,2022-03-18
+"LOT, easyJet",SVO,PAR,10h 15m ,2 stops ,972 SAR ,2022-03-18
+"Aeroflot, LOT",SVO,PAR,9h 05m ,2 stops ,"1,036 SAR ",2022-03-18
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,281 SAR ",2022-03-18
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,281 SAR ",2022-03-18
+"LOT, Lufthansa",SVO,PAR,15h 15m ,2 stops ,"4,612 SAR ",2022-03-18
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,846 SAR ",2022-03-18
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,846 SAR ",2022-03-18
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,798 SAR ",2022-03-18
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-18
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,092 SAR ",2022-03-18
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-18
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-18
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-18
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,504 SAR ,2022-03-19
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,054 SAR ",2022-03-19
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,079 SAR ",2022-03-19
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,109 SAR ",2022-03-19
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,427 SAR ,2022-03-19
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,308 SAR ",2022-03-19
+Finnair,SVO,PAR,16h 20m ,1 stop ,395 SAR ,2022-03-19
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-19
+Air Serbia,SVO,PAR,9h 40m ,1 stop ,514 SAR ,2022-03-19
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-19
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-19
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-19
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-19
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-19
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-19
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-19
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-19
+KLM,SVO,PAR,7h 25m ,1 stop ,731 SAR ,2022-03-19
+"Nordwind Airlines, Air France",SVO,PAR,7h 25m ,1 stop ,752 SAR ,2022-03-19
+"Nordwind Airlines, Air France",SVO,PAR,8h 25m ,1 stop ,752 SAR ,2022-03-19
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-19
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,809 SAR ,2022-03-19
+"Aeroflot, easyJet",SVO,PAR,8h 45m ,1 stop ,817 SAR ,2022-03-19
+"Aeroflot, easyJet",SVO,PAR,11h 15m ,1 stop ,817 SAR ,2022-03-19
+KLM,SVO,PAR,8h 15m ,1 stop ,827 SAR ,2022-03-19
+"Aeroflot, easyJet",SVO,PAR,7h 35m ,1 stop ,829 SAR ,2022-03-19
+"Aeroflot, Lufthansa",SVO,PAR,9h 45m ,1 stop ,841 SAR ,2022-03-19
+Finnair,SVO,PAR,6h 35m ,1 stop ,854 SAR ,2022-03-19
+Finnair,SVO,PAR,10h 50m ,1 stop ,854 SAR ,2022-03-19
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,010 SAR ",2022-03-19
+"Aeroflot, Ryanair",SVO,PAR,10h 15m ,1 stop ,892 SAR ,2022-03-19
+"Aeroflot, easyJet",SVO,PAR,8h 20m ,1 stop ,993 SAR ,2022-03-19
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,010 SAR ",2022-03-19
+"Aeroflot, Air France",SVO,PAR,7h 20m ,1 stop ,"1,070 SAR ",2022-03-19
+"Aeroflot, Air France",SVO,PAR,7h 30m ,1 stop ,"1,070 SAR ",2022-03-19
+"Aeroflot, Air France",SVO,PAR,8h 15m ,1 stop ,"1,070 SAR ",2022-03-19
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,281 SAR ",2022-03-19
+"Aeroflot, Pegasus Airlines",SVO,PAR,15h 20m ,2 stops ,591 SAR ,2022-03-19
+"Aeroflot, Air Serbia",SVO,PAR,12h 00m ,2 stops ,760 SAR ,2022-03-19
+"LOT, easyJet",SVO,PAR,9h 40m ,2 stops ,912 SAR ,2022-03-19
+"LOT, Air Serbia",SVO,PAR,9h 05m ,2 stops ,"1,062 SAR ",2022-03-19
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,"1,231 SAR ",2022-03-19
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,"1,231 SAR ",2022-03-19
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,231 SAR ",2022-03-19
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,281 SAR ",2022-03-19
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,281 SAR ",2022-03-19
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,281 SAR ",2022-03-19
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,281 SAR ",2022-03-19
+Air Algerie,SVO,PAR,10h 50m ,1 stop ,"2,749 SAR ",2022-03-19
+Air Algerie,SVO,PAR,11h 55m ,1 stop ,"2,749 SAR ",2022-03-19
+"LOT, KLM",SVO,PAR,15h 40m ,2 stops ,"4,546 SAR ",2022-03-19
+"LOT, Lufthansa",SVO,PAR,9h 05m ,2 stops ,"4,569 SAR ",2022-03-19
+"LOT, Lufthansa",SVO,PAR,9h 05m ,2 stops ,"4,569 SAR ",2022-03-19
+"LOT, Lufthansa",SVO,PAR,8h 35m ,2 stops ,"4,596 SAR ",2022-03-19
+"LOT, Lufthansa",SVO,PAR,10h 05m ,2 stops ,"4,612 SAR ",2022-03-19
+"LOT, Lufthansa",SVO,PAR,10h 05m ,2 stops ,"4,612 SAR ",2022-03-19
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,841 SAR ",2022-03-19
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,714 SAR ",2022-03-19
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-19
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-19
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-19
+Aeroflot,SVO,PAR,4h 00m ,nonstop ,"1,053 SAR ",2022-03-20
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,514 SAR ,2022-03-20
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,443 SAR ",2022-03-20
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,444 SAR ",2022-03-20
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-03-20
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-20
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-20
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-03-20
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-03-20
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-20
+airBaltic,SVO,PAR,13h 25m ,1 stop ,481 SAR ,2022-03-20
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-20
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-20
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-20
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-03-20
+Finnair,SVO,PAR,7h 50m ,1 stop ,703 SAR ,2022-03-20
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-20
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-20
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-20
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-20
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-20
+airBaltic,SVO,PAR,8h 15m ,1 stop ,726 SAR ,2022-03-20
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,805 SAR ,2022-03-20
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,805 SAR ,2022-03-20
+"Aeroflot, Lufthansa",SVO,PAR,8h 30m ,1 stop ,852 SAR ,2022-03-20
+Bulgaria Air,SVO,PAR,15h 05m ,1 stop ,809 SAR ,2022-03-20
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,870 SAR ,2022-03-20
+"Aeroflot, easyJet",SVO,PAR,8h 10m ,1 stop ,887 SAR ,2022-03-20
+"Aeroflot, Transavia France",SVO,PAR,8h 45m ,1 stop ,943 SAR ,2022-03-20
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,982 SAR ,2022-03-20
+"Aeroflot, easyJet",SVO,PAR,8h 15m ,1 stop ,993 SAR ,2022-03-20
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,010 SAR ",2022-03-20
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,010 SAR ",2022-03-20
+"Aeroflot, Transavia",SVO,PAR,8h 45m ,1 stop ,"1,072 SAR ",2022-03-20
+"Aeroflot, Transavia France",SVO,PAR,8h 50m ,1 stop ,"1,084 SAR ",2022-03-20
+"Aeroflot, easyJet",SVO,PAR,6h 50m ,1 stop ,"1,167 SAR ",2022-03-20
+KLM,SVO,PAR,8h 15m ,1 stop ,"1,240 SAR ",2022-03-20
+"KLM, Air France",SVO,PAR,23h 20m ,1 stop ,703 SAR ,2022-03-20
+"KLM, Air France",SVO,PAR,24h 15m ,1 stop ,703 SAR ,2022-03-20
+"KLM, Air France",SVO,PAR,25h 55m ,1 stop ,703 SAR ,2022-03-20
+"KLM, Air France",SVO,PAR,28h 40m ,1 stop ,703 SAR ,2022-03-20
+"KLM, Air France",SVO,PAR,28h 35m ,1 stop ,788 SAR ,2022-03-20
+"Aeroflot, SWISS",SVO,PAR,9h 15m ,2 stops ,"1,024 SAR ",2022-03-20
+"Aeroflot, SWISS",SVO,PAR,9h 25m ,2 stops ,"1,024 SAR ",2022-03-20
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,231 SAR ",2022-03-20
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,231 SAR ",2022-03-20
+Aeroflot,SVO,PAR,7h 50m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,8h 45m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,9h 25m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,10h 35m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,10h 45m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,11h 30m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,12h 30m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,13h 40m ,1 stop ,"1,610 SAR ",2022-03-20
+Aeroflot,SVO,PAR,14h 20m ,1 stop ,"1,610 SAR ",2022-03-20
+"airBaltic, Lufthansa",SVO,PAR,12h 20m ,2 stops ,"1,360 SAR ",2022-03-20
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,841 SAR ",2022-03-20
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,841 SAR ",2022-03-20
+"Aeroflot, Air France",SVO,PAR,12h 25m ,1 stop ,"5,320 SAR ",2022-03-20
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-03-20
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-20
+Multiple Airlines,SVO,PAR,14h 55m ,2 stops ,"8,248 SAR ",2022-03-20
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-20
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,092 SAR ",2022-03-20
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,092 SAR ",2022-03-20
+"Aeroflot, KLM",SVO,PAR,8h 00m ,1 stop ,"12,499 SAR ",2022-03-20
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-20
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-20
+"Aeroflot, MEA",SVO,PAR,11h 35m ,1 stop ,"12,616 SAR ",2022-03-20
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,504 SAR ,2022-03-21
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-21
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,083 SAR ",2022-03-21
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,101 SAR ",2022-03-21
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,108 SAR ",2022-03-21
+Air Serbia,SVO,PAR,15h 20m ,1 stop ,427 SAR ,2022-03-21
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-21
+airBaltic,SVO,PAR,8h 55m ,1 stop ,481 SAR ,2022-03-21
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-21
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-21
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-21
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-21
+KLM,SVO,PAR,8h 15m ,1 stop ,642 SAR ,2022-03-21
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-03-21
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-21
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-21
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-21
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-21
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-21
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-03-21
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-21
+KLM,SVO,PAR,16h 15m ,1 stop ,642 SAR ,2022-03-21
+"KLM, Air France",SVO,PAR,17h 40m ,1 stop ,700 SAR ,2022-03-21
+"Aeroflot, Air France",SVO,PAR,10h 05m ,1 stop ,848 SAR ,2022-03-21
+"Aeroflot, Air France",SVO,PAR,6h 50m ,1 stop ,861 SAR ,2022-03-21
+"Aeroflot, Transavia France",SVO,PAR,7h 25m ,1 stop ,933 SAR ,2022-03-21
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,010 SAR ",2022-03-21
+"KLM, Air France",SVO,PAR,21h 45m ,1 stop ,703 SAR ,2022-03-21
+"KLM, Air France",SVO,PAR,25h 55m ,1 stop ,703 SAR ,2022-03-21
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,010 SAR ",2022-03-21
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,281 SAR ",2022-03-21
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,281 SAR ",2022-03-21
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,281 SAR ",2022-03-21
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,281 SAR ",2022-03-21
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,281 SAR ",2022-03-21
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,281 SAR ",2022-03-21
+"airBaltic, Transavia France",SVO,PAR,10h 15m ,2 stops ,709 SAR ,2022-03-21
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,940 SAR ,2022-03-21
+"airBaltic, Lufthansa",SVO,PAR,13h 00m ,2 stops ,961 SAR ,2022-03-21
+"Aeroflot, LOT",SVO,PAR,9h 00m ,2 stops ,971 SAR ,2022-03-21
+"Aeroflot, LOT",SVO,PAR,10h 20m ,2 stops ,971 SAR ,2022-03-21
+"airBaltic, Air France",SVO,PAR,10h 40m ,2 stops ,981 SAR ,2022-03-21
+"Nordwind Airlines, LOT",SVO,PAR,10h 05m ,2 stops ,988 SAR ,2022-03-21
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,281 SAR ",2022-03-21
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,281 SAR ",2022-03-21
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,840 SAR ",2022-03-21
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,840 SAR ",2022-03-21
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,840 SAR ",2022-03-21
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,940 SAR ",2022-03-21
+"Aeroflot, Air France",SVO,PAR,12h 25m ,1 stop ,"5,320 SAR ",2022-03-21
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-03-21
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-21
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,092 SAR ",2022-03-21
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-21
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,092 SAR ",2022-03-21
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,092 SAR ",2022-03-21
+Multiple Airlines,SVO,PAR,14h 50m ,2 stops ,"12,092 SAR ",2022-03-21
+Multiple Airlines,SVO,PAR,15h 30m ,2 stops ,"12,092 SAR ",2022-03-21
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-21
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,"12,499 SAR ",2022-03-21
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-21
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-21
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,504 SAR ,2022-03-22
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,053 SAR ",2022-03-22
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-22
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,096 SAR ",2022-03-22
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-03-22
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-03-22
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-22
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-22
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,443 SAR ",2022-03-22
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-22
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-22
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-22
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-22
+KLM,SVO,PAR,8h 15m ,1 stop ,642 SAR ,2022-03-22
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-22
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-22
+Air Serbia,SVO,PAR,25h 20m ,1 stop ,427 SAR ,2022-03-22
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-22
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-22
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-22
+"Aeroflot, easyJet",SVO,PAR,7h 10m ,1 stop ,717 SAR ,2022-03-22
+"Aeroflot, easyJet",SVO,PAR,10h 20m ,1 stop ,731 SAR ,2022-03-22
+"Aeroflot, easyJet",SVO,PAR,10h 05m ,1 stop ,808 SAR ,2022-03-22
+"Aeroflot, Lufthansa",SVO,PAR,8h 30m ,1 stop ,842 SAR ,2022-03-22
+"Aeroflot, easyJet",SVO,PAR,7h 30m ,1 stop ,861 SAR ,2022-03-22
+"Nordwind Airlines, Turkish Airlines",SVO,PAR,10h 35m ,1 stop ,876 SAR ,2022-03-22
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,748 SAR ,2022-03-22
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,760 SAR ,2022-03-22
+"LOT, Transavia France",SVO,PAR,10h 30m ,2 stops ,871 SAR ,2022-03-22
+"Aeroflot, LOT",SVO,PAR,14h 40m ,1 stop ,"4,079 SAR ",2022-03-22
+"LOT, KLM",SVO,PAR,15h 40m ,2 stops ,"4,546 SAR ",2022-03-22
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,840 SAR ",2022-03-22
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,840 SAR ",2022-03-22
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,840 SAR ",2022-03-22
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,940 SAR ",2022-03-22
+"Aeroflot, Lufthansa",SVO,PAR,11h 05m ,1 stop ,"5,103 SAR ",2022-03-22
+"Aeroflot, Lufthansa",SVO,PAR,13h 00m ,2 stops ,"5,589 SAR ",2022-03-22
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-03-22
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-22
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,092 SAR ",2022-03-22
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-22
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,092 SAR ",2022-03-22
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,092 SAR ",2022-03-22
+Multiple Airlines,SVO,PAR,14h 50m ,2 stops ,"12,092 SAR ",2022-03-22
+Multiple Airlines,SVO,PAR,15h 30m ,2 stops ,"12,092 SAR ",2022-03-22
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-22
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,"12,499 SAR ",2022-03-22
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-22
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-22
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-23
+Finnair,SVO,PAR,7h 50m ,1 stop ,395 SAR ,2022-03-23
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,092 SAR ",2022-03-23
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,101 SAR ",2022-03-23
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,108 SAR ",2022-03-23
+Finnair,SVO,PAR,6h 35m ,1 stop ,480 SAR ,2022-03-23
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,514 SAR ,2022-03-23
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-23
+Finnair,SVO,PAR,11h 40m ,1 stop ,395 SAR ,2022-03-23
+Finnair,SVO,PAR,10h 50m ,1 stop ,480 SAR ,2022-03-23
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-23
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,8h 15m ,1 stop ,642 SAR ,2022-03-23
+Finnair,SVO,PAR,15h 55m ,1 stop ,395 SAR ,2022-03-23
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-23
+airBaltic,SVO,PAR,13h 25m ,1 stop ,481 SAR ,2022-03-23
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-23
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-23
+KLM,SVO,PAR,16h 15m ,1 stop ,642 SAR ,2022-03-23
+"Aeroflot, Ryanair",SVO,PAR,11h 55m ,1 stop ,797 SAR ,2022-03-23
+"Aeroflot, Air France",SVO,PAR,11h 10m ,1 stop ,806 SAR ,2022-03-23
+"Aeroflot, easyJet",SVO,PAR,11h 00m ,1 stop ,855 SAR ,2022-03-23
+"Aeroflot, Transavia",SVO,PAR,7h 40m ,1 stop ,857 SAR ,2022-03-23
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,985 SAR ,2022-03-23
+"LOT, Ryanair",SVO,PAR,9h 00m ,2 stops ,839 SAR ,2022-03-23
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,885 SAR ,2022-03-23
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,896 SAR ,2022-03-23
+"LOT, easyJet",SVO,PAR,9h 55m ,2 stops ,903 SAR ,2022-03-23
+"airBaltic, Air France",SVO,PAR,16h 00m ,2 stops ,971 SAR ,2022-03-23
+"Aeroflot, KLM",SVO,PAR,8h 30m ,2 stops ,"4,730 SAR ",2022-03-23
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,840 SAR ",2022-03-23
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,840 SAR ",2022-03-23
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,840 SAR ",2022-03-23
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,940 SAR ",2022-03-23
+"Aeroflot, Air France",SVO,PAR,12h 25m ,1 stop ,"5,320 SAR ",2022-03-23
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,651 SAR ",2022-03-23
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-23
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,092 SAR ",2022-03-23
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-23
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,092 SAR ",2022-03-23
+Multiple Airlines,SVO,PAR,14h 50m ,2 stops ,"12,092 SAR ",2022-03-23
+Multiple Airlines,SVO,PAR,15h 30m ,2 stops ,"12,092 SAR ",2022-03-23
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-23
+"Aeroflot, KLM",SVO,PAR,8h 00m ,1 stop ,"12,499 SAR ",2022-03-23
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-23
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-23
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-24
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,082 SAR ",2022-03-24
+Finnair,SVO,PAR,6h 35m ,1 stop ,437 SAR ,2022-03-24
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,441 SAR ",2022-03-24
+Finnair,SVO,PAR,9h 35m ,1 stop ,395 SAR ,2022-03-24
+Finnair,SVO,PAR,10h 50m ,1 stop ,437 SAR ,2022-03-24
+airBaltic,SVO,PAR,8h 55m ,1 stop ,481 SAR ,2022-03-24
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-24
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-24
+Finnair,SVO,PAR,13h 50m ,1 stop ,395 SAR ,2022-03-24
+Air Serbia,SVO,PAR,14h 20m ,1 stop ,427 SAR ,2022-03-24
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-24
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-24
+KLM,SVO,PAR,8h 15m ,1 stop ,642 SAR ,2022-03-24
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-24
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-24
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-24
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-24
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-24
+"Aeroflot, Transavia France",SVO,PAR,7h 55m ,1 stop ,815 SAR ,2022-03-24
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-24
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-24
+KLM,SVO,PAR,16h 15m ,1 stop ,642 SAR ,2022-03-24
+"Aeroflot, Transavia France",SVO,PAR,9h 55m ,1 stop ,826 SAR ,2022-03-24
+"Aeroflot, easyJet",SVO,PAR,9h 15m ,1 stop ,855 SAR ,2022-03-24
+"Nordwind Airlines, Turkish Airlines",SVO,PAR,10h 35m ,1 stop ,872 SAR ,2022-03-24
+"Aeroflot, Vueling",SVO,PAR,9h 50m ,1 stop ,924 SAR ,2022-03-24
+LOT,SVO,PAR,9h 00m ,1 stop ,"1,010 SAR ",2022-03-24
+"airBaltic, Vueling",SVO,PAR,13h 40m ,2 stops ,685 SAR ,2022-03-24
+"airBaltic, Ryanair",SVO,PAR,13h 35m ,2 stops ,708 SAR ,2022-03-24
+"LOT, Transavia France",SVO,PAR,10h 25m ,2 stops ,875 SAR ,2022-03-24
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,885 SAR ,2022-03-24
+"LOT, easyJet",SVO,PAR,10h 35m ,2 stops ,901 SAR ,2022-03-24
+LOT,SVO,PAR,13h 10m ,1 stop ,"1,010 SAR ",2022-03-24
+Aeroflot,SVO,PAR,13h 55m ,1 stop ,"1,231 SAR ",2022-03-24
+Aeroflot,SVO,PAR,14h 30m ,1 stop ,"1,231 SAR ",2022-03-24
+Aeroflot,SVO,PAR,15h 00m ,1 stop ,"1,231 SAR ",2022-03-24
+Aeroflot,SVO,PAR,16h 05m ,1 stop ,"1,231 SAR ",2022-03-24
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,281 SAR ",2022-03-24
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,281 SAR ",2022-03-24
+"airBaltic, Lufthansa",SVO,PAR,13h 00m ,2 stops ,961 SAR ,2022-03-24
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,840 SAR ",2022-03-24
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,840 SAR ",2022-03-24
+"Aeroflot, Lufthansa",SVO,PAR,12h 45m ,2 stops ,"4,840 SAR ",2022-03-24
+KLM,SVO,PAR,16h 10m ,2 stops ,"4,940 SAR ",2022-03-24
+"Aeroflot, Air France",SVO,PAR,12h 25m ,1 stop ,"5,320 SAR ",2022-03-24
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,735 SAR ",2022-03-24
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,092 SAR ",2022-03-24
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-24
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,"12,092 SAR ",2022-03-24
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,"12,092 SAR ",2022-03-24
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-24
+"Aeroflot, KLM",SVO,PAR,8h 50m ,1 stop ,"12,499 SAR ",2022-03-24
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-24
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-24
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,592 SAR ,2022-03-25
+Aeroflot,SVO,PAR,4h 05m ,nonstop ,"1,053 SAR ",2022-03-25
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,053 SAR ",2022-03-25
+Air Serbia,SVO,PAR,6h 45m ,1 stop ,514 SAR ,2022-03-25
+Aeroflot,SVO,PAR,4h 10m ,nonstop ,"1,443 SAR ",2022-03-25
+Aeroflot,SVO,PAR,4h 20m ,nonstop ,"1,443 SAR ",2022-03-25
+LOT,SVO,PAR,6h 35m ,1 stop ,571 SAR ,2022-03-25
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-25
+KLM,SVO,PAR,7h 25m ,1 stop ,642 SAR ,2022-03-25
+Finnair,SVO,PAR,6h 35m ,1 stop ,645 SAR ,2022-03-25
+Finnair,SVO,PAR,14h 45m ,1 stop ,437 SAR ,2022-03-25
+Finnair,SVO,PAR,19h 20m ,1 stop ,437 SAR ,2022-03-25
+LOT,SVO,PAR,10h 45m ,1 stop ,571 SAR ,2022-03-25
+LOT,SVO,PAR,14h 40m ,1 stop ,571 SAR ,2022-03-25
+KLM,SVO,PAR,8h 15m ,1 stop ,642 SAR ,2022-03-25
+KLM,SVO,PAR,10h 10m ,1 stop ,642 SAR ,2022-03-25
+KLM,SVO,PAR,11h 45m ,1 stop ,642 SAR ,2022-03-25
+KLM,SVO,PAR,12h 40m ,1 stop ,642 SAR ,2022-03-25
+Finnair,SVO,PAR,10h 50m ,1 stop ,645 SAR ,2022-03-25
+"Aeroflot, FLYONE",SVO,PAR,8h 20m ,1 stop ,751 SAR ,2022-03-25
+KLM,SVO,PAR,14h 20m ,1 stop ,642 SAR ,2022-03-25
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-25
+"Aeroflot, Transavia France",SVO,PAR,9h 45m ,1 stop ,791 SAR ,2022-03-25
+"Aeroflot, easyJet",SVO,PAR,10h 05m ,1 stop ,806 SAR ,2022-03-25
+Bulgaria Air,SVO,PAR,14h 25m ,1 stop ,809 SAR ,2022-03-25
+"LOT, Wizz Air",SVO,PAR,7h 55m ,1 stop ,842 SAR ,2022-03-25
+"Aeroflot, Vueling",SVO,PAR,9h 55m ,1 stop ,843 SAR ,2022-03-25
+"Aeroflot, easyJet",SVO,PAR,7h 30m ,1 stop ,861 SAR ,2022-03-25
+"Aeroflot, Ryanair",SVO,PAR,6h 35m ,1 stop ,901 SAR ,2022-03-25
+Aeroflot,SVO,PAR,6h 40m ,1 stop ,949 SAR ,2022-03-25
+Aeroflot,SVO,PAR,7h 10m ,1 stop ,949 SAR ,2022-03-25
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,010 SAR ",2022-03-25
+LOT,SVO,PAR,9h 45m ,1 stop ,"1,010 SAR ",2022-03-25
+Aeroflot,SVO,PAR,11h 50m ,1 stop ,"1,231 SAR ",2022-03-25
+Aeroflot,SVO,PAR,7h 20m ,1 stop ,"1,281 SAR ",2022-03-25
+Aeroflot,SVO,PAR,7h 30m ,1 stop ,"1,281 SAR ",2022-03-25
+Aeroflot,SVO,PAR,8h 15m ,1 stop ,"1,281 SAR ",2022-03-25
+Aeroflot,SVO,PAR,9h 15m ,1 stop ,"1,281 SAR ",2022-03-25
+Aeroflot,SVO,PAR,10h 25m ,1 stop ,"1,281 SAR ",2022-03-25
+Aeroflot,SVO,PAR,11h 05m ,1 stop ,"1,281 SAR ",2022-03-25
+"Brussels Airlines, Air France",SVO,PAR,27h 05m ,2 stops ,703 SAR ,2022-03-25
+"LOT, Vueling",SVO,PAR,10h 10m ,2 stops ,744 SAR ,2022-03-25
+"Aeroflot, FLYONE",SVO,PAR,11h 05m ,2 stops ,767 SAR ,2022-03-25
+"Aeroflot, FLYONE",SVO,PAR,15h 10m ,2 stops ,767 SAR ,2022-03-25
+Aeroflot,SVO,PAR,12h 55m ,1 stop ,"1,231 SAR ",2022-03-25
+Aeroflot,SVO,PAR,12h 20m ,1 stop ,"1,281 SAR ",2022-03-25
+Aeroflot,SVO,PAR,12h 50m ,1 stop ,"1,281 SAR ",2022-03-25
+Korean Air,SVO,PAR,25h 55m ,1 stop ,"3,520 SAR ",2022-03-25
+"Aeroflot, Lufthansa",SVO,PAR,10h 40m ,2 stops ,"4,840 SAR ",2022-03-25
+"Aeroflot, Lufthansa",SVO,PAR,11h 45m ,2 stops ,"4,840 SAR ",2022-03-25
+Qatar Airways,SVO,PAR,14h 25m ,1 stop ,"5,798 SAR ",2022-03-25
+"KLM, Brussels Airlines",SVO,PAR,15h 45m ,2 stops ,"6,575 SAR ",2022-03-25
+Multiple Airlines,SVO,PAR,11h 45m ,2 stops ,"12,092 SAR ",2022-03-25
+Multiple Airlines,SVO,PAR,11h 55m ,2 stops ,"12,092 SAR ",2022-03-25
+"Aeroflot, KLM",SVO,PAR,7h 55m ,1 stop ,"12,499 SAR ",2022-03-25
+"Aeroflot, KLM",SVO,PAR,7h 25m ,1 stop ,"12,541 SAR ",2022-03-25
+"Aeroflot, KLM",SVO,PAR,8h 15m ,1 stop ,"12,541 SAR ",2022-03-25
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,098 SAR ",2022-03-26
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,121 SAR ",2022-03-26
+Air France,SVO,PAR,4h 20m ,nonstop ,"1,185 SAR ",2022-03-26
+Air Serbia,SVO,PAR,7h 00m ,1 stop ,453 SAR ,2022-03-26
+KLM,SVO,PAR,6h 05m ,1 stop ,658 SAR ,2022-03-26
+LOT,SVO,PAR,5h 35m ,1 stop ,"1,090 SAR ",2022-03-26
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,828 SAR ",2022-03-26
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-03-27
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,091 SAR ",2022-03-27
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,091 SAR ",2022-03-27
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,101 SAR ",2022-03-27
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-03-27
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-03-27
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-03-27
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-03-27
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,427 SAR ,2022-03-27
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-03-27
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-03-27
+airBaltic,SVO,PAR,9h 00m ,1 stop ,481 SAR ,2022-03-27
+KLM,SVO,PAR,6h 05m ,1 stop ,642 SAR ,2022-03-27
+LOT,SVO,PAR,5h 20m ,1 stop ,649 SAR ,2022-03-27
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-03-27
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-03-27
+airBaltic,SVO,PAR,13h 30m ,1 stop ,481 SAR ,2022-03-27
+airBaltic,SVO,PAR,13h 55m ,1 stop ,481 SAR ,2022-03-27
+LOT,SVO,PAR,9h 10m ,1 stop ,656 SAR ,2022-03-27
+KLM,SVO,PAR,7h 15m ,1 stop ,731 SAR ,2022-03-27
+KLM,SVO,PAR,9h 00m ,1 stop ,731 SAR ,2022-03-27
+"KLM, Air France",SVO,PAR,6h 10m ,1 stop ,755 SAR ,2022-03-27
+KLM,SVO,PAR,15h 55m ,1 stop ,642 SAR ,2022-03-27
+LOT,SVO,PAR,14h 15m ,1 stop ,656 SAR ,2022-03-27
+KLM,SVO,PAR,10h 40m ,1 stop ,731 SAR ,2022-03-27
+KLM,SVO,PAR,11h 10m ,1 stop ,731 SAR ,2022-03-27
+KLM,SVO,PAR,13h 05m ,1 stop ,731 SAR ,2022-03-27
+KLM,SVO,PAR,15h 20m ,1 stop ,731 SAR ,2022-03-27
+Finnair,SVO,PAR,10h 20m ,1 stop ,745 SAR ,2022-03-27
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,809 SAR ,2022-03-27
+Multiple Airlines,SVO,PAR,13h 20m ,2 stops ,485 SAR ,2022-03-27
+Multiple Airlines,SVO,PAR,14h 40m ,2 stops ,485 SAR ,2022-03-27
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,594 SAR ,2022-03-27
+"airBaltic, easyJet",SVO,PAR,9h 05m ,2 stops ,604 SAR ,2022-03-27
+"airBaltic, easyJet",SVO,PAR,13h 20m ,2 stops ,614 SAR ,2022-03-27
+Multiple Airlines,SVO,PAR,12h 40m ,2 stops ,666 SAR ,2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,673 SAR ,2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,673 SAR ,2022-03-27
+"airBaltic, easyJet",SVO,PAR,11h 35m ,2 stops ,734 SAR ,2022-03-27
+Multiple Airlines,SVO,PAR,10h 40m ,2 stops ,757 SAR ,2022-03-27
+Multiple Airlines,SVO,PAR,12h 00m ,2 stops ,757 SAR ,2022-03-27
+"LOT, easyJet",SVO,PAR,8h 55m ,2 stops ,762 SAR ,2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,594 SAR ",2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,594 SAR ",2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,594 SAR ",2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,594 SAR ",2022-03-27
+"Aeroflot, airBaltic",SVO,PAR,15h 25m ,2 stops ,"4,594 SAR ",2022-03-27
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,644 SAR ",2022-03-27
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,644 SAR ",2022-03-27
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-03-27
+Air Serbia,SVO,PAR,12h 05m ,1 stop ,504 SAR ,2022-03-28
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,082 SAR ",2022-03-28
+Air Serbia,SVO,PAR,12h 05m ,1 stop ,436 SAR ,2022-03-28
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,082 SAR ",2022-03-28
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,082 SAR ",2022-03-28
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,101 SAR ",2022-03-28
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-03-28
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-03-28
+airBaltic,SVO,PAR,5h 20m ,1 stop ,481 SAR ,2022-03-28
+airBaltic,SVO,PAR,9h 00m ,1 stop ,481 SAR ,2022-03-28
+airBaltic,SVO,PAR,13h 55m ,1 stop ,481 SAR ,2022-03-28
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-03-28
+LOT,SVO,PAR,5h 20m ,1 stop ,576 SAR ,2022-03-28
+LOT,SVO,PAR,9h 10m ,1 stop ,576 SAR ,2022-03-28
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-03-28
+KLM,SVO,PAR,6h 10m ,1 stop ,642 SAR ,2022-03-28
+LOT,SVO,PAR,14h 15m ,1 stop ,576 SAR ,2022-03-28
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-03-28
+KLM,SVO,PAR,7h 15m ,1 stop ,642 SAR ,2022-03-28
+KLM,SVO,PAR,9h 00m ,1 stop ,642 SAR ,2022-03-28
+KLM,SVO,PAR,10h 40m ,1 stop ,642 SAR ,2022-03-28
+KLM,SVO,PAR,11h 10m ,1 stop ,642 SAR ,2022-03-28
+KLM,SVO,PAR,13h 05m ,1 stop ,642 SAR ,2022-03-28
+KLM,SVO,PAR,14h 25m ,1 stop ,642 SAR ,2022-03-28
+KLM,SVO,PAR,15h 20m ,1 stop ,642 SAR ,2022-03-28
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,811 SAR ,2022-03-28
+"LOT, Wizz Air",SVO,PAR,6h 35m ,1 stop ,"1,031 SAR ",2022-03-28
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,594 SAR ,2022-03-28
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,614 SAR ,2022-03-28
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,614 SAR ,2022-03-28
+"airBaltic, easyJet",SVO,PAR,12h 35m ,2 stops ,655 SAR ,2022-03-28
+"airBaltic, Ryanair",SVO,PAR,10h 15m ,2 stops ,727 SAR ,2022-03-28
+"LOT, easyJet",SVO,PAR,9h 30m ,2 stops ,752 SAR ,2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,754 SAR ,2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,754 SAR ,2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,754 SAR ,2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,754 SAR ,2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,754 SAR ,2022-03-28
+"airBaltic, Transavia",SVO,PAR,12h 20m ,2 stops ,838 SAR ,2022-03-28
+airBaltic,SVO,PAR,9h 10m ,2 stops ,868 SAR ,2022-03-28
+airBaltic,SVO,PAR,14h 05m ,2 stops ,868 SAR ,2022-03-28
+airBaltic,SVO,PAR,14h 05m ,2 stops ,868 SAR ,2022-03-28
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,889 SAR ,2022-03-28
+"airBaltic, Ryanair",SVO,PAR,11h 30m ,2 stops ,897 SAR ,2022-03-28
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,666 SAR ,2022-03-28
+"airBaltic, easyJet",SVO,PAR,13h 40m ,3 stops ,825 SAR ,2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,594 SAR ",2022-03-28
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-03-28
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,643 SAR ",2022-03-28
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-03-28
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,081 SAR ",2022-03-28
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,588 SAR ",2022-03-28
+airBaltic,SVO,PAR,5h 20m ,1 stop ,577 SAR ,2022-03-29
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,082 SAR ",2022-03-29
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-03-29
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,082 SAR ",2022-03-29
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,082 SAR ",2022-03-29
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-03-29
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-03-29
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-03-29
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-03-29
+LOT,SVO,PAR,5h 20m ,1 stop ,576 SAR ,2022-03-29
+LOT,SVO,PAR,9h 10m ,1 stop ,576 SAR ,2022-03-29
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-03-29
+LOT,SVO,PAR,14h 15m ,1 stop ,576 SAR ,2022-03-29
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-03-29
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-03-29
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,441 SAR ",2022-03-29
+"airBaltic, Ryanair",SVO,PAR,12h 15m ,1 stop ,675 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,14h 15m ,2 stops ,669 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,673 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,13h 40m ,2 stops ,673 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,698 SAR ,2022-03-29
+"airBaltic, Transavia France",SVO,PAR,13h 55m ,2 stops ,718 SAR ,2022-03-29
+airBaltic,SVO,PAR,13h 00m ,2 stops ,744 SAR ,2022-03-29
+"LOT, easyJet",SVO,PAR,9h 20m ,2 stops ,752 SAR ,2022-03-29
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,754 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,12h 25m ,2 stops ,765 SAR ,2022-03-29
+"airBaltic, Air France",SVO,PAR,10h 30m ,2 stops ,780 SAR ,2022-03-29
+"airBaltic, Air France",SVO,PAR,9h 55m ,2 stops ,800 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,671 SAR ,2022-03-29
+Multiple Airlines,SVO,PAR,12h 55m ,3 stops ,749 SAR ,2022-03-29
+"airBaltic, easyJet",SVO,PAR,13h 50m ,3 stops ,787 SAR ,2022-03-29
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,596 SAR ",2022-03-29
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,596 SAR ",2022-03-29
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,596 SAR ",2022-03-29
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-03-29
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,643 SAR ",2022-03-29
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,643 SAR ",2022-03-29
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,643 SAR ",2022-03-29
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-03-29
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,080 SAR ",2022-03-29
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,080 SAR ",2022-03-29
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,504 SAR ,2022-03-30
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,081 SAR ",2022-03-30
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,436 SAR ,2022-03-30
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,081 SAR ",2022-03-30
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,081 SAR ",2022-03-30
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,081 SAR ",2022-03-30
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-03-30
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-03-30
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-03-30
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-03-30
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-03-30
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-03-30
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-03-30
+LOT,SVO,PAR,5h 20m ,1 stop ,656 SAR ,2022-03-30
+LOT,SVO,PAR,14h 15m ,1 stop ,576 SAR ,2022-03-30
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-03-30
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-03-30
+LOT,SVO,PAR,9h 10m ,1 stop ,655 SAR ,2022-03-30
+Air Malta,SVO,PAR,14h 55m ,1 stop ,768 SAR ,2022-03-30
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,721 SAR ,2022-03-30
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,809 SAR ,2022-03-30
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,829 SAR ,2022-03-30
+"airBaltic, Vueling",SVO,PAR,11h 30m ,2 stops ,855 SAR ,2022-03-30
+"airBaltic, Ryanair",SVO,PAR,9h 40m ,2 stops ,864 SAR ,2022-03-30
+"KLM, easyJet",SVO,PAR,10h 45m ,2 stops ,868 SAR ,2022-03-30
+airBaltic,SVO,PAR,9h 10m ,2 stops ,871 SAR ,2022-03-30
+airBaltic,SVO,PAR,14h 05m ,2 stops ,871 SAR ,2022-03-30
+airBaltic,SVO,PAR,14h 05m ,2 stops ,871 SAR ,2022-03-30
+"LOT, easyJet",SVO,PAR,9h 20m ,2 stops ,905 SAR ,2022-03-30
+"airBaltic, easyJet",SVO,PAR,13h 40m ,2 stops ,915 SAR ,2022-03-30
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,955 SAR ,2022-03-30
+"airBaltic, Air France",SVO,PAR,7h 45m ,2 stops ,981 SAR ,2022-03-30
+"airBaltic, Air France",SVO,PAR,7h 50m ,2 stops ,981 SAR ,2022-03-30
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"1,032 SAR ",2022-03-30
+Multiple Airlines,SVO,PAR,14h 05m ,3 stops ,713 SAR ,2022-03-30
+Multiple Airlines,SVO,PAR,15h 25m ,3 stops ,713 SAR ,2022-03-30
+Multiple Airlines,SVO,PAR,14h 40m ,3 stops ,879 SAR ,2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-03-30
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,643 SAR ",2022-03-30
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,643 SAR ",2022-03-30
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,643 SAR ",2022-03-30
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-03-30
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,080 SAR ",2022-03-30
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,080 SAR ",2022-03-30
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-03-31
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,094 SAR ",2022-03-31
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,094 SAR ",2022-03-31
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,094 SAR ",2022-03-31
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-03-31
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-03-31
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-03-31
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-03-31
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-03-31
+LOT,SVO,PAR,5h 20m ,1 stop ,576 SAR ,2022-03-31
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,452 SAR ",2022-03-31
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,436 SAR ,2022-03-31
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-03-31
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-03-31
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-03-31
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-03-31
+LOT,SVO,PAR,9h 10m ,1 stop ,576 SAR ,2022-03-31
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-03-31
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-03-31
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-03-31
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-03-31
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-03-31
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-03-31
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,436 SAR ,2022-03-31
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-03-31
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-03-31
+LOT,SVO,PAR,14h 15m ,1 stop ,655 SAR ,2022-03-31
+"KLM, Air France",SVO,PAR,17h 25m ,1 stop ,694 SAR ,2022-03-31
+"KLM, Air France",SVO,PAR,18h 50m ,1 stop ,694 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,9h 45m ,2 stops ,685 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,14h 40m ,2 stops ,685 SAR ,2022-03-31
+"KLM, Air France",SVO,PAR,27h 15m ,1 stop ,694 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,698 SAR ,2022-03-31
+"airBaltic, Vueling",SVO,PAR,13h 30m ,2 stops ,704 SAR ,2022-03-31
+"airBaltic, Transavia France",SVO,PAR,13h 50m ,2 stops ,718 SAR ,2022-03-31
+"airBaltic, Vueling",SVO,PAR,12h 20m ,2 stops ,732 SAR ,2022-03-31
+airBaltic,SVO,PAR,13h 00m ,2 stops ,744 SAR ,2022-03-31
+"airBaltic, Air France",SVO,PAR,13h 25m ,2 stops ,779 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,786 SAR ,2022-03-31
+"airBaltic, Transavia France",SVO,PAR,9h 55m ,2 stops ,803 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,11h 35m ,2 stops ,834 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,841 SAR ,2022-03-31
+"airBaltic, Eurowings",SVO,PAR,11h 00m ,2 stops ,881 SAR ,2022-03-31
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,889 SAR ,2022-03-31
+"LOT, easyJet",SVO,PAR,9h 20m ,2 stops ,903 SAR ,2022-03-31
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,932 SAR ,2022-03-31
+"airBaltic, Air France",SVO,PAR,7h 45m ,2 stops ,981 SAR ,2022-03-31
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"1,032 SAR ",2022-03-31
+Multiple Airlines,SVO,PAR,12h 10m ,3 stops ,802 SAR ,2022-03-31
+Multiple Airlines,SVO,PAR,13h 05m ,3 stops ,802 SAR ,2022-03-31
+"airBaltic, SAS",SVO,PAR,9h 55m ,3 stops ,841 SAR ,2022-03-31
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"1,074 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-03-31
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,643 SAR ",2022-03-31
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,643 SAR ",2022-03-31
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,643 SAR ",2022-03-31
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,735 SAR ",2022-03-31
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-01
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,074 SAR ",2022-04-01
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,074 SAR ",2022-04-01
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-01
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-01
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-01
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,436 SAR ,2022-04-01
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-01
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-01
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-01
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-01
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-01
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-01
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-01
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-01
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-01
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-01
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,523 SAR ,2022-04-01
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-01
+LOT,SVO,PAR,5h 20m ,1 stop ,656 SAR ,2022-04-01
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-01
+LOT,SVO,PAR,9h 10m ,1 stop ,655 SAR ,2022-04-01
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,452 SAR ",2022-04-01
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,453 SAR ",2022-04-01
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-04-01
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-01
+LOT,SVO,PAR,14h 15m ,1 stop ,655 SAR ,2022-04-01
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-01
+Multiple Airlines,SVO,PAR,28h 00m ,2 stops ,360 SAR ,2022-04-01
+Multiple Airlines,SVO,PAR,15h 05m ,2 stops ,374 SAR ,2022-04-01
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,575 SAR ,2022-04-01
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,671 SAR ,2022-04-01
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,671 SAR ,2022-04-01
+"airBaltic, easyJet",SVO,PAR,14h 15m ,2 stops ,692 SAR ,2022-04-01
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,697 SAR ,2022-04-01
+"airBaltic, easyJet",SVO,PAR,13h 40m ,2 stops ,697 SAR ,2022-04-01
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,746 SAR ,2022-04-01
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,754 SAR ,2022-04-01
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,596 SAR ",2022-04-01
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,596 SAR ",2022-04-01
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,596 SAR ",2022-04-01
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-04-01
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-01
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-01
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,798 SAR ",2022-04-01
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,596 SAR ",2022-04-01
+Air Malta,SVO,PAR,13h 40m ,1 stop ,503 SAR ,2022-04-02
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,095 SAR ",2022-04-02
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,095 SAR ",2022-04-02
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-02
+Air Malta,SVO,PAR,13h 40m ,1 stop ,394 SAR ,2022-04-02
+Air Malta,SVO,PAR,14h 55m ,1 stop ,394 SAR ,2022-04-02
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-02
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-02
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-02
+LOT,SVO,PAR,5h 20m ,1 stop ,577 SAR ,2022-04-02
+LOT,SVO,PAR,9h 10m ,1 stop ,577 SAR ,2022-04-02
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-04-02
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-02
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-04-02
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,453 SAR ",2022-04-02
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,453 SAR ",2022-04-02
+"Ryanair, Transavia France",SVO,PAR,12h 10m ,1 stop ,577 SAR ,2022-04-02
+LOT,SVO,PAR,14h 15m ,1 stop ,577 SAR ,2022-04-02
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-02
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-02
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-02
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-02
+Ryanair,SVO,PAR,8h 40m ,1 stop ,660 SAR ,2022-04-02
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,374 SAR ,2022-04-02
+"airBaltic, Ryanair",SVO,PAR,12h 20m ,1 stop ,946 SAR ,2022-04-02
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-02
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,754 SAR ,2022-04-02
+"Air Malta, easyJet",SVO,PAR,13h 30m ,2 stops ,835 SAR ,2022-04-02
+"airBaltic, Vueling",SVO,PAR,12h 20m ,2 stops ,871 SAR ,2022-04-02
+"airBaltic, Vueling",SVO,PAR,13h 20m ,2 stops ,871 SAR ,2022-04-02
+"Aeroflot, LOT",SVO,PAR,10h 15m ,2 stops ,969 SAR ,2022-04-02
+"Aeroflot, LOT",SVO,PAR,11h 20m ,2 stops ,969 SAR ,2022-04-02
+"airBaltic, Ryanair",SVO,PAR,13h 00m ,2 stops ,981 SAR ,2022-04-02
+Air Algerie,SVO,PAR,10h 50m ,1 stop ,"1,575 SAR ",2022-04-02
+Air Algerie,SVO,PAR,11h 55m ,1 stop ,"1,575 SAR ",2022-04-02
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,714 SAR ",2022-04-02
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,504 SAR ,2022-04-03
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,095 SAR ",2022-04-03
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,095 SAR ",2022-04-03
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-03
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-03
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-03
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,453 SAR ",2022-04-03
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,436 SAR ,2022-04-03
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-03
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-03
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-03
+LOT,SVO,PAR,5h 20m ,1 stop ,655 SAR ,2022-04-03
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,436 SAR ,2022-04-03
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-03
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-03
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-03
+LOT,SVO,PAR,9h 10m ,1 stop ,577 SAR ,2022-04-03
+KLM,SVO,PAR,9h 00m ,1 stop ,642 SAR ,2022-04-03
+KLM,SVO,PAR,6h 10m ,1 stop ,725 SAR ,2022-04-03
+KLM,SVO,PAR,6h 05m ,1 stop ,820 SAR ,2022-04-03
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-03
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-03
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-03
+Finnair,SVO,PAR,10h 20m ,1 stop ,645 SAR ,2022-04-03
+LOT,SVO,PAR,14h 15m ,1 stop ,655 SAR ,2022-04-03
+KLM,SVO,PAR,10h 40m ,1 stop ,725 SAR ,2022-04-03
+KLM,SVO,PAR,11h 10m ,1 stop ,725 SAR ,2022-04-03
+KLM,SVO,PAR,7h 15m ,1 stop ,932 SAR ,2022-04-03
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,436 SAR ,2022-04-03
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-03
+KLM,SVO,PAR,15h 20m ,1 stop ,820 SAR ,2022-04-03
+KLM,SVO,PAR,15h 55m ,1 stop ,820 SAR ,2022-04-03
+"airBaltic, easyJet",SVO,PAR,12h 40m ,2 stops ,714 SAR ,2022-04-03
+"airBaltic, easyJet",SVO,PAR,8h 30m ,2 stops ,733 SAR ,2022-04-03
+"airBaltic, easyJet",SVO,PAR,11h 35m ,2 stops ,739 SAR ,2022-04-03
+"Aeroflot, SAS",SVO,PAR,9h 30m ,2 stops ,744 SAR ,2022-04-03
+"Aeroflot, SAS",SVO,PAR,10h 20m ,2 stops ,744 SAR ,2022-04-03
+"Aeroflot, SAS",SVO,PAR,11h 15m ,2 stops ,744 SAR ,2022-04-03
+"Aeroflot, SAS",SVO,PAR,12h 15m ,2 stops ,744 SAR ,2022-04-03
+"Aeroflot, SAS",SVO,PAR,13h 35m ,2 stops ,744 SAR ,2022-04-03
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,790 SAR ,2022-04-03
+"Aeroflot, Air Serbia",SVO,PAR,11h 20m ,2 stops ,849 SAR ,2022-04-03
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,933 SAR ,2022-04-03
+"LOT, easyJet",SVO,PAR,8h 55m ,2 stops ,"1,123 SAR ",2022-04-03
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,702 SAR ,2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, airBaltic",SVO,PAR,15h 25m ,2 stops ,"4,596 SAR ",2022-04-03
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,646 SAR ",2022-04-03
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-03
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-03
+"airBaltic, SAS",SVO,PAR,10h 20m ,2 stops ,"6,083 SAR ",2022-04-03
+"airBaltic, SAS",SVO,PAR,15h 30m ,2 stops ,"6,083 SAR ",2022-04-03
+Air Serbia,SVO,PAR,12h 05m ,1 stop ,504 SAR ,2022-04-04
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,077 SAR ",2022-04-04
+Air Serbia,SVO,PAR,12h 05m ,1 stop ,436 SAR ,2022-04-04
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,077 SAR ",2022-04-04
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,077 SAR ",2022-04-04
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,077 SAR ",2022-04-04
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-04
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-04
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-04
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-04
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-04
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-04
+LOT,SVO,PAR,5h 20m ,1 stop ,577 SAR ,2022-04-04
+LOT,SVO,PAR,9h 10m ,1 stop ,577 SAR ,2022-04-04
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-04
+LOT,SVO,PAR,14h 15m ,1 stop ,577 SAR ,2022-04-04
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-04
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-04
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-04
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-04
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-04-04
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-04
+KLM,SVO,PAR,11h 10m ,1 stop ,642 SAR ,2022-04-04
+KLM,SVO,PAR,6h 05m ,1 stop ,725 SAR ,2022-04-04
+KLM,SVO,PAR,7h 15m ,1 stop ,820 SAR ,2022-04-04
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,10h 55m ,2 stops ,506 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,11h 50m ,2 stops ,506 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,12h 50m ,2 stops ,506 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,14h 10m ,2 stops ,506 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,15h 35m ,2 stops ,506 SAR ,2022-04-04
+"airBaltic, Ryanair",SVO,PAR,10h 15m ,2 stops ,635 SAR ,2022-04-04
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,682 SAR ,2022-04-04
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,682 SAR ,2022-04-04
+airBaltic,SVO,PAR,9h 10m ,2 stops ,871 SAR ,2022-04-04
+airBaltic,SVO,PAR,14h 05m ,2 stops ,871 SAR ,2022-04-04
+airBaltic,SVO,PAR,14h 05m ,2 stops ,871 SAR ,2022-04-04
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,900 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,13h 45m ,3 stops ,812 SAR ,2022-04-04
+Multiple Airlines,SVO,PAR,14h 40m ,3 stops ,812 SAR ,2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,596 SAR ",2022-04-04
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-04
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-04
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-04
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-04
+airBaltic,SVO,PAR,5h 20m ,1 stop ,578 SAR ,2022-04-05
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-05
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-05
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-05
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,096 SAR ",2022-04-05
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-05
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,453 SAR ",2022-04-05
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-05
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-05
+LOT,SVO,PAR,5h 20m ,1 stop ,575 SAR ,2022-04-05
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-05
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-05
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-05
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,6h 05m ,1 stop ,726 SAR ,2022-04-05
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-05
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-05
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-05
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-05
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-05
+Finnair,SVO,PAR,16h 25m ,1 stop ,437 SAR ,2022-04-05
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-05
+LOT,SVO,PAR,14h 15m ,1 stop ,575 SAR ,2022-04-05
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-04-05
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-05
+"airBaltic, Vueling",SVO,PAR,13h 20m ,2 stops ,656 SAR ,2022-04-05
+"KLM, Air France",SVO,PAR,17h 25m ,1 stop ,694 SAR ,2022-04-05
+"KLM, Air France",SVO,PAR,18h 50m ,1 stop ,694 SAR ,2022-04-05
+"KLM, Air France",SVO,PAR,27h 15m ,1 stop ,694 SAR ,2022-04-05
+"KLM, Air France",SVO,PAR,21h 40m ,1 stop ,700 SAR ,2022-04-05
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,721 SAR ,2022-04-05
+"airBaltic, Vueling",SVO,PAR,13h 30m ,2 stops ,656 SAR ,2022-04-05
+"airBaltic, Vueling",SVO,PAR,14h 45m ,2 stops ,656 SAR ,2022-04-05
+"airBaltic, easyJet",SVO,PAR,14h 40m ,2 stops ,675 SAR ,2022-04-05
+"KLM, Air France",SVO,PAR,28h 45m ,1 stop ,694 SAR ,2022-04-05
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-05
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,596 SAR ",2022-04-05
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,597 SAR ",2022-04-05
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,597 SAR ",2022-04-05
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,597 SAR ",2022-04-05
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,597 SAR ",2022-04-05
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-05
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-05
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-05
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-05
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-05
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-05
+Air Malta,SVO,PAR,14h 55m ,1 stop ,503 SAR ,2022-04-06
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,067 SAR ",2022-04-06
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,067 SAR ",2022-04-06
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,067 SAR ",2022-04-06
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,067 SAR ",2022-04-06
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-06
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-06
+Air Malta,SVO,PAR,14h 55m ,1 stop ,395 SAR ,2022-04-06
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-06
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-06
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-06
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-06
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-04-06
+LOT,SVO,PAR,5h 20m ,1 stop ,736 SAR ,2022-04-06
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-06
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-06
+LOT,SVO,PAR,14h 15m ,1 stop ,575 SAR ,2022-04-06
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-06
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-06
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-06
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-06
+LOT,SVO,PAR,9h 10m ,1 stop ,654 SAR ,2022-04-06
+KLM,SVO,PAR,6h 05m ,1 stop ,726 SAR ,2022-04-06
+"Ryanair, Air Malta",SVO,PAR,14h 55m ,1 stop ,619 SAR ,2022-04-06
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-06
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-06
+KLM,SVO,PAR,15h 20m ,1 stop ,821 SAR ,2022-04-06
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-06
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,671 SAR ,2022-04-06
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,671 SAR ,2022-04-06
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,675 SAR ,2022-04-06
+"Air Malta, Transavia France",SVO,PAR,12h 05m ,2 stops ,713 SAR ,2022-04-06
+"Ryanair, easyJet",SVO,PAR,14h 40m ,2 stops ,745 SAR ,2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,754 SAR ,2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,754 SAR ,2022-04-06
+airBaltic,SVO,PAR,9h 10m ,2 stops ,872 SAR ,2022-04-06
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-06
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,597 SAR ",2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,597 SAR ",2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,597 SAR ",2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,597 SAR ",2022-04-06
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,597 SAR ",2022-04-06
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-06
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-06
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-06
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-06
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-06
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-06
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-06
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,598 SAR ",2022-04-06
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-07
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-07
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-07
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,096 SAR ",2022-04-07
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-07
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,453 SAR ",2022-04-07
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-07
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-07
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-07
+LOT,SVO,PAR,5h 20m ,1 stop ,656 SAR ,2022-04-07
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-07
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-07
+KLM,SVO,PAR,9h 00m ,1 stop ,726 SAR ,2022-04-07
+KLM,SVO,PAR,6h 10m ,1 stop ,821 SAR ,2022-04-07
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-07
+LOT,SVO,PAR,14h 15m ,1 stop ,656 SAR ,2022-04-07
+KLM,SVO,PAR,10h 40m ,1 stop ,726 SAR ,2022-04-07
+KLM,SVO,PAR,14h 25m ,1 stop ,726 SAR ,2022-04-07
+KLM,SVO,PAR,15h 55m ,1 stop ,726 SAR ,2022-04-07
+KLM,SVO,PAR,7h 15m ,1 stop ,932 SAR ,2022-04-07
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-07
+KLM,SVO,PAR,6h 05m ,1 stop ,"1,058 SAR ",2022-04-07
+"KLM, Air France",SVO,PAR,17h 25m ,1 stop ,880 SAR ,2022-04-07
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-07
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-07
+KLM,SVO,PAR,11h 10m ,1 stop ,"1,058 SAR ",2022-04-07
+KLM,SVO,PAR,13h 05m ,1 stop ,"1,058 SAR ",2022-04-07
+"Aeroflot, Air France",SVO,PAR,7h 45m ,1 stop ,"1,083 SAR ",2022-04-07
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,613 SAR ,2022-04-07
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,671 SAR ,2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,673 SAR ,2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,673 SAR ,2022-04-07
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,676 SAR ,2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,677 SAR ,2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,677 SAR ,2022-04-07
+"airBaltic, Wizz Air",SVO,PAR,12h 25m ,2 stops ,693 SAR ,2022-04-07
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,734 SAR ,2022-04-07
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-07
+"KLM, Air France",SVO,PAR,27h 15m ,1 stop ,880 SAR ,2022-04-07
+"KLM, Air France",SVO,PAR,28h 45m ,1 stop ,880 SAR ,2022-04-07
+"LOT, Transavia France",SVO,PAR,8h 55m ,2 stops ,882 SAR ,2022-04-07
+"Aeroflot, LOT",SVO,PAR,8h 20m ,2 stops ,888 SAR ,2022-04-07
+"Aeroflot, LOT",SVO,PAR,9h 15m ,2 stops ,888 SAR ,2022-04-07
+KLM,SVO,PAR,15h 20m ,1 stop ,"1,236 SAR ",2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,597 SAR ",2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,597 SAR ",2022-04-07
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,597 SAR ",2022-04-07
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,646 SAR ",2022-04-07
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-07
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-07
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,735 SAR ",2022-04-07
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-07
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-07
+"LOT, Air France",SVO,PAR,8h 30m ,1 stop ,"7,210 SAR ",2022-04-07
+"Aeroflot, Air France",SVO,PAR,6h 50m ,1 stop ,"8,489 SAR ",2022-04-07
+"Aeroflot, Air France",SVO,PAR,8h 55m ,1 stop ,"8,489 SAR ",2022-04-07
+"Aeroflot, Air France",SVO,PAR,8h 45m ,1 stop ,"8,495 SAR ",2022-04-07
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-08
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-08
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,096 SAR ",2022-04-08
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-08
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,453 SAR ",2022-04-08
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,453 SAR ",2022-04-08
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-08
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-08
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,524 SAR ,2022-04-08
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-08
+LOT,SVO,PAR,5h 20m ,1 stop ,656 SAR ,2022-04-08
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-08
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-08
+KLM,SVO,PAR,9h 00m ,1 stop ,726 SAR ,2022-04-08
+KLM,SVO,PAR,6h 10m ,1 stop ,821 SAR ,2022-04-08
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-08
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-08
+LOT,SVO,PAR,14h 15m ,1 stop ,654 SAR ,2022-04-08
+KLM,SVO,PAR,13h 05m ,1 stop ,726 SAR ,2022-04-08
+KLM,SVO,PAR,15h 55m ,1 stop ,726 SAR ,2022-04-08
+KLM,SVO,PAR,10h 40m ,1 stop ,821 SAR ,2022-04-08
+KLM,SVO,PAR,6h 05m ,1 stop ,932 SAR ,2022-04-08
+KLM,SVO,PAR,7h 15m ,1 stop ,932 SAR ,2022-04-08
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-08
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-08
+KLM,SVO,PAR,15h 20m ,1 stop ,821 SAR ,2022-04-08
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-08
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-08
+"LOT, Wizz Air",SVO,PAR,6h 35m ,1 stop ,979 SAR ,2022-04-08
+KLM,SVO,PAR,11h 10m ,1 stop ,"1,058 SAR ",2022-04-08
+Multiple Airlines,SVO,PAR,11h 40m ,2 stops ,756 SAR ,2022-04-08
+"airBaltic, Ryanair",SVO,PAR,11h 55m ,2 stops ,777 SAR ,2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,825 SAR ,2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,825 SAR ,2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,825 SAR ,2022-04-08
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,"1,005 SAR ",2022-04-08
+airBaltic,SVO,PAR,9h 10m ,2 stops ,"1,094 SAR ",2022-04-08
+"airBaltic, Lufthansa",SVO,PAR,15h 45m ,2 stops ,"1,033 SAR ",2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,597 SAR ",2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,597 SAR ",2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,597 SAR ",2022-04-08
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,597 SAR ",2022-04-08
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-08
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-08
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-08
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-08
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,798 SAR ",2022-04-08
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-09
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-09
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,098 SAR ",2022-04-09
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,463 SAR ",2022-04-09
+LOT,SVO,PAR,5h 20m ,1 stop ,649 SAR ,2022-04-09
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-10
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-10
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,098 SAR ",2022-04-10
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,453 SAR ,2022-04-10
+KLM,SVO,PAR,6h 05m ,1 stop ,658 SAR ,2022-04-10
+LOT,SVO,PAR,5h 20m ,1 stop ,728 SAR ,2022-04-10
+Brussels Airlines,SVO,PAR,16h 45m ,1 stop ,580 SAR ,2022-04-10
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,763 SAR ",2022-04-10
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-11
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-11
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,098 SAR ",2022-04-11
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,463 SAR ",2022-04-11
+Finnair,SVO,PAR,5h 35m ,1 stop ,559 SAR ,2022-04-11
+LOT,SVO,PAR,5h 20m ,1 stop ,649 SAR ,2022-04-11
+Air Serbia,SVO,PAR,12h 05m ,1 stop ,453 SAR ,2022-04-11
+KLM,SVO,PAR,6h 05m ,1 stop ,658 SAR ,2022-04-11
+Brussels Airlines,SVO,PAR,16h 45m ,1 stop ,580 SAR ,2022-04-11
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"6,023 SAR ",2022-04-11
+airBaltic,SVO,PAR,5h 20m ,1 stop ,577 SAR ,2022-04-12
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,069 SAR ",2022-04-12
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-12
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,069 SAR ",2022-04-12
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,069 SAR ",2022-04-12
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,426 SAR ",2022-04-12
+Finnair,SVO,PAR,5h 35m ,1 stop ,559 SAR ,2022-04-12
+Finnair,SVO,PAR,5h 40m ,1 stop ,559 SAR ,2022-04-12
+LOT,SVO,PAR,5h 20m ,1 stop ,575 SAR ,2022-04-12
+Finnair,SVO,PAR,7h 30m ,1 stop ,559 SAR ,2022-04-12
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-12
+Finnair,SVO,PAR,9h 10m ,1 stop ,559 SAR ,2022-04-12
+Finnair,SVO,PAR,9h 45m ,1 stop ,559 SAR ,2022-04-12
+Finnair,SVO,PAR,10h 20m ,1 stop ,559 SAR ,2022-04-12
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-12
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-04-12
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-12
+"KLM, Air France",SVO,PAR,6h 05m ,1 stop ,825 SAR ,2022-04-12
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-12
+Finnair,SVO,PAR,13h 20m ,1 stop ,559 SAR ,2022-04-12
+Finnair,SVO,PAR,14h 10m ,1 stop ,559 SAR ,2022-04-12
+LOT,SVO,PAR,14h 15m ,1 stop ,575 SAR ,2022-04-12
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-12
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-12
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-12
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-12
+airBaltic,SVO,PAR,18h 45m ,1 stop ,484 SAR ,2022-04-12
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-04-12
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,9h 45m ,2 stops ,675 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,684 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,721 SAR ,2022-04-12
+Finnair,SVO,PAR,14h 35m ,1 stop ,745 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,11h 05m ,2 stops ,747 SAR ,2022-04-12
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,754 SAR ,2022-04-12
+"airBaltic, Eurowings",SVO,PAR,11h 00m ,2 stops ,776 SAR ,2022-04-12
+"LOT, easyJet",SVO,PAR,9h 20m ,2 stops ,821 SAR ,2022-04-12
+"airBaltic, Air France",SVO,PAR,10h 10m ,2 stops ,872 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,14h 40m ,2 stops ,675 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,14h 15m ,2 stops ,680 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,13h 40m ,2 stops ,684 SAR ,2022-04-12
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-12
+"airBaltic, TAP AIR PORTUGAL",SVO,PAR,12h 55m ,2 stops ,750 SAR ,2022-04-12
+"airBaltic, easyJet",SVO,PAR,12h 25m ,2 stops ,785 SAR ,2022-04-12
+Multiple Airlines,SVO,PAR,12h 35m ,3 stops ,841 SAR ,2022-04-12
+"airBaltic, Austrian Airlines",SVO,PAR,11h 15m ,2 stops ,868 SAR ,2022-04-12
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-12
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-12
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-12
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-12
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-12
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-12
+"Aeroflot, KLM",SVO,PAR,11h 30m ,2 stops ,"4,646 SAR ",2022-04-12
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-12
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-12
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-12
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-12
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,598 SAR ",2022-04-12
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,504 SAR ,2022-04-13
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,067 SAR ",2022-04-13
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,437 SAR ,2022-04-13
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,067 SAR ",2022-04-13
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,067 SAR ",2022-04-13
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,067 SAR ",2022-04-13
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-13
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-13
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-13
+Air Malta,SVO,PAR,14h 55m ,1 stop ,452 SAR ,2022-04-13
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-13
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-13
+LOT,SVO,PAR,14h 15m ,1 stop ,575 SAR ,2022-04-13
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-13
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-13
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-13
+LOT,SVO,PAR,9h 10m ,1 stop ,656 SAR ,2022-04-13
+LOT,SVO,PAR,5h 20m ,1 stop ,736 SAR ,2022-04-13
+Finnair,SVO,PAR,5h 35m ,1 stop ,745 SAR ,2022-04-13
+Finnair,SVO,PAR,5h 40m ,1 stop ,745 SAR ,2022-04-13
+Finnair,SVO,PAR,7h 30m ,1 stop ,745 SAR ,2022-04-13
+Finnair,SVO,PAR,9h 10m ,1 stop ,745 SAR ,2022-04-13
+Air Serbia,SVO,PAR,22h 55m ,1 stop ,437 SAR ,2022-04-13
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-13
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-13
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-13
+"Ryanair, Air Malta",SVO,PAR,14h 55m ,1 stop ,681 SAR ,2022-04-13
+KLM,SVO,PAR,15h 20m ,1 stop ,726 SAR ,2022-04-13
+Finnair,SVO,PAR,9h 45m ,1 stop ,745 SAR ,2022-04-13
+Finnair,SVO,PAR,10h 20m ,1 stop ,745 SAR ,2022-04-13
+Finnair,SVO,PAR,13h 20m ,1 stop ,745 SAR ,2022-04-13
+Finnair,SVO,PAR,14h 10m ,1 stop ,745 SAR ,2022-04-13
+KLM,SVO,PAR,6h 05m ,1 stop ,932 SAR ,2022-04-13
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-13
+KLM,SVO,PAR,7h 15m ,1 stop ,"1,058 SAR ",2022-04-13
+"LOT, Wizz Air",SVO,PAR,6h 25m ,1 stop ,"1,128 SAR ",2022-04-13
+"Air Malta, Transavia France",SVO,PAR,12h 05m ,2 stops ,752 SAR ,2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,821 SAR ,2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,821 SAR ,2022-04-13
+airBaltic,SVO,PAR,9h 10m ,2 stops ,872 SAR ,2022-04-13
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-13
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-13
+"Air Malta, Vueling",SVO,PAR,12h 20m ,2 stops ,883 SAR ,2022-04-13
+"KLM, easyJet",SVO,PAR,10h 10m ,2 stops ,892 SAR ,2022-04-13
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,907 SAR ,2022-04-13
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,916 SAR ,2022-04-13
+"airBaltic, Vueling",SVO,PAR,11h 30m ,2 stops ,926 SAR ,2022-04-13
+"KLM, easyJet",SVO,PAR,11h 50m ,2 stops ,930 SAR ,2022-04-13
+"airBaltic, Air France",SVO,PAR,7h 45m ,2 stops ,982 SAR ,2022-04-13
+"airBaltic, Air France",SVO,PAR,7h 50m ,2 stops ,982 SAR ,2022-04-13
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"1,033 SAR ",2022-04-13
+"Aeroflot, LOT",SVO,PAR,8h 20m ,2 stops ,"1,036 SAR ",2022-04-13
+"Aeroflot, LOT",SVO,PAR,9h 15m ,2 stops ,"1,036 SAR ",2022-04-13
+"Aeroflot, LOT",SVO,PAR,10h 15m ,2 stops ,"1,036 SAR ",2022-04-13
+"LOT, easyJet",SVO,PAR,9h 20m ,2 stops ,"1,056 SAR ",2022-04-13
+"airBaltic, SkyUp",SVO,PAR,9h 00m ,2 stops ,"1,099 SAR ",2022-04-13
+Korean Air,SVO,PAR,24h 35m ,1 stop ,"3,525 SAR ",2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-13
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-13
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-13
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-13
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-13
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-13
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-13
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-13
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-13
+"LOT, Air France",SVO,PAR,8h 30m ,1 stop ,"7,210 SAR ",2022-04-13
+"Aeroflot, Air France",SVO,PAR,6h 50m ,1 stop ,"8,489 SAR ",2022-04-13
+"Aeroflot, Air France",SVO,PAR,8h 55m ,1 stop ,"8,489 SAR ",2022-04-13
+"Aeroflot, Air France",SVO,PAR,7h 45m ,1 stop ,"8,495 SAR ",2022-04-13
+"Aeroflot, Air France",SVO,PAR,8h 45m ,1 stop ,"8,495 SAR ",2022-04-13
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-14
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-14
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-14
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,096 SAR ",2022-04-14
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,096 SAR ",2022-04-14
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,096 SAR ",2022-04-14
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-14
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-14
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-14
+LOT,SVO,PAR,5h 20m ,1 stop ,656 SAR ,2022-04-14
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-14
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-14
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-14
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-14
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-14
+LOT,SVO,PAR,9h 10m ,1 stop ,736 SAR ,2022-04-14
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-14
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-14
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-14
+LOT,SVO,PAR,14h 15m ,1 stop ,656 SAR ,2022-04-14
+KLM,SVO,PAR,11h 10m ,1 stop ,726 SAR ,2022-04-14
+KLM,SVO,PAR,15h 20m ,1 stop ,726 SAR ,2022-04-14
+KLM,SVO,PAR,6h 05m ,1 stop ,932 SAR ,2022-04-14
+KLM,SVO,PAR,7h 15m ,1 stop ,932 SAR ,2022-04-14
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-14
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,717 SAR ,2022-04-14
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-14
+"airBaltic, Vueling",SVO,PAR,10h 10m ,2 stops ,748 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,750 SAR ,2022-04-14
+"airBaltic, Transavia France",SVO,PAR,11h 00m ,2 stops ,761 SAR ,2022-04-14
+"airBaltic, Transavia France",SVO,PAR,14h 00m ,2 stops ,761 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,14h 05m ,2 stops ,804 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,823 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,823 SAR ,2022-04-14
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,865 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,872 SAR ,2022-04-14
+"airBaltic, LOT",SVO,PAR,10h 10m ,2 stops ,886 SAR ,2022-04-14
+Multiple Airlines,SVO,PAR,13h 10m ,2 stops ,903 SAR ,2022-04-14
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,967 SAR ,2022-04-14
+"airBaltic, Transavia France",SVO,PAR,9h 55m ,2 stops ,"1,023 SAR ",2022-04-14
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,730 SAR ,2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-14
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,646 SAR ",2022-04-14
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-14
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-14
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-14
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,735 SAR ",2022-04-14
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-14
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-14
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-15
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,104 SAR ",2022-04-15
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-15
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,104 SAR ",2022-04-15
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,104 SAR ",2022-04-15
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-15
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,453 SAR ",2022-04-15
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-15
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,524 SAR ,2022-04-15
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-04-15
+LOT,SVO,PAR,5h 20m ,1 stop ,736 SAR ,2022-04-15
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-15
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-15
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-15
+LOT,SVO,PAR,9h 10m ,1 stop ,654 SAR ,2022-04-15
+KLM,SVO,PAR,6h 10m ,1 stop ,726 SAR ,2022-04-15
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-15
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-15
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-15
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-15
+LOT,SVO,PAR,14h 15m ,1 stop ,654 SAR ,2022-04-15
+KLM,SVO,PAR,10h 40m ,1 stop ,726 SAR ,2022-04-15
+KLM,SVO,PAR,11h 10m ,1 stop ,726 SAR ,2022-04-15
+KLM,SVO,PAR,15h 20m ,1 stop ,726 SAR ,2022-04-15
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-15
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-15
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-15
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-15
+"Air Serbia, Wizz Air",SVO,PAR,11h 05m ,1 stop ,"1,059 SAR ",2022-04-15
+KLM,SVO,PAR,7h 15m ,1 stop ,"1,236 SAR ",2022-04-15
+Multiple Airlines,SVO,PAR,15h 05m ,2 stops ,518 SAR ,2022-04-15
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,721 SAR ,2022-04-15
+"airBaltic, easyJet",SVO,PAR,14h 15m ,2 stops ,748 SAR ,2022-04-15
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,755 SAR ,2022-04-15
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,755 SAR ,2022-04-15
+"airBaltic, easyJet",SVO,PAR,12h 20m ,2 stops ,804 SAR ,2022-04-15
+"airBaltic, Vueling",SVO,PAR,11h 30m ,2 stops ,855 SAR ,2022-04-15
+"airBaltic, Air France",SVO,PAR,7h 50m ,2 stops ,982 SAR ,2022-04-15
+"airBaltic, Air France",SVO,PAR,10h 30m ,2 stops ,993 SAR ,2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"1,037 SAR ",2022-04-15
+"airBaltic, easyJet",SVO,PAR,12h 50m ,2 stops ,719 SAR ,2022-04-15
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,736 SAR ,2022-04-15
+"airBaltic, Air France",SVO,PAR,7h 45m ,2 stops ,"1,599 SAR ",2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,598 SAR ",2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,598 SAR ",2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-15
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-15
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-15
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-15
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-15
+"Aeroflot, KLM",SVO,PAR,11h 30m ,2 stops ,"4,646 SAR ",2022-04-15
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,798 SAR ",2022-04-15
+Air Malta,SVO,PAR,13h 40m ,1 stop ,561 SAR ,2022-04-16
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,079 SAR ",2022-04-16
+Multiple Airlines,SVO,PAR,13h 40m ,2 stops ,451 SAR ,2022-04-16
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,079 SAR ",2022-04-16
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,079 SAR ",2022-04-16
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,079 SAR ",2022-04-16
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-16
+Air Malta,SVO,PAR,13h 40m ,1 stop ,452 SAR ,2022-04-16
+Air Malta,SVO,PAR,14h 55m ,1 stop ,452 SAR ,2022-04-16
+LOT,SVO,PAR,5h 20m ,1 stop ,575 SAR ,2022-04-16
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-16
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-04-16
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-16
+LOT,SVO,PAR,14h 15m ,1 stop ,575 SAR ,2022-04-16
+KLM,SVO,PAR,7h 15m ,1 stop ,636 SAR ,2022-04-16
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-16
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-16
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-16
+"Ryanair, Transavia France",SVO,PAR,12h 10m ,1 stop ,641 SAR ,2022-04-16
+"Ryanair, Air Malta",SVO,PAR,13h 40m ,1 stop ,681 SAR ,2022-04-16
+"Ryanair, Air Malta",SVO,PAR,14h 55m ,1 stop ,681 SAR ,2022-04-16
+KLM,SVO,PAR,11h 10m ,1 stop ,726 SAR ,2022-04-16
+Ryanair,SVO,PAR,8h 40m ,1 stop ,743 SAR ,2022-04-16
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-16
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-16
+"airBaltic, easyJet",SVO,PAR,14h 10m ,2 stops ,675 SAR ,2022-04-16
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-16
+"airBaltic, easyJet",SVO,PAR,12h 30m ,2 stops ,783 SAR ,2022-04-16
+"airBaltic, Ryanair",SVO,PAR,13h 00m ,2 stops ,804 SAR ,2022-04-16
+"airBaltic, easyJet",SVO,PAR,13h 05m ,2 stops ,841 SAR ,2022-04-16
+"airBaltic, Air France",SVO,PAR,13h 25m ,2 stops ,846 SAR ,2022-04-16
+"airBaltic, Air France",SVO,PAR,10h 50m ,2 stops ,869 SAR ,2022-04-16
+"airBaltic, easyJet",SVO,PAR,12h 15m ,2 stops ,911 SAR ,2022-04-16
+Air Algerie,SVO,PAR,10h 50m ,1 stop ,"1,577 SAR ",2022-04-16
+Air Algerie,SVO,PAR,11h 55m ,1 stop ,"1,577 SAR ",2022-04-16
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,646 SAR ",2022-04-16
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-16
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,714 SAR ",2022-04-16
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,598 SAR ",2022-04-16
+"KLM, Air France",SVO,PAR,15h 15m ,2 stops ,"7,309 SAR ",2022-04-16
+"Aeroflot, Air France",SVO,PAR,6h 50m ,1 stop ,"8,489 SAR ",2022-04-16
+"Aeroflot, Air France",SVO,PAR,8h 55m ,1 stop ,"8,489 SAR ",2022-04-16
+"Aeroflot, Air France",SVO,PAR,7h 45m ,1 stop ,"8,495 SAR ",2022-04-16
+"Aeroflot, Air France",SVO,PAR,8h 45m ,1 stop ,"8,495 SAR ",2022-04-16
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,504 SAR ,2022-04-17
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,085 SAR ",2022-04-17
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,437 SAR ,2022-04-17
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,085 SAR ",2022-04-17
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,085 SAR ",2022-04-17
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-17
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-04-17
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-17
+LOT,SVO,PAR,5h 20m ,1 stop ,654 SAR ,2022-04-17
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-17
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-17
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-17
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-17
+LOT,SVO,PAR,9h 10m ,1 stop ,654 SAR ,2022-04-17
+KLM,SVO,PAR,7h 15m ,1 stop ,724 SAR ,2022-04-17
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-17
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-17
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-17
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-04-17
+LOT,SVO,PAR,14h 15m ,1 stop ,654 SAR ,2022-04-17
+"LOT, Wizz Air",SVO,PAR,6h 25m ,1 stop ,747 SAR ,2022-04-17
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-17
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-17
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-17
+KLM,SVO,PAR,15h 55m ,1 stop ,821 SAR ,2022-04-17
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-17
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-17
+"LOT, Air France",SVO,PAR,8h 30m ,1 stop ,"1,129 SAR ",2022-04-17
+"airBaltic, easyJet",SVO,PAR,9h 05m ,2 stops ,680 SAR ,2022-04-17
+"airBaltic, easyJet",SVO,PAR,12h 40m ,2 stops ,700 SAR ,2022-04-17
+"airBaltic, Wizz Air",SVO,PAR,11h 15m ,2 stops ,701 SAR ,2022-04-17
+"Aeroflot, Air Serbia",SVO,PAR,12h 30m ,2 stops ,731 SAR ,2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,754 SAR ,2022-04-17
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,764 SAR ,2022-04-17
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,781 SAR ,2022-04-17
+"airBaltic, Vueling",SVO,PAR,10h 10m ,2 stops ,792 SAR ,2022-04-17
+"LOT, easyJet",SVO,PAR,8h 55m ,2 stops ,819 SAR ,2022-04-17
+Multiple Airlines,SVO,PAR,11h 30m ,2 stops ,847 SAR ,2022-04-17
+"airBaltic, LOT",SVO,PAR,10h 10m ,2 stops ,887 SAR ,2022-04-17
+"airBaltic, Air France",SVO,PAR,9h 55m ,2 stops ,910 SAR ,2022-04-17
+"airBaltic, Air France",SVO,PAR,10h 50m ,2 stops ,931 SAR ,2022-04-17
+"airBaltic, LOT",SVO,PAR,10h 10m ,2 stops ,954 SAR ,2022-04-17
+"LOT, easyJet",SVO,PAR,8h 55m ,2 stops ,965 SAR ,2022-04-17
+"Aeroflot, LOT",SVO,PAR,8h 20m ,2 stops ,969 SAR ,2022-04-17
+"Aeroflot, LOT",SVO,PAR,9h 15m ,2 stops ,969 SAR ,2022-04-17
+"Aeroflot, LOT",SVO,PAR,10h 15m ,2 stops ,969 SAR ,2022-04-17
+"airBaltic, Air France",SVO,PAR,7h 45m ,2 stops ,982 SAR ,2022-04-17
+"airBaltic, Air France",SVO,PAR,7h 50m ,2 stops ,982 SAR ,2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,598 SAR ",2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-17
+"Aeroflot, airBaltic",SVO,PAR,15h 25m ,2 stops ,"4,598 SAR ",2022-04-17
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,646 SAR ",2022-04-17
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-17
+"Aeroflot, KLM",SVO,PAR,11h 10m ,2 stops ,"4,646 SAR ",2022-04-17
+"Aeroflot, KLM",SVO,PAR,12h 15m ,2 stops ,"4,646 SAR ",2022-04-17
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-17
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-17
+"airBaltic, SAS",SVO,PAR,10h 20m ,2 stops ,"6,083 SAR ",2022-04-17
+"airBaltic, SAS",SVO,PAR,15h 30m ,2 stops ,"6,083 SAR ",2022-04-17
+airBaltic,SVO,PAR,5h 20m ,1 stop ,577 SAR ,2022-04-18
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,086 SAR ",2022-04-18
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-18
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,086 SAR ",2022-04-18
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,086 SAR ",2022-04-18
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,176 SAR ",2022-04-18
+LOT,SVO,PAR,5h 20m ,1 stop ,654 SAR ,2022-04-18
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-18
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-18
+KLM,SVO,PAR,6h 05m ,1 stop ,821 SAR ,2022-04-18
+KLM,SVO,PAR,6h 10m ,1 stop ,825 SAR ,2022-04-18
+Finnair,SVO,PAR,5h 35m ,1 stop ,976 SAR ,2022-04-18
+Finnair,SVO,PAR,5h 40m ,1 stop ,976 SAR ,2022-04-18
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-18
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-18
+Air Serbia,SVO,PAR,12h 05m ,1 stop ,524 SAR ,2022-04-18
+KLM,SVO,PAR,10h 40m ,1 stop ,731 SAR ,2022-04-18
+KLM,SVO,PAR,9h 00m ,1 stop ,936 SAR ,2022-04-18
+Finnair,SVO,PAR,7h 30m ,1 stop ,976 SAR ,2022-04-18
+Finnair,SVO,PAR,9h 10m ,1 stop ,976 SAR ,2022-04-18
+"LOT, Wizz Air",SVO,PAR,6h 35m ,1 stop ,"1,095 SAR ",2022-04-18
+airBaltic,SVO,PAR,18h 45m ,1 stop ,484 SAR ,2022-04-18
+LOT,SVO,PAR,14h 15m ,1 stop ,575 SAR ,2022-04-18
+KLM,SVO,PAR,15h 55m ,1 stop ,726 SAR ,2022-04-18
+KLM,SVO,PAR,13h 05m ,1 stop ,731 SAR ,2022-04-18
+KLM,SVO,PAR,14h 25m ,1 stop ,731 SAR ,2022-04-18
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-18
+airBaltic,SVO,PAR,9h 10m ,2 stops ,872 SAR ,2022-04-18
+Finnair,SVO,PAR,9h 45m ,1 stop ,976 SAR ,2022-04-18
+Finnair,SVO,PAR,10h 20m ,1 stop ,976 SAR ,2022-04-18
+Finnair,SVO,PAR,13h 20m ,1 stop ,976 SAR ,2022-04-18
+Finnair,SVO,PAR,14h 10m ,1 stop ,976 SAR ,2022-04-18
+Finnair,SVO,PAR,14h 35m ,1 stop ,976 SAR ,2022-04-18
+"airBaltic, Air France",SVO,PAR,7h 45m ,2 stops ,982 SAR ,2022-04-18
+KLM,SVO,PAR,11h 10m ,1 stop ,"1,236 SAR ",2022-04-18
+KLM,SVO,PAR,15h 20m ,1 stop ,"1,236 SAR ",2022-04-18
+KLM,SVO,PAR,7h 15m ,1 stop ,"1,239 SAR ",2022-04-18
+Multiple Airlines,SVO,PAR,13h 45m ,3 stops ,695 SAR ,2022-04-18
+Multiple Airlines,SVO,PAR,14h 40m ,3 stops ,695 SAR ,2022-04-18
+"airBaltic, easyJet",SVO,PAR,12h 35m ,2 stops ,728 SAR ,2022-04-18
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,728 SAR ,2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,754 SAR ,2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,754 SAR ,2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,754 SAR ,2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,754 SAR ,2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,754 SAR ,2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,754 SAR ,2022-04-18
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,785 SAR ,2022-04-18
+"airBaltic, Ryanair",SVO,PAR,10h 15m ,2 stops ,804 SAR ,2022-04-18
+"airBaltic, Vueling",SVO,PAR,11h 30m ,2 stops ,811 SAR ,2022-04-18
+"airBaltic, Transavia",SVO,PAR,12h 20m ,2 stops ,860 SAR ,2022-04-18
+"LOT, easyJet",SVO,PAR,9h 30m ,2 stops ,864 SAR ,2022-04-18
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-18
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-18
+"airBaltic, Lufthansa",SVO,PAR,9h 50m ,2 stops ,980 SAR ,2022-04-18
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,"1,005 SAR ",2022-04-18
+"airBaltic, SkyUp",SVO,PAR,9h 00m ,2 stops ,"1,099 SAR ",2022-04-18
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-18
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-18
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-18
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-18
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-18
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,598 SAR ",2022-04-18
+airBaltic,SVO,PAR,5h 20m ,1 stop ,577 SAR ,2022-04-19
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,065 SAR ",2022-04-19
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-19
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,065 SAR ",2022-04-19
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,154 SAR ",2022-04-19
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,453 SAR ",2022-04-19
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-19
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-19
+LOT,SVO,PAR,5h 20m ,1 stop ,575 SAR ,2022-04-19
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-19
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-19
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-19
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-19
+LOT,SVO,PAR,9h 10m ,1 stop ,575 SAR ,2022-04-19
+KLM,SVO,PAR,6h 05m ,1 stop ,726 SAR ,2022-04-19
+KLM,SVO,PAR,6h 10m ,1 stop ,821 SAR ,2022-04-19
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-19
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-19
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-19
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-19
+KLM,SVO,PAR,9h 00m ,1 stop ,726 SAR ,2022-04-19
+KLM,SVO,PAR,10h 40m ,1 stop ,731 SAR ,2022-04-19
+KLM,SVO,PAR,11h 10m ,1 stop ,731 SAR ,2022-04-19
+KLM,SVO,PAR,7h 15m ,1 stop ,"1,058 SAR ",2022-04-19
+Finnair,SVO,PAR,16h 25m ,1 stop ,437 SAR ,2022-04-19
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-19
+LOT,SVO,PAR,14h 15m ,1 stop ,654 SAR ,2022-04-19
+"airBaltic, easyJet",SVO,PAR,9h 45m ,2 stops ,688 SAR ,2022-04-19
+"airBaltic, Ryanair",SVO,PAR,12h 15m ,1 stop ,714 SAR ,2022-04-19
+KLM,SVO,PAR,14h 25m ,1 stop ,726 SAR ,2022-04-19
+KLM,SVO,PAR,15h 20m ,1 stop ,726 SAR ,2022-04-19
+KLM,SVO,PAR,13h 05m ,1 stop ,731 SAR ,2022-04-19
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,754 SAR ,2022-04-19
+"airBaltic, Ryanair",SVO,PAR,8h 55m ,2 stops ,804 SAR ,2022-04-19
+"airBaltic, Air France",SVO,PAR,7h 50m ,2 stops ,982 SAR ,2022-04-19
+"airBaltic, easyJet",SVO,PAR,14h 40m ,2 stops ,688 SAR ,2022-04-19
+"airBaltic, easyJet",SVO,PAR,13h 50m ,2 stops ,694 SAR ,2022-04-19
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-19
+"Aeroflot, Air Serbia",SVO,PAR,13h 45m ,2 stops ,822 SAR ,2022-04-19
+"Aeroflot, Air Serbia",SVO,PAR,14h 40m ,2 stops ,822 SAR ,2022-04-19
+Multiple Airlines,SVO,PAR,14h 40m ,3 stops ,823 SAR ,2022-04-19
+"airBaltic, Vueling",SVO,PAR,11h 30m ,2 stops ,852 SAR ,2022-04-19
+"airBaltic, SAS",SVO,PAR,9h 55m ,3 stops ,860 SAR ,2022-04-19
+Multiple Airlines,SVO,PAR,12h 55m ,3 stops ,861 SAR ,2022-04-19
+"airBaltic, SAS",SVO,PAR,9h 30m ,2 stops ,880 SAR ,2022-04-19
+"airBaltic, TAP AIR PORTUGAL",SVO,PAR,14h 10m ,3 stops ,888 SAR ,2022-04-19
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,955 SAR ,2022-04-19
+"airBaltic, TAP AIR PORTUGAL",SVO,PAR,12h 55m ,2 stops ,974 SAR ,2022-04-19
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-19
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-19
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-19
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-19
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-19
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-19
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-19
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,651 SAR ",2022-04-19
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-19
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-19
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,598 SAR ",2022-04-19
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,504 SAR ,2022-04-20
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,071 SAR ",2022-04-20
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-20
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,071 SAR ",2022-04-20
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,071 SAR ",2022-04-20
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,158 SAR ",2022-04-20
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-20
+Air Serbia,SVO,PAR,12h 30m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-20
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-20
+Air Malta,SVO,PAR,14h 55m ,1 stop ,452 SAR ,2022-04-20
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-20
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-20
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-20
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-20
+KLM,SVO,PAR,6h 05m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,6h 10m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,9h 00m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,10h 40m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,11h 10m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,13h 05m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,14h 25m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,15h 20m ,1 stop ,636 SAR ,2022-04-20
+KLM,SVO,PAR,15h 55m ,1 stop ,636 SAR ,2022-04-20
+LOT,SVO,PAR,14h 15m ,1 stop ,654 SAR ,2022-04-20
+LOT,SVO,PAR,9h 10m ,1 stop ,656 SAR ,2022-04-20
+LOT,SVO,PAR,5h 20m ,1 stop ,736 SAR ,2022-04-20
+KLM,SVO,PAR,7h 15m ,1 stop ,"1,236 SAR ",2022-04-20
+"Air Malta, Transavia France",SVO,PAR,12h 05m ,2 stops ,737 SAR ,2022-04-20
+"airBaltic, easyJet",SVO,PAR,13h 40m ,2 stops ,757 SAR ,2022-04-20
+"airBaltic, Lufthansa",SVO,PAR,9h 50m ,2 stops ,820 SAR ,2022-04-20
+"airBaltic, SAS",SVO,PAR,9h 30m ,2 stops ,852 SAR ,2022-04-20
+"airBaltic, Air France",SVO,PAR,10h 50m ,2 stops ,869 SAR ,2022-04-20
+airBaltic,SVO,PAR,9h 10m ,2 stops ,872 SAR ,2022-04-20
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-20
+airBaltic,SVO,PAR,14h 05m ,2 stops ,872 SAR ,2022-04-20
+"airBaltic, Lufthansa",SVO,PAR,9h 50m ,2 stops ,895 SAR ,2022-04-20
+"Air Malta, Vueling",SVO,PAR,12h 20m ,2 stops ,899 SAR ,2022-04-20
+"airBaltic, Air France",SVO,PAR,9h 45m ,2 stops ,904 SAR ,2022-04-20
+"airBaltic, Air France",SVO,PAR,12h 00m ,2 stops ,904 SAR ,2022-04-20
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,917 SAR ,2022-04-20
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,933 SAR ,2022-04-20
+"airBaltic, Air France",SVO,PAR,10h 20m ,2 stops ,944 SAR ,2022-04-20
+"airBaltic, Ryanair",SVO,PAR,9h 40m ,2 stops ,955 SAR ,2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,969 SAR ,2022-04-20
+Korean Air,SVO,PAR,24h 35m ,1 stop ,"3,525 SAR ",2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,598 SAR ",2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-20
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-20
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-20
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-20
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-20
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,749 SAR ",2022-04-20
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-20
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-20
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-21
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,080 SAR ",2022-04-21
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-21
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,080 SAR ",2022-04-21
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-21
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,436 SAR ",2022-04-21
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-21
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-21
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-21
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,436 SAR ",2022-04-21
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-21
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-21
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-21
+LOT,SVO,PAR,5h 20m ,1 stop ,656 SAR ,2022-04-21
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-21
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-21
+Finnair,SVO,PAR,14h 35m ,1 stop ,437 SAR ,2022-04-21
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-21
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-21
+Finnair,SVO,PAR,10h 20m ,1 stop ,559 SAR ,2022-04-21
+LOT,SVO,PAR,9h 10m ,1 stop ,654 SAR ,2022-04-21
+KLM,SVO,PAR,6h 10m ,1 stop ,726 SAR ,2022-04-21
+KLM,SVO,PAR,9h 00m ,1 stop ,726 SAR ,2022-04-21
+KLM,SVO,PAR,6h 05m ,1 stop ,821 SAR ,2022-04-21
+KLM,SVO,PAR,7h 15m ,1 stop ,821 SAR ,2022-04-21
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-21
+LOT,SVO,PAR,14h 15m ,1 stop ,656 SAR ,2022-04-21
+KLM,SVO,PAR,10h 40m ,1 stop ,726 SAR ,2022-04-21
+KLM,SVO,PAR,11h 10m ,1 stop ,821 SAR ,2022-04-21
+KLM,SVO,PAR,13h 05m ,1 stop ,821 SAR ,2022-04-21
+KLM,SVO,PAR,15h 55m ,1 stop ,726 SAR ,2022-04-21
+"KLM, Air France",SVO,PAR,15h 55m ,1 stop ,783 SAR ,2022-04-21
+KLM,SVO,PAR,14h 25m ,1 stop ,821 SAR ,2022-04-21
+KLM,SVO,PAR,15h 20m ,1 stop ,932 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,15h 05m ,2 stops ,692 SAR ,2022-04-21
+"airBaltic, Vueling",SVO,PAR,13h 30m ,2 stops ,704 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,712 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,11h 20m ,2 stops ,721 SAR ,2022-04-21
+airBaltic,SVO,PAR,13h 00m ,2 stops ,745 SAR ,2022-04-21
+"airBaltic, Transavia France",SVO,PAR,11h 00m ,2 stops ,763 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,768 SAR ,2022-04-21
+"KLM, Air France",SVO,PAR,27h 15m ,1 stop ,783 SAR ,2022-04-21
+"airBaltic, Transavia France",SVO,PAR,9h 55m ,2 stops ,791 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,11h 35m ,2 stops ,823 SAR ,2022-04-21
+"airBaltic, Vueling",SVO,PAR,10h 10m ,2 stops ,847 SAR ,2022-04-21
+"airBaltic, Lufthansa",SVO,PAR,9h 50m ,2 stops ,895 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,9h 45m ,2 stops ,898 SAR ,2022-04-21
+"airBaltic, Vueling",SVO,PAR,12h 20m ,2 stops ,902 SAR ,2022-04-21
+"airBaltic, Air France",SVO,PAR,9h 45m ,2 stops ,904 SAR ,2022-04-21
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,995 SAR ,2022-04-21
+"Aeroflot, LOT",SVO,PAR,10h 15m ,2 stops ,"1,033 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-21
+"Aeroflot, KLM",SVO,PAR,9h 35m ,2 stops ,"4,646 SAR ",2022-04-21
+"Aeroflot, KLM",SVO,PAR,12h 35m ,2 stops ,"4,646 SAR ",2022-04-21
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,735 SAR ",2022-04-21
+"airBaltic, SAS",SVO,PAR,10h 00m ,2 stops ,"6,083 SAR ",2022-04-21
+"airBaltic, SAS",SVO,PAR,15h 10m ,2 stops ,"6,083 SAR ",2022-04-21
+"airBaltic, Lufthansa",SVO,PAR,7h 35m ,2 stops ,"6,598 SAR ",2022-04-21
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,504 SAR ,2022-04-22
+Finnair,SVO,PAR,5h 35m ,1 stop ,437 SAR ,2022-04-22
+Finnair,SVO,PAR,5h 40m ,1 stop ,437 SAR ,2022-04-22
+Finnair,SVO,PAR,7h 30m ,1 stop ,437 SAR ,2022-04-22
+airBaltic,SVO,PAR,5h 20m ,1 stop ,484 SAR ,2022-04-22
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,440 SAR ",2022-04-22
+Finnair,SVO,PAR,9h 10m ,1 stop ,437 SAR ,2022-04-22
+Finnair,SVO,PAR,9h 45m ,1 stop ,437 SAR ,2022-04-22
+Finnair,SVO,PAR,10h 20m ,1 stop ,437 SAR ,2022-04-22
+Air Serbia,SVO,PAR,12h 25m ,1 stop ,437 SAR ,2022-04-22
+airBaltic,SVO,PAR,9h 00m ,1 stop ,484 SAR ,2022-04-22
+Air Serbia,SVO,PAR,9h 55m ,1 stop ,524 SAR ,2022-04-22
+LOT,SVO,PAR,5h 20m ,1 stop ,736 SAR ,2022-04-22
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,709 SAR ",2022-04-22
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,709 SAR ",2022-04-22
+Finnair,SVO,PAR,13h 20m ,1 stop ,437 SAR ,2022-04-22
+Finnair,SVO,PAR,14h 10m ,1 stop ,437 SAR ,2022-04-22
+airBaltic,SVO,PAR,13h 30m ,1 stop ,484 SAR ,2022-04-22
+LOT,SVO,PAR,9h 10m ,1 stop ,656 SAR ,2022-04-22
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,721 SAR ",2022-04-22
+airBaltic,SVO,PAR,13h 55m ,1 stop ,484 SAR ,2022-04-22
+Finnair,SVO,PAR,14h 35m ,1 stop ,559 SAR ,2022-04-22
+KLM,SVO,PAR,6h 05m ,1 stop ,932 SAR ,2022-04-22
+Air Serbia,SVO,PAR,22h 50m ,1 stop ,437 SAR ,2022-04-22
+LOT,SVO,PAR,14h 15m ,1 stop ,654 SAR ,2022-04-22
+KLM,SVO,PAR,9h 00m ,1 stop ,932 SAR ,2022-04-22
+KLM,SVO,PAR,10h 40m ,1 stop ,932 SAR ,2022-04-22
+Bulgaria Air,SVO,PAR,14h 15m ,1 stop ,812 SAR ,2022-04-22
+KLM,SVO,PAR,11h 10m ,1 stop ,932 SAR ,2022-04-22
+KLM,SVO,PAR,13h 05m ,1 stop ,932 SAR ,2022-04-22
+KLM,SVO,PAR,14h 25m ,1 stop ,932 SAR ,2022-04-22
+KLM,SVO,PAR,15h 20m ,1 stop ,932 SAR ,2022-04-22
+KLM,SVO,PAR,15h 55m ,1 stop ,932 SAR ,2022-04-22
+KLM,SVO,PAR,6h 10m ,1 stop ,"1,236 SAR ",2022-04-22
+KLM,SVO,PAR,7h 15m ,1 stop ,"1,236 SAR ",2022-04-22
+Multiple Airlines,SVO,PAR,15h 05m ,2 stops ,634 SAR ,2022-04-22
+"airBaltic, easyJet",SVO,PAR,10h 30m ,2 stops ,702 SAR ,2022-04-22
+"airBaltic, Vueling",SVO,PAR,13h 05m ,2 stops ,771 SAR ,2022-04-22
+"airBaltic, easyJet",SVO,PAR,8h 10m ,2 stops ,813 SAR ,2022-04-22
+"airBaltic, Air France",SVO,PAR,9h 45m ,2 stops ,843 SAR ,2022-04-22
+"airBaltic, Air France",SVO,PAR,11h 30m ,2 stops ,868 SAR ,2022-04-22
+"airBaltic, Air France",SVO,PAR,13h 20m ,2 stops ,868 SAR ,2022-04-22
+"airBaltic, Lufthansa",SVO,PAR,9h 50m ,2 stops ,899 SAR ,2022-04-22
+"airBaltic, easyJet",SVO,PAR,12h 20m ,2 stops ,926 SAR ,2022-04-22
+"airBaltic, easyJet",SVO,PAR,12h 35m ,2 stops ,926 SAR ,2022-04-22
+"airBaltic, Air France",SVO,PAR,12h 00m ,2 stops ,938 SAR ,2022-04-22
+"airBaltic, easyJet",SVO,PAR,8h 00m ,2 stops ,988 SAR ,2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,10h 55m ,2 stops ,"1,037 SAR ",2022-04-22
+"airBaltic, Lufthansa",SVO,PAR,12h 40m ,3 stops ,883 SAR ,2022-04-22
+"airBaltic, easyJet",SVO,PAR,12h 50m ,2 stops ,926 SAR ,2022-04-22
+Korean Air,SVO,PAR,24h 35m ,1 stop ,"3,525 SAR ",2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,9h 30m ,2 stops ,"4,598 SAR ",2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,11h 50m ,2 stops ,"4,598 SAR ",2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,12h 45m ,2 stops ,"4,598 SAR ",2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,13h 10m ,2 stops ,"4,598 SAR ",2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,13h 40m ,2 stops ,"4,598 SAR ",2022-04-22
+"Aeroflot, airBaltic",SVO,PAR,14h 30m ,2 stops ,"4,598 SAR ",2022-04-22
+"Aeroflot, KLM",SVO,PAR,9h 30m ,2 stops ,"4,646 SAR ",2022-04-22
+"Aeroflot, KLM",SVO,PAR,10h 40m ,2 stops ,"4,646 SAR ",2022-04-22
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,905 SAR ",2022-04-22
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,098 SAR ",2022-04-23
+Air France,SVO,PAR,4h 00m ,nonstop ,"1,463 SAR ",2022-04-23
+Air France,SVO,PAR,4h 05m ,nonstop ,"1,463 SAR ",2022-04-23
+Air France,SVO,PAR,4h 10m ,nonstop ,"1,463 SAR ",2022-04-23
+Finnair,SVO,PAR,5h 35m ,1 stop ,559 SAR ,2022-04-23
+LOT,SVO,PAR,5h 20m ,1 stop ,728 SAR ,2022-04-23
+KLM,SVO,PAR,6h 05m ,1 stop ,841 SAR ,2022-04-23
+Brussels Airlines,SVO,PAR,16h 45m ,1 stop ,580 SAR ,2022-04-23
+Qatar Airways,SVO,PAR,14h 15m ,1 stop ,"5,828 SAR ",2022-04-23

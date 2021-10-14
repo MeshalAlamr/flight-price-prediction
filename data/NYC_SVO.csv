@@ -1,0 +1,1906 @@
+Airline,Source,Destination,Duration,Total stops,Price,Date
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,282 SAR ",2022-02-01
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-02-01
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-02-01
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-01
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-01
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,397 SAR ",2022-02-01
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,14h 35m ,1 stop ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,17h 20m ,1 stop ,"1,414 SAR ",2022-02-01
+"Finnair, Aeroflot",NYC,SVO,15h 15m ,1 stop ,"1,796 SAR ",2022-02-01
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-01
+LOT,NYC,SVO,13h 35m ,1 stop ,"2,262 SAR ",2022-02-01
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-02-01
+Delta,NYC,SVO,15h 00m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-01
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,16h 45m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 05m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,18h 54m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,431 SAR ",2022-02-01
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-02-01
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,544 SAR ",2022-02-01
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,544 SAR ",2022-02-01
+"JetBlue, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"1,914 SAR ",2022-02-01
+"JetBlue, Aeroflot",NYC,SVO,17h 35m ,1 stop ,"1,914 SAR ",2022-02-01
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-01
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-02-01
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-02-01
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-02-01
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,376 SAR ",2022-02-01
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,417 SAR ",2022-02-01
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-01
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,563 SAR ",2022-02-01
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,563 SAR ",2022-02-01
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-02-01
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,563 SAR ",2022-02-01
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,563 SAR ",2022-02-01
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,851 SAR ",2022-02-01
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,851 SAR ",2022-02-01
+"KLM, Aeroflot",NYC,SVO,17h 00m ,1 stop ,"2,851 SAR ",2022-02-01
+"Finnair, Aeroflot",NYC,SVO,14h 45m ,1 stop ,"2,898 SAR ",2022-02-01
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,901 SAR ",2022-02-01
+"Lufthansa, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"3,586 SAR ",2022-02-01
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,460 SAR ",2022-02-01
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,544 SAR ",2022-02-01
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,120 SAR ",2022-02-01
+"American Airlines, Finnair",NYC,SVO,18h 43m ,2 stops ,"2,120 SAR ",2022-02-01
+"American Airlines, Finnair",NYC,SVO,19h 41m ,2 stops ,"2,120 SAR ",2022-02-01
+"American Airlines, Finnair",NYC,SVO,19h 45m ,2 stops ,"2,120 SAR ",2022-02-01
+"American Airlines, Finnair",NYC,SVO,20h 41m ,2 stops ,"2,120 SAR ",2022-02-01
+Multiple Airlines,NYC,SVO,18h 20m ,2 stops ,"2,136 SAR ",2022-02-01
+Finnair,NYC,SVO,15h 35m ,2 stops ,"2,529 SAR ",2022-02-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-01
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-01
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-02-01
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-02-01
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-02-01
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-02-01
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-02-01
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-02-01
+"Icelandair, Aeroflot",NYC,SVO,13h 25m ,2 stops ,"3,628 SAR ",2022-02-01
+Multiple Airlines,NYC,SVO,18h 00m ,2 stops ,"11,648 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,20h 35m ,1 stop ,"11,859 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,16h 55m ,1 stop ,"11,867 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"11,867 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,15h 00m ,1 stop ,"11,897 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,15h 40m ,1 stop ,"11,914 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,17h 00m ,1 stop ,"11,934 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,19h 10m ,1 stop ,"11,934 SAR ",2022-02-01
+"United Airlines, Aeroflot",NYC,SVO,19h 20m ,1 stop ,"11,934 SAR ",2022-02-01
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-02-01
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-02-01
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,395 SAR ",2022-02-01
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"18,894 SAR ",2022-02-01
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,543 SAR ",2022-02-01
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-02-02
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-02
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-02
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,397 SAR ",2022-02-02
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,14h 50m ,1 stop ,"1,414 SAR ",2022-02-02
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-02
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-02-02
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,376 SAR ",2022-02-02
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-02
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-02-02
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,669 SAR ",2022-02-02
+"JetBlue, Aeroflot",NYC,SVO,27h 25m ,1 stop ,"1,935 SAR ",2022-02-02
+"JetBlue, Aeroflot",NYC,SVO,28h 35m ,1 stop ,"1,935 SAR ",2022-02-02
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-02
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-02-02
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-02-02
+Air France,NYC,SVO,14h 50m ,1 stop ,"2,376 SAR ",2022-02-02
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-02-02
+"Singapore Airlines, Aeroflot",NYC,SVO,18h 40m ,1 stop ,"2,417 SAR ",2022-02-02
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-02
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,563 SAR ",2022-02-02
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,563 SAR ",2022-02-02
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-02-02
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,563 SAR ",2022-02-02
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,563 SAR ",2022-02-02
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,851 SAR ",2022-02-02
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,851 SAR ",2022-02-02
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,878 SAR ",2022-02-02
+"KLM, Aeroflot",NYC,SVO,11h 30m ,1 stop ,"2,965 SAR ",2022-02-02
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,319 SAR ",2022-02-02
+"Lufthansa, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"3,569 SAR ",2022-02-02
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,934 SAR ",2022-02-02
+"Finnair, Air France",NYC,SVO,16h 55m ,2 stops ,"1,786 SAR ",2022-02-02
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,836 SAR ",2022-02-02
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,836 SAR ",2022-02-02
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,836 SAR ",2022-02-02
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,836 SAR ",2022-02-02
+Delta,NYC,SVO,19h 09m ,2 stops ,"1,836 SAR ",2022-02-02
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-02-02
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-02-02
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-02-02
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-02-02
+Multiple Airlines,NYC,SVO,17h 15m ,2 stops ,"2,263 SAR ",2022-02-02
+KLM,NYC,SVO,17h 00m ,2 stops ,"2,416 SAR ",2022-02-02
+Air France,NYC,SVO,16h 10m ,2 stops ,"2,434 SAR ",2022-02-02
+Finnair,NYC,SVO,15h 35m ,2 stops ,"2,608 SAR ",2022-02-02
+Air France,NYC,SVO,16h 34m ,2 stops ,"2,887 SAR ",2022-02-02
+Air France,NYC,SVO,17h 35m ,2 stops ,"2,887 SAR ",2022-02-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,052 SAR ",2022-02-02
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-02
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-02-02
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-02-02
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-02-02
+Finnair,NYC,SVO,17h 00m ,2 stops ,"3,230 SAR ",2022-02-02
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-02-02
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-02-02
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,110 SAR ",2022-02-02
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,551 SAR ",2022-02-02
+"Singapore Airlines, Aeroflot",NYC,SVO,12h 30m ,1 stop ,"9,492 SAR ",2022-02-02
+"Lufthansa, Aeroflot",NYC,SVO,16h 55m ,1 stop ,"11,585 SAR ",2022-02-02
+"United Airlines, airBaltic",NYC,SVO,17h 10m ,2 stops ,"11,632 SAR ",2022-02-02
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"11,927 SAR ",2022-02-02
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,543 SAR ",2022-02-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"39,636 SAR ",2022-02-02
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,319 SAR ",2022-02-03
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-03
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-03
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-02-03
+Air Serbia,NYC,SVO,13h 50m ,1 stop ,"1,586 SAR ",2022-02-03
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-03
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-02-03
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-03
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,376 SAR ",2022-02-03
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-02-03
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,512 SAR ",2022-02-03
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,512 SAR ",2022-02-03
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,600 SAR ",2022-02-03
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-03
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,19h 09m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,19h 10m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-02-03
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,686 SAR ",2022-02-03
+"Spirit Airlines, Aeroflot",NYC,SVO,18h 05m ,1 stop ,"1,950 SAR ",2022-02-03
+"JetBlue, Aeroflot",NYC,SVO,17h 35m ,1 stop ,"2,000 SAR ",2022-02-03
+"JetBlue, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"2,068 SAR ",2022-02-03
+"Spirit Airlines, Aeroflot",NYC,SVO,18h 15m ,1 stop ,"2,123 SAR ",2022-02-03
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-03
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-02-03
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-02-03
+Air France,NYC,SVO,14h 50m ,1 stop ,"2,376 SAR ",2022-02-03
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-02-03
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,382 SAR ",2022-02-03
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-02-03
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,17h 25m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,18h 25m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,19h 25m ,1 stop ,"2,563 SAR ",2022-02-03
+Air France,NYC,SVO,20h 25m ,1 stop ,"2,563 SAR ",2022-02-03
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,319 SAR ",2022-02-03
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,485 SAR ",2022-02-03
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,485 SAR ",2022-02-03
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,524 SAR ",2022-02-03
+Multiple Airlines,NYC,SVO,18h 20m ,2 stops ,"1,524 SAR ",2022-02-03
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-02-03
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-02-03
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,202 SAR ",2022-02-11
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,319 SAR ",2022-02-11
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-02-11
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-11
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,319 SAR ",2022-02-21
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-21
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-21
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,376 SAR ",2022-02-21
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-02-21
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,304 SAR ",2022-02-22
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,304 SAR ",2022-02-22
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-22
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-22
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,414 SAR ",2022-02-22
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-02-22
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-22
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-02-22
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-22
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-22
+"Air France, Aeroflot",NYC,SVO,14h 20m ,1 stop ,"2,597 SAR ",2022-02-22
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,851 SAR ",2022-02-22
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,512 SAR ",2022-02-22
+Brussels Airlines,NYC,SVO,39h 55m ,2 stops ,"1,499 SAR ",2022-02-22
+"Lufthansa, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"10,734 SAR ",2022-02-22
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,202 SAR ",2022-02-24
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-24
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-24
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-02-24
+Air Serbia,NYC,SVO,13h 50m ,1 stop ,"1,561 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-24
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-02-24
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-24
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,376 SAR ",2022-02-24
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-02-24
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-24
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,849 SAR ",2022-02-24
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,316 SAR ",2022-02-24
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,316 SAR ",2022-02-24
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,482 SAR ",2022-02-24
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,482 SAR ",2022-02-24
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,395 SAR ",2022-02-24
+Delta,NYC,SVO,15h 00m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-24
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,18h 25m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,19h 09m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,19h 10m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-02-24
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,669 SAR ",2022-02-24
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,669 SAR ",2022-02-24
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,669 SAR ",2022-02-24
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,669 SAR ",2022-02-24
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,686 SAR ",2022-02-24
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,686 SAR ",2022-02-24
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,686 SAR ",2022-02-24
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,686 SAR ",2022-02-24
+"Spirit Airlines, Aeroflot",NYC,SVO,17h 40m ,1 stop ,"2,247 SAR ",2022-02-24
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-02-24
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-02-24
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,368 SAR ",2022-02-24
+Air France,NYC,SVO,14h 50m ,1 stop ,"2,373 SAR ",2022-02-24
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,373 SAR ",2022-02-24
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-02-24
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-02-24
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,18h 25m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,19h 25m ,1 stop ,"2,561 SAR ",2022-02-24
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-24
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-02-24
+Air France,NYC,SVO,17h 25m ,1 stop ,"2,563 SAR ",2022-02-24
+Air France,NYC,SVO,20h 25m ,1 stop ,"2,563 SAR ",2022-02-24
+"Emirates, Aeroflot",NYC,SVO,16h 05m ,1 stop ,"2,751 SAR ",2022-02-24
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,849 SAR ",2022-02-24
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,849 SAR ",2022-02-24
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,316 SAR ",2022-02-24
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,932 SAR ",2022-02-24
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,482 SAR ",2022-02-24
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,482 SAR ",2022-02-24
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,460 SAR ",2022-02-24
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,818 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-02-24
+Multiple Airlines,NYC,SVO,18h 35m ,2 stops ,"2,027 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,120 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,18h 43m ,2 stops ,"2,120 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,19h 41m ,2 stops ,"2,120 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,19h 45m ,2 stops ,"2,120 SAR ",2022-02-24
+"American Airlines, Finnair",NYC,SVO,20h 41m ,2 stops ,"2,120 SAR ",2022-02-24
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,329 SAR ",2022-02-24
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,329 SAR ",2022-02-24
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,329 SAR ",2022-02-24
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,334 SAR ",2022-02-24
+Air France,NYC,SVO,18h 10m ,2 stops ,"2,450 SAR ",2022-02-24
+"Austrian Airlines, LOT",NYC,SVO,17h 30m ,2 stops ,"2,681 SAR ",2022-02-24
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,049 SAR ",2022-02-24
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,049 SAR ",2022-02-24
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,049 SAR ",2022-02-24
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,049 SAR ",2022-02-24
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-24
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-02-24
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-02-24
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-02-24
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-02-24
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-02-24
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-02-24
+Finnair,NYC,SVO,17h 30m ,2 stops ,"3,657 SAR ",2022-02-24
+Multiple Airlines,NYC,SVO,20h 05m ,2 stops ,"4,166 SAR ",2022-02-24
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-02-24
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-02-24
+Multiple Airlines,NYC,SVO,15h 30m ,2 stops ,"11,983 SAR ",2022-02-24
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,395 SAR ",2022-02-24
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,534 SAR ",2022-02-24
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,202 SAR ",2022-02-25
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,202 SAR ",2022-02-25
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-25
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-25
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,397 SAR ",2022-02-25
+Delta,NYC,SVO,14h 35m ,1 stop ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,819 SAR ",2022-02-25
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-25
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,576 SAR ",2022-02-25
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-25
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,18h 10m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,431 SAR ",2022-02-25
+Delta,NYC,SVO,18h 54m ,2 stops ,"1,431 SAR ",2022-02-25
+"Lufthansa, Aeroflot",NYC,SVO,19h 10m ,2 stops ,"1,624 SAR ",2022-02-25
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,669 SAR ",2022-02-25
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,669 SAR ",2022-02-25
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,669 SAR ",2022-02-25
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,669 SAR ",2022-02-25
+Delta,NYC,SVO,17h 05m ,2 stops ,"1,686 SAR ",2022-02-25
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,686 SAR ",2022-02-25
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,818 SAR ",2022-02-25
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,818 SAR ",2022-02-25
+"JetBlue, Aeroflot",NYC,SVO,17h 35m ,1 stop ,"2,150 SAR ",2022-02-25
+"Spirit Airlines, Aeroflot",NYC,SVO,17h 40m ,1 stop ,"2,247 SAR ",2022-02-25
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,576 SAR ",2022-02-25
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,576 SAR ",2022-02-25
+Finnair,NYC,SVO,16h 15m ,1 stop ,"2,743 SAR ",2022-02-25
+Air France,NYC,SVO,15h 50m ,1 stop ,"2,769 SAR ",2022-02-25
+Air France,NYC,SVO,18h 10m ,1 stop ,"2,769 SAR ",2022-02-25
+Air France,NYC,SVO,19h 10m ,1 stop ,"2,769 SAR ",2022-02-25
+Air France,NYC,SVO,20h 10m ,1 stop ,"2,769 SAR ",2022-02-25
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,938 SAR ",2022-02-25
+"Air Europa, Aeroflot",NYC,SVO,16h 45m ,1 stop ,"3,051 SAR ",2022-02-25
+"KLM, Aeroflot",NYC,SVO,17h 00m ,1 stop ,"3,057 SAR ",2022-02-25
+"KLM, Aeroflot",NYC,SVO,19h 55m ,1 stop ,"3,057 SAR ",2022-02-25
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,316 SAR ",2022-02-25
+"KLM, Aeroflot",NYC,SVO,18h 10m ,1 stop ,"3,891 SAR ",2022-02-25
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,932 SAR ",2022-02-25
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,482 SAR ",2022-02-25
+"Lufthansa, Aeroflot",NYC,SVO,20h 15m ,2 stops ,"1,624 SAR ",2022-02-25
+"SWISS, Aeroflot",NYC,SVO,19h 50m ,2 stops ,"1,740 SAR ",2022-02-25
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,836 SAR ",2022-02-25
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-02-25
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-02-25
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-02-25
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-02-25
+"Finnair, KLM",NYC,SVO,17h 40m ,2 stops ,"1,953 SAR ",2022-02-25
+"Lufthansa, Aeroflot",NYC,SVO,20h 00m ,3 stops ,"1,962 SAR ",2022-02-25
+"Lufthansa, Aeroflot",NYC,SVO,20h 00m ,3 stops ,"1,962 SAR ",2022-02-25
+"Lufthansa, Aeroflot",NYC,SVO,20h 00m ,3 stops ,"1,962 SAR ",2022-02-25
+"Finnair, Air France",NYC,SVO,16h 55m ,2 stops ,"2,340 SAR ",2022-02-25
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"2,743 SAR ",2022-02-25
+Delta,NYC,SVO,19h 15m ,2 stops ,"2,848 SAR ",2022-02-25
+Finnair,NYC,SVO,19h 10m ,2 stops ,"3,188 SAR ",2022-02-25
+Finnair,NYC,SVO,19h 20m ,2 stops ,"3,188 SAR ",2022-02-25
+Finnair,NYC,SVO,19h 50m ,2 stops ,"3,188 SAR ",2022-02-25
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-25
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-02-25
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-02-25
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-02-25
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-02-25
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-02-25
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-02-25
+Finnair,NYC,SVO,20h 40m ,2 stops ,"3,237 SAR ",2022-02-25
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-25
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-25
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-25
+"Air France, Aeroflot",NYC,SVO,14h 30m ,2 stops ,"3,299 SAR ",2022-02-25
+Delta,NYC,SVO,17h 00m ,2 stops ,"3,766 SAR ",2022-02-25
+Delta,NYC,SVO,18h 15m ,2 stops ,"3,766 SAR ",2022-02-25
+Delta,NYC,SVO,19h 30m ,2 stops ,"3,766 SAR ",2022-02-25
+Air France,NYC,SVO,17h 40m ,2 stops ,"3,845 SAR ",2022-02-25
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,284 SAR ",2022-02-25
+"SWISS, LOT",NYC,SVO,15h 20m ,2 stops ,"11,539 SAR ",2022-02-25
+"SWISS, Aeroflot",NYC,SVO,17h 30m ,2 stops ,"11,566 SAR ",2022-02-25
+"Lufthansa, LOT",NYC,SVO,15h 15m ,2 stops ,"11,608 SAR ",2022-02-25
+"United Airlines, airBaltic",NYC,SVO,18h 50m ,2 stops ,"11,632 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,19h 25m ,2 stops ,"11,632 SAR ",2022-02-25
+"United Airlines, Aeroflot",NYC,SVO,20h 35m ,1 stop ,"11,859 SAR ",2022-02-25
+"United Airlines, Aeroflot",NYC,SVO,20h 50m ,1 stop ,"11,867 SAR ",2022-02-25
+"United Airlines, Aeroflot",NYC,SVO,20h 15m ,2 stops ,"11,962 SAR ",2022-02-25
+"United Airlines, Aeroflot",NYC,SVO,20h 27m ,2 stops ,"11,962 SAR ",2022-02-25
+"United Airlines, Aeroflot",NYC,SVO,20h 46m ,2 stops ,"11,962 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,015 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,015 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,16h 30m ,2 stops ,"12,061 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,17h 30m ,2 stops ,"12,061 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,17h 30m ,2 stops ,"12,061 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"12,069 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,15h 45m ,2 stops ,"12,099 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"12,101 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,136 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"18,896 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,16h 40m ,2 stops ,"20,990 SAR ",2022-02-25
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-02-25
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,534 SAR ",2022-02-25
+Delta,NYC,SVO,19h 15m ,2 stops ,"39,636 SAR ",2022-02-25
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,208 SAR ",2022-02-26
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-26
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-26
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-02-26
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-02-26
+Brussels Airlines,NYC,SVO,12h 55m ,1 stop ,"1,540 SAR ",2022-02-26
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-26
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,576 SAR ",2022-02-26
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-02-26
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,593 SAR ",2022-02-26
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,623 SAR ",2022-02-26
+KLM,NYC,SVO,12h 50m ,1 stop ,"2,913 SAR ",2022-02-26
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,938 SAR ",2022-02-26
+"Air Serbia, Aeroflot",NYC,SVO,14h 05m ,1 stop ,"3,023 SAR ",2022-02-26
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,311 SAR ",2022-02-26
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-26
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-26
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-26
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-26
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-26
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,18h 25m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,19h 09m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,19h 10m ,2 stops ,"1,431 SAR ",2022-02-26
+Delta,NYC,SVO,19h 25m ,2 stops ,"1,431 SAR ",2022-02-26
+"SWISS, Nordwind Airlines",NYC,SVO,19h 50m ,2 stops ,"1,537 SAR ",2022-02-26
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,543 SAR ",2022-02-26
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,543 SAR ",2022-02-26
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,543 SAR ",2022-02-26
+"SWISS, Aeroflot",NYC,SVO,19h 05m ,2 stops ,"1,543 SAR ",2022-02-26
+"Lufthansa, Aeroflot",NYC,SVO,19h 10m ,2 stops ,"1,624 SAR ",2022-02-26
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,818 SAR ",2022-02-26
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,818 SAR ",2022-02-26
+KLM,NYC,SVO,14h 50m ,1 stop ,"2,477 SAR ",2022-02-26
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-02-26
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,576 SAR ",2022-02-26
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,576 SAR ",2022-02-26
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,578 SAR ",2022-02-26
+Air France,NYC,SVO,14h 50m ,1 stop ,"2,588 SAR ",2022-02-26
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,588 SAR ",2022-02-26
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,593 SAR ",2022-02-26
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,593 SAR ",2022-02-26
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,620 SAR ",2022-02-26
+"Emirates, Aeroflot",NYC,SVO,16h 00m ,1 stop ,"2,758 SAR ",2022-02-26
+Air France,NYC,SVO,15h 50m ,1 stop ,"2,769 SAR ",2022-02-26
+Air France,NYC,SVO,18h 10m ,1 stop ,"2,769 SAR ",2022-02-26
+Air France,NYC,SVO,19h 10m ,1 stop ,"2,769 SAR ",2022-02-26
+Air France,NYC,SVO,20h 10m ,1 stop ,"2,769 SAR ",2022-02-26
+KLM,NYC,SVO,12h 50m ,1 stop ,"2,830 SAR ",2022-02-26
+KLM,NYC,SVO,15h 45m ,1 stop ,"2,830 SAR ",2022-02-26
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,938 SAR ",2022-02-26
+"Air Serbia, Aeroflot",NYC,SVO,14h 05m ,1 stop ,"3,023 SAR ",2022-02-26
+"KLM, Aeroflot",NYC,SVO,17h 00m ,1 stop ,"3,057 SAR ",2022-02-26
+"KLM, Aeroflot",NYC,SVO,19h 55m ,1 stop ,"3,057 SAR ",2022-02-26
+"EL AL, Aeroflot",NYC,SVO,19h 25m ,1 stop ,"3,147 SAR ",2022-02-26
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,311 SAR ",2022-02-26
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,439 SAR ",2022-02-26
+"SWISS, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"1,543 SAR ",2022-02-26
+"Lufthansa, Nordwind Airlines",NYC,SVO,19h 55m ,2 stops ,"1,617 SAR ",2022-02-26
+"Lufthansa, Aeroflot",NYC,SVO,20h 15m ,2 stops ,"1,624 SAR ",2022-02-26
+Multiple Airlines,NYC,SVO,18h 35m ,2 stops ,"2,009 SAR ",2022-02-26
+"Lufthansa, Aeroflot",NYC,SVO,20h 55m ,3 stops ,"2,017 SAR ",2022-02-26
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,120 SAR ",2022-02-26
+"American Airlines, Finnair",NYC,SVO,18h 43m ,2 stops ,"2,120 SAR ",2022-02-26
+"American Airlines, Finnair",NYC,SVO,19h 41m ,2 stops ,"2,120 SAR ",2022-02-26
+"American Airlines, Finnair",NYC,SVO,19h 45m ,2 stops ,"2,120 SAR ",2022-02-26
+"American Airlines, Finnair",NYC,SVO,20h 41m ,2 stops ,"2,120 SAR ",2022-02-26
+"French Bee, Air France",NYC,SVO,17h 15m ,1 stop ,"2,388 SAR ",2022-02-26
+"French Bee, Air France",NYC,SVO,15h 45m ,1 stop ,"2,414 SAR ",2022-02-26
+Air France,NYC,SVO,18h 10m ,2 stops ,"2,554 SAR ",2022-02-26
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"2,743 SAR ",2022-02-26
+Delta,NYC,SVO,19h 25m ,2 stops ,"2,866 SAR ",2022-02-26
+Finnair,NYC,SVO,15h 35m ,2 stops ,"2,947 SAR ",2022-02-26
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-26
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-26
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-26
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-26
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-26
+KLM,NYC,SVO,15h 19m ,2 stops ,"3,402 SAR ",2022-02-26
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,718 SAR ",2022-02-26
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,718 SAR ",2022-02-26
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,718 SAR ",2022-02-26
+Finnair,NYC,SVO,16h 50m ,2 stops ,"3,718 SAR ",2022-02-26
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,718 SAR ",2022-02-26
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,718 SAR ",2022-02-26
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-02-26
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-02-26
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,003 SAR ",2022-02-26
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,594 SAR ",2022-02-26
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"18,888 SAR ",2022-02-26
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-02-26
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-02-27
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-02-27
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-27
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-27
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-02-27
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-27
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,554 SAR ",2022-02-27
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-02-27
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,057 SAR ",2022-02-27
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,311 SAR ",2022-02-27
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,311 SAR ",2022-02-27
+"KLM, Aeroflot",NYC,SVO,14h 20m ,1 stop ,"3,886 SAR ",2022-02-27
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,083 SAR ",2022-02-27
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-27
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,16h 45m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,17h 05m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,18h 54m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,431 SAR ",2022-02-27
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-02-27
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,544 SAR ",2022-02-27
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,544 SAR ",2022-02-27
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,686 SAR ",2022-02-27
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,686 SAR ",2022-02-27
+"Singapore Airlines, Aeroflot",NYC,SVO,18h 40m ,1 stop ,"2,531 SAR ",2022-02-27
+"Air France, Aeroflot",NYC,SVO,16h 20m ,1 stop ,"2,537 SAR ",2022-02-27
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-02-27
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,576 SAR ",2022-02-27
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,576 SAR ",2022-02-27
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,588 SAR ",2022-02-27
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,593 SAR ",2022-02-27
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,769 SAR ",2022-02-27
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,057 SAR ",2022-02-27
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"3,057 SAR ",2022-02-27
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,311 SAR ",2022-02-27
+"KLM, Aeroflot",NYC,SVO,14h 20m ,1 stop ,"3,886 SAR ",2022-02-27
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,928 SAR ",2022-02-27
+Multiple Airlines,NYC,SVO,18h 15m ,3 stops ,"1,340 SAR ",2022-02-27
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,418 SAR ",2022-02-27
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,544 SAR ",2022-02-27
+"SWISS, Aeroflot",NYC,SVO,19h 05m ,2 stops ,"1,544 SAR ",2022-02-27
+"SWISS, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"1,544 SAR ",2022-02-27
+"Lufthansa, Aeroflot",NYC,SVO,19h 10m ,2 stops ,"1,624 SAR ",2022-02-27
+Multiple Airlines,NYC,SVO,20h 55m ,3 stops ,"1,655 SAR ",2022-02-27
+"TAP AIR PORTUGAL, KLM",NYC,SVO,19h 55m ,3 stops ,"1,708 SAR ",2022-02-27
+Multiple Airlines,NYC,SVO,18h 35m ,2 stops ,"1,760 SAR ",2022-02-27
+"Finnair, KLM",NYC,SVO,20h 55m ,2 stops ,"1,857 SAR ",2022-02-27
+"Finnair, KLM",NYC,SVO,17h 40m ,2 stops ,"1,890 SAR ",2022-02-27
+"TAP AIR PORTUGAL, Air France",NYC,SVO,19h 10m ,3 stops ,"1,902 SAR ",2022-02-27
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-02-27
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-02-27
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-02-27
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-02-27
+"Finnair, Air France",NYC,SVO,16h 55m ,2 stops ,"2,083 SAR ",2022-02-27
+Air France,NYC,SVO,18h 10m ,2 stops ,"2,296 SAR ",2022-02-27
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-27
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-02-27
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-02-27
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-02-27
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-02-27
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-02-27
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-02-27
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-27
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-27
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-02-27
+Finnair,NYC,SVO,17h 30m ,2 stops ,"3,708 SAR ",2022-02-27
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,083 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,15h 50m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,15h 55m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,16h 50m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,16h 55m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,17h 30m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,18h 50m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,18h 55m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"7,526 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,13h 30m ,1 stop ,"7,545 SAR ",2022-02-27
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,545 SAR ",2022-02-27
+"United Airlines, Aeroflot",NYC,SVO,16h 25m ,1 stop ,"11,859 SAR ",2022-02-27
+"United Airlines, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"11,867 SAR ",2022-02-27
+"United Airlines, Aeroflot",NYC,SVO,15h 00m ,1 stop ,"11,897 SAR ",2022-02-27
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-02-27
+Delta,NYC,SVO,19h 15m ,2 stops ,"39,636 SAR ",2022-02-27
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-02-28
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-02-28
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-02-28
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-02-28
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-02-28
+"Lufthansa, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"2,176 SAR ",2022-02-28
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-02-28
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-02-28
+Air France,NYC,SVO,12h 50m ,1 stop ,"2,376 SAR ",2022-02-28
+"Alaska Airlines, Aeroflot",NYC,SVO,30h 10m ,1 stop ,"2,097 SAR ",2022-02-28
+"Alaska Airlines, Aeroflot",NYC,SVO,38h 20m ,1 stop ,"2,097 SAR ",2022-02-28
+"Alaska Airlines, Aeroflot",NYC,SVO,20h 25m ,1 stop ,"2,281 SAR ",2022-02-28
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,413 SAR ",2022-02-28
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-28
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-02-28
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,19h 09m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,19h 10m ,2 stops ,"1,431 SAR ",2022-02-28
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-02-28
+"Alaska Airlines, Aeroflot",NYC,SVO,30h 10m ,1 stop ,"2,097 SAR ",2022-02-28
+"Alaska Airlines, Aeroflot",NYC,SVO,38h 20m ,1 stop ,"2,097 SAR ",2022-02-28
+"Alaska Airlines, Aeroflot",NYC,SVO,20h 25m ,1 stop ,"2,281 SAR ",2022-02-28
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,331 SAR ",2022-02-28
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-02-28
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-02-28
+Air France,NYC,SVO,14h 50m ,1 stop ,"2,369 SAR ",2022-02-28
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,369 SAR ",2022-02-28
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-02-28
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,413 SAR ",2022-02-28
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,18h 25m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,19h 25m ,1 stop ,"2,558 SAR ",2022-02-28
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-02-28
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-02-28
+Air France,NYC,SVO,17h 25m ,1 stop ,"2,563 SAR ",2022-02-28
+Air France,NYC,SVO,20h 25m ,1 stop ,"2,563 SAR ",2022-02-28
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,849 SAR ",2022-02-28
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,849 SAR ",2022-02-28
+"TAP AIR PORTUGAL, KLM",NYC,SVO,19h 55m ,3 stops ,"1,708 SAR ",2022-02-28
+"TAP AIR PORTUGAL, Aeroflot",NYC,SVO,18h 20m ,2 stops ,"1,851 SAR ",2022-02-28
+"TAP AIR PORTUGAL, Aeroflot",NYC,SVO,18h 20m ,2 stops ,"1,851 SAR ",2022-02-28
+"Finnair, KLM",NYC,SVO,20h 55m ,2 stops ,"1,920 SAR ",2022-02-28
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-02-28
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-02-28
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-02-28
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-02-28
+Air France,NYC,SVO,18h 10m ,2 stops ,"2,081 SAR ",2022-02-28
+"French Bee, Aeroflot",NYC,SVO,15h 00m ,1 stop ,"2,354 SAR ",2022-02-28
+"French Bee, Air France",NYC,SVO,17h 15m ,1 stop ,"2,474 SAR ",2022-02-28
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-02-28
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-02-28
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-02-28
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"3,160 SAR ",2022-02-28
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-02-28
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-02-28
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-02-28
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-02-28
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-02-28
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-02-28
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-02-28
+"United Airlines, airBaltic",NYC,SVO,16h 35m ,2 stops ,"11,632 SAR ",2022-02-28
+"United Airlines, airBaltic",NYC,SVO,17h 10m ,2 stops ,"11,632 SAR ",2022-02-28
+Brussels Airlines,NYC,SVO,59h 30m ,2 stops ,"11,729 SAR ",2022-02-28
+"United Airlines, Aeroflot",NYC,SVO,16h 25m ,1 stop ,"11,859 SAR ",2022-02-28
+"United Airlines, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"11,867 SAR ",2022-02-28
+"United Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"11,884 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"11,927 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,15h 45m ,2 stops ,"11,953 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,15h 30m ,2 stops ,"11,983 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,003 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,003 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"12,048 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,15h 10m ,2 stops ,"12,055 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,16h 15m ,2 stops ,"12,069 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,15h 20m ,2 stops ,"12,086 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"12,161 SAR ",2022-02-28
+"British Airways, Qatar Airways",NYC,SVO,24h 35m ,2 stops ,"12,395 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"21,092 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"21,092 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,16h 40m ,2 stops ,"21,100 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-02-28
+Multiple Airlines,NYC,SVO,15h 30m ,2 stops ,"21,147 SAR ",2022-02-28
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-02-28
+"Lufthansa, Aeroflot",NYC,SVO,24h 00m ,1 stop ,"22,530 SAR ",2022-02-28
+"Emirates, Aeroflot",NYC,SVO,26h 35m ,1 stop ,"22,767 SAR ",2022-02-28
+Delta,NYC,SVO,19h 30m ,2 stops ,"40,198 SAR ",2022-02-28
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,282 SAR ",2022-03-01
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-03-01
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-03-01
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-01
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-03-01
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,397 SAR ",2022-03-01
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,14h 35m ,1 stop ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,17h 20m ,1 stop ,"1,414 SAR ",2022-03-01
+"Finnair, Aeroflot",NYC,SVO,15h 15m ,1 stop ,"1,735 SAR ",2022-03-01
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,819 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-01
+LOT,NYC,SVO,13h 35m ,1 stop ,"2,262 SAR ",2022-03-01
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-03-01
+Delta,NYC,SVO,15h 00m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-01
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,16h 45m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,18h 54m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,431 SAR ",2022-03-01
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-03-01
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,544 SAR ",2022-03-01
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,544 SAR ",2022-03-01
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,544 SAR ",2022-03-01
+Delta,NYC,SVO,17h 05m ,2 stops ,"1,686 SAR ",2022-03-01
+"JetBlue, Aeroflot",NYC,SVO,16h 30m ,1 stop ,"1,985 SAR ",2022-03-01
+"JetBlue, Aeroflot",NYC,SVO,17h 35m ,1 stop ,"2,068 SAR ",2022-03-01
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,325 SAR ",2022-03-01
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-01
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-03-01
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-03-01
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,369 SAR ",2022-03-01
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-03-01
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,558 SAR ",2022-03-01
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,558 SAR ",2022-03-01
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,558 SAR ",2022-03-01
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-01
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-03-01
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,801 SAR ",2022-03-01
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,849 SAR ",2022-03-01
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,849 SAR ",2022-03-01
+"KLM, Aeroflot",NYC,SVO,17h 00m ,1 stop ,"2,849 SAR ",2022-03-01
+"KLM, Aeroflot",NYC,SVO,19h 55m ,1 stop ,"2,849 SAR ",2022-03-01
+Air France,NYC,SVO,16h 05m ,1 stop ,"3,113 SAR ",2022-03-01
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,453 SAR ",2022-03-01
+Multiple Airlines,NYC,SVO,20h 55m ,3 stops ,"1,655 SAR ",2022-03-01
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,686 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-03-01
+Multiple Airlines,NYC,SVO,18h 20m ,2 stops ,"2,094 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,120 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,18h 43m ,2 stops ,"2,120 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,19h 41m ,2 stops ,"2,120 SAR ",2022-03-01
+"American Airlines, Finnair",NYC,SVO,19h 45m ,2 stops ,"2,120 SAR ",2022-03-01
+Finnair,NYC,SVO,15h 35m ,2 stops ,"2,441 SAR ",2022-03-01
+"SWISS, KLM",NYC,SVO,19h 50m ,3 stops ,"2,470 SAR ",2022-03-01
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"2,646 SAR ",2022-03-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-03-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-03-01
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-03-01
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-03-01
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-03-01
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-03-01
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-03-01
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-03-01
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-03-01
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-03-01
+"United Airlines, Aeroflot",NYC,SVO,20h 35m ,1 stop ,"11,859 SAR ",2022-03-01
+"United Airlines, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"11,867 SAR ",2022-03-01
+"United Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"11,884 SAR ",2022-03-01
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,395 SAR ",2022-03-01
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"18,888 SAR ",2022-03-01
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-03-01
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,203 SAR ",2022-03-02
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-02
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,652 SAR ",2022-03-02
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,819 SAR ",2022-03-02
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-02
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-03-02
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-02
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-02
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,849 SAR ",2022-03-02
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,871 SAR ",2022-03-02
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,311 SAR ",2022-03-02
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,083 SAR ",2022-03-02
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,545 SAR ",2022-03-02
+"Singapore Airlines, Aeroflot",NYC,SVO,12h 30m ,1 stop ,"9,492 SAR ",2022-03-02
+"Lufthansa, Brussels Airlines",NYC,SVO,12h 55m ,1 stop ,"11,339 SAR ",2022-03-02
+"United Airlines, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"11,867 SAR ",2022-03-02
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,18h 15m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-02
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,18h 25m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,19h 09m ,2 stops ,"1,431 SAR ",2022-03-02
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,686 SAR ",2022-03-02
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,686 SAR ",2022-03-02
+"Singapore Airlines, Aeroflot",NYC,SVO,18h 40m ,1 stop ,"2,325 SAR ",2022-03-02
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-03-02
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-03-02
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,369 SAR ",2022-03-02
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-03-02
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,558 SAR ",2022-03-02
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,558 SAR ",2022-03-02
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,558 SAR ",2022-03-02
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,558 SAR ",2022-03-02
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-02
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-03-02
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,783 SAR ",2022-03-02
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,849 SAR ",2022-03-02
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,849 SAR ",2022-03-02
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,928 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,20h 55m ,3 stops ,"1,723 SAR ",2022-03-02
+"Vueling, KLM",NYC,SVO,20h 40m ,3 stops ,"1,807 SAR ",2022-03-02
+"Vueling, KLM",NYC,SVO,20h 40m ,3 stops ,"1,848 SAR ",2022-03-02
+"Finnair, KLM",NYC,SVO,17h 40m ,2 stops ,"1,857 SAR ",2022-03-02
+"Finnair, KLM",NYC,SVO,20h 55m ,2 stops ,"1,857 SAR ",2022-03-02
+"Vueling, KLM",NYC,SVO,20h 40m ,2 stops ,"1,909 SAR ",2022-03-02
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-03-02
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-03-02
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-03-02
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-03-02
+"Finnair, Air France",NYC,SVO,16h 55m ,2 stops ,"2,046 SAR ",2022-03-02
+"Finnair, Air France",NYC,SVO,20h 10m ,2 stops ,"2,046 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 15m ,2 stops ,"2,184 SAR ",2022-03-02
+"Finnair, KLM",NYC,SVO,18h 40m ,2 stops ,"2,403 SAR ",2022-03-02
+Finnair,NYC,SVO,15h 35m ,2 stops ,"2,442 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 55m ,2 stops ,"2,558 SAR ",2022-03-02
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"2,646 SAR ",2022-03-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-03-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-03-02
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,050 SAR ",2022-03-02
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-03-02
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-03-02
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-03-02
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-03-02
+Finnair,NYC,SVO,17h 00m ,2 stops ,"3,230 SAR ",2022-03-02
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-03-02
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-03-02
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,083 SAR ",2022-03-02
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,545 SAR ",2022-03-02
+"Singapore Airlines, Aeroflot",NYC,SVO,12h 30m ,1 stop ,"9,492 SAR ",2022-03-02
+"Lufthansa, Brussels Airlines",NYC,SVO,12h 55m ,1 stop ,"11,339 SAR ",2022-03-02
+"United Airlines, airBaltic",NYC,SVO,16h 35m ,2 stops ,"11,632 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 10m ,2 stops ,"11,632 SAR ",2022-03-02
+"United Airlines, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"11,867 SAR ",2022-03-02
+"United Airlines, Aeroflot",NYC,SVO,15h 55m ,1 stop ,"11,914 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"11,927 SAR ",2022-03-02
+"United Airlines, Aeroflot",NYC,SVO,19h 10m ,1 stop ,"11,934 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,15h 30m ,2 stops ,"11,983 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,20h 10m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,20h 10m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,20h 10m ,2 stops ,"12,015 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"12,048 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,16h 25m ,2 stops ,"15,963 SAR ",2022-03-02
+"United Airlines, Air France",NYC,SVO,19h 10m ,2 stops ,"16,964 SAR ",2022-03-02
+"United Airlines, Air France",NYC,SVO,19h 10m ,2 stops ,"16,964 SAR ",2022-03-02
+"United Airlines, Air France",NYC,SVO,20h 10m ,2 stops ,"16,964 SAR ",2022-03-02
+"United Airlines, Air France",NYC,SVO,20h 10m ,2 stops ,"16,964 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"21,092 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"21,092 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-02
+Multiple Airlines,NYC,SVO,15h 30m ,2 stops ,"21,147 SAR ",2022-03-02
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-03-02
+Delta,NYC,SVO,19h 30m ,2 stops ,"39,636 SAR ",2022-03-02
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,282 SAR ",2022-03-03
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,201 SAR ",2022-03-03
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-03
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-03-03
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,397 SAR ",2022-03-03
+Delta,NYC,SVO,14h 50m ,1 stop ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,17h 20m ,1 stop ,"1,414 SAR ",2022-03-03
+Air Serbia,NYC,SVO,13h 50m ,1 stop ,"1,560 SAR ",2022-03-03
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,669 SAR ",2022-03-03
+"Finnair, Aeroflot",NYC,SVO,15h 15m ,1 stop ,"1,676 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-03
+LOT,NYC,SVO,13h 30m ,1 stop ,"2,262 SAR ",2022-03-03
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-03-03
+Delta,NYC,SVO,15h 00m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-03
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,18h 25m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,19h 10m ,2 stops ,"1,431 SAR ",2022-03-03
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,669 SAR ",2022-03-03
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,669 SAR ",2022-03-03
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,686 SAR ",2022-03-03
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,773 SAR ",2022-03-03
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,773 SAR ",2022-03-03
+Delta,NYC,SVO,18h 40m ,2 stops ,"1,818 SAR ",2022-03-03
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,836 SAR ",2022-03-03
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,836 SAR ",2022-03-03
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,325 SAR ",2022-03-03
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-03
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-03-03
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-03-03
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-03-03
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,413 SAR ",2022-03-03
+"Spirit Airlines, Aeroflot",NYC,SVO,17h 40m ,1 stop ,"2,471 SAR ",2022-03-03
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,557 SAR ",2022-03-03
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,557 SAR ",2022-03-03
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,557 SAR ",2022-03-03
+Air France,NYC,SVO,18h 25m ,1 stop ,"2,557 SAR ",2022-03-03
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,557 SAR ",2022-03-03
+Air France,NYC,SVO,19h 25m ,1 stop ,"2,557 SAR ",2022-03-03
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-03
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-03-03
+Air France,NYC,SVO,17h 25m ,1 stop ,"2,563 SAR ",2022-03-03
+Air France,NYC,SVO,20h 25m ,1 stop ,"2,563 SAR ",2022-03-03
+"Emirates, Aeroflot",NYC,SVO,16h 05m ,1 stop ,"2,714 SAR ",2022-03-03
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,848 SAR ",2022-03-03
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,848 SAR ",2022-03-03
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,310 SAR ",2022-03-03
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,926 SAR ",2022-03-03
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,476 SAR ",2022-03-03
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,476 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"1,514 SAR ",2022-03-03
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,773 SAR ",2022-03-03
+"SWISS, Aeroflot",NYC,SVO,19h 05m ,2 stops ,"1,773 SAR ",2022-03-03
+"SWISS, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"1,773 SAR ",2022-03-03
+"SWISS, Nordwind Airlines",NYC,SVO,19h 50m ,2 stops ,"1,801 SAR ",2022-03-03
+Delta,NYC,SVO,18h 45m ,2 stops ,"1,836 SAR ",2022-03-03
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,836 SAR ",2022-03-03
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,836 SAR ",2022-03-03
+"Lufthansa, Aeroflot",NYC,SVO,20h 00m ,3 stops ,"1,881 SAR ",2022-03-03
+"Lufthansa, Aeroflot",NYC,SVO,20h 00m ,3 stops ,"1,881 SAR ",2022-03-03
+"Lufthansa, Aeroflot",NYC,SVO,20h 00m ,3 stops ,"1,881 SAR ",2022-03-03
+"Lufthansa, Nordwind Airlines",NYC,SVO,20h 45m ,3 stops ,"1,909 SAR ",2022-03-03
+"Lufthansa, Nordwind Airlines",NYC,SVO,20h 45m ,3 stops ,"1,909 SAR ",2022-03-03
+"Lufthansa, Nordwind Airlines",NYC,SVO,20h 45m ,3 stops ,"1,909 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,19h 35m ,2 stops ,"2,057 SAR ",2022-03-03
+"Lufthansa, Aeroflot",NYC,SVO,18h 45m ,2 stops ,"2,073 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,120 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,18h 43m ,2 stops ,"2,120 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,19h 41m ,2 stops ,"2,120 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,19h 45m ,2 stops ,"2,120 SAR ",2022-03-03
+"American Airlines, Finnair",NYC,SVO,20h 41m ,2 stops ,"2,120 SAR ",2022-03-03
+Delta,NYC,SVO,17h 50m ,2 stops ,"2,424 SAR ",2022-03-03
+Delta,NYC,SVO,19h 00m ,2 stops ,"2,424 SAR ",2022-03-03
+Delta,NYC,SVO,19h 09m ,2 stops ,"2,424 SAR ",2022-03-03
+Air France,NYC,SVO,19h 10m ,2 stops ,"2,505 SAR ",2022-03-03
+Delta,NYC,SVO,18h 05m ,2 stops ,"2,705 SAR ",2022-03-03
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"2,786 SAR ",2022-03-03
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,048 SAR ",2022-03-03
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,048 SAR ",2022-03-03
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,048 SAR ",2022-03-03
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-03-03
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-03-03
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-03-03
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-03-03
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-03-03
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-03-03
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-03-03
+"LOT, Aeroflot",NYC,SVO,13h 30m ,1 stop ,"7,659 SAR ",2022-03-03
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,659 SAR ",2022-03-03
+"Lufthansa, Brussels Airlines",NYC,SVO,12h 55m ,1 stop ,"11,338 SAR ",2022-03-03
+"United Airlines, Aeroflot",NYC,SVO,16h 55m ,1 stop ,"11,867 SAR ",2022-03-03
+"United Airlines, Aeroflot",NYC,SVO,18h 00m ,1 stop ,"11,897 SAR ",2022-03-03
+"United Airlines, Aeroflot",NYC,SVO,20h 35m ,1 stop ,"11,903 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,15h 30m ,2 stops ,"11,983 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,003 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,003 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,16h 35m ,2 stops ,"12,015 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,16h 35m ,2 stops ,"12,015 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,16h 25m ,2 stops ,"12,048 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,19h 40m ,2 stops ,"12,048 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,15h 10m ,2 stops ,"12,055 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,17h 45m ,2 stops ,"12,069 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,15h 20m ,2 stops ,"12,086 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,105 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,105 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,16h 35m ,2 stops ,"12,136 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,18h 45m ,2 stops ,"12,182 SAR ",2022-03-03
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,395 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-03
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-03
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-03-03
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,282 SAR ",2022-03-04
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,201 SAR ",2022-03-04
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,201 SAR ",2022-03-04
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-04
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,397 SAR ",2022-03-04
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-03-04
+Delta,NYC,SVO,14h 35m ,1 stop ,"1,669 SAR ",2022-03-04
+Delta,NYC,SVO,17h 20m ,1 stop ,"1,669 SAR ",2022-03-04
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,802 SAR ",2022-03-04
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,819 SAR ",2022-03-04
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-04
+LOT,NYC,SVO,13h 35m ,1 stop ,"2,262 SAR ",2022-03-04
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,469 SAR ",2022-03-04
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,414 SAR ",2022-03-04
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-04
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-04
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,414 SAR ",2022-03-04
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,431 SAR ",2022-03-04
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,543 SAR ",2022-03-04
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,543 SAR ",2022-03-04
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,543 SAR ",2022-03-04
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,686 SAR ",2022-03-04
+Delta,NYC,SVO,18h 10m ,2 stops ,"1,686 SAR ",2022-03-04
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,818 SAR ",2022-03-04
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,836 SAR ",2022-03-04
+"JetBlue, Aeroflot",NYC,SVO,17h 35m ,1 stop ,"2,150 SAR ",2022-03-04
+"Alaska Airlines, Aeroflot",NYC,SVO,31h 05m ,1 stop ,"2,229 SAR ",2022-03-04
+"JetBlue, Aeroflot",NYC,SVO,16h 30m ,1 stop ,"2,334 SAR ",2022-03-04
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,576 SAR ",2022-03-04
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,576 SAR ",2022-03-04
+"Spirit Airlines, Aeroflot",NYC,SVO,17h 40m ,1 stop ,"2,591 SAR ",2022-03-04
+Air France,NYC,SVO,12h 35m ,1 stop ,"2,593 SAR ",2022-03-04
+Air France,NYC,SVO,14h 35m ,1 stop ,"2,593 SAR ",2022-03-04
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,593 SAR ",2022-03-04
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,593 SAR ",2022-03-04
+Air France,NYC,SVO,13h 35m ,1 stop ,"2,619 SAR ",2022-03-04
+Finnair,NYC,SVO,16h 15m ,1 stop ,"2,743 SAR ",2022-03-04
+Air France,NYC,SVO,18h 10m ,1 stop ,"2,769 SAR ",2022-03-04
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,893 SAR ",2022-03-04
+"KLM, Aeroflot",NYC,SVO,17h 00m ,1 stop ,"3,056 SAR ",2022-03-04
+"KLM, Aeroflot",NYC,SVO,19h 55m ,1 stop ,"3,056 SAR ",2022-03-04
+Air France,NYC,SVO,15h 50m ,1 stop ,"3,112 SAR ",2022-03-04
+Air France,NYC,SVO,19h 10m ,1 stop ,"3,112 SAR ",2022-03-04
+Air France,NYC,SVO,20h 10m ,1 stop ,"3,750 SAR ",2022-03-04
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,476 SAR ",2022-03-04
+"SWISS, Aeroflot",NYC,SVO,19h 05m ,2 stops ,"1,543 SAR ",2022-03-04
+"SWISS, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"1,543 SAR ",2022-03-04
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,818 SAR ",2022-03-04
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,836 SAR ",2022-03-04
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-03-04
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-03-04
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-03-04
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-03-04
+"Iberia, Air Serbia",NYC,SVO,20h 20m ,3 stops ,"2,556 SAR ",2022-03-04
+Delta,NYC,SVO,17h 05m ,2 stops ,"2,585 SAR ",2022-03-04
+Delta,NYC,SVO,17h 20m ,2 stops ,"2,585 SAR ",2022-03-04
+Delta,NYC,SVO,17h 35m ,2 stops ,"2,585 SAR ",2022-03-04
+Delta,NYC,SVO,18h 35m ,2 stops ,"2,585 SAR ",2022-03-04
+Delta,NYC,SVO,19h 05m ,2 stops ,"2,585 SAR ",2022-03-04
+"Turkish Airlines, Aeroflot",NYC,SVO,20h 05m ,2 stops ,"2,876 SAR ",2022-03-04
+"Finnair, KLM",NYC,SVO,17h 40m ,2 stops ,"2,907 SAR ",2022-03-04
+"Finnair, Air France",NYC,SVO,16h 55m ,2 stops ,"3,096 SAR ",2022-03-04
+Finnair,NYC,SVO,19h 10m ,2 stops ,"3,188 SAR ",2022-03-04
+Finnair,NYC,SVO,19h 20m ,2 stops ,"3,188 SAR ",2022-03-04
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-03-04
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-03-04
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-03-04
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-03-04
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-03-04
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-03-04
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-03-04
+Finnair,NYC,SVO,19h 50m ,2 stops ,"3,237 SAR ",2022-03-04
+Finnair,NYC,SVO,20h 40m ,2 stops ,"3,237 SAR ",2022-03-04
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,255 SAR ",2022-03-04
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,255 SAR ",2022-03-04
+Delta,NYC,SVO,17h 50m ,2 stops ,"3,502 SAR ",2022-03-04
+Delta,NYC,SVO,18h 54m ,2 stops ,"3,502 SAR ",2022-03-04
+Delta,NYC,SVO,18h 01m ,2 stops ,"3,766 SAR ",2022-03-04
+Delta,NYC,SVO,17h 20m ,2 stops ,"4,871 SAR ",2022-03-04
+Delta,NYC,SVO,18h 40m ,2 stops ,"4,871 SAR ",2022-03-04
+Delta,NYC,SVO,18h 40m ,2 stops ,"4,871 SAR ",2022-03-04
+Delta,NYC,SVO,19h 15m ,2 stops ,"4,871 SAR ",2022-03-04
+Delta,NYC,SVO,17h 00m ,2 stops ,"5,695 SAR ",2022-03-04
+Delta,NYC,SVO,18h 15m ,2 stops ,"5,695 SAR ",2022-03-04
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,278 SAR ",2022-03-04
+"SWISS, LOT",NYC,SVO,15h 20m ,2 stops ,"11,548 SAR ",2022-03-04
+"SWISS, Aeroflot",NYC,SVO,17h 30m ,2 stops ,"11,575 SAR ",2022-03-04
+"Lufthansa, LOT",NYC,SVO,15h 15m ,2 stops ,"11,603 SAR ",2022-03-04
+"United Airlines, airBaltic",NYC,SVO,18h 50m ,2 stops ,"11,632 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,19h 25m ,2 stops ,"11,632 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,20h 35m ,1 stop ,"11,859 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,16h 55m ,1 stop ,"11,867 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,17h 30m ,1 stop ,"11,867 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,20h 50m ,1 stop ,"11,867 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,15h 10m ,1 stop ,"11,914 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,19h 10m ,1 stop ,"11,934 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,18h 10m ,1 stop ,"11,962 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,19h 10m ,1 stop ,"11,962 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,20h 15m ,2 stops ,"11,962 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,20h 27m ,2 stops ,"11,962 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,20h 46m ,2 stops ,"11,962 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,015 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,015 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"12,015 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 30m ,2 stops ,"12,061 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 30m ,2 stops ,"12,061 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 30m ,2 stops ,"12,061 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,18h 20m ,2 stops ,"12,061 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"12,069 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 15m ,2 stops ,"12,069 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 20m ,2 stops ,"12,069 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,069 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,069 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 50m ,2 stops ,"12,069 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 50m ,2 stops ,"12,078 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,17h 50m ,2 stops ,"12,078 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 55m ,2 stops ,"12,136 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,20h 25m ,1 stop ,"12,390 SAR ",2022-03-04
+"United Airlines, Aeroflot",NYC,SVO,16h 00m ,1 stop ,"12,400 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"18,888 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 40m ,2 stops ,"20,990 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,16h 40m ,2 stops ,"21,100 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-04
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-04
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,530 SAR ",2022-03-04
+Delta,NYC,SVO,19h 15m ,2 stops ,"40,265 SAR ",2022-03-04
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,282 SAR ",2022-03-05
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,190 SAR ",2022-03-05
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,652 SAR ",2022-03-05
+Delta,NYC,SVO,14h 25m ,1 stop ,"1,652 SAR ",2022-03-05
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,802 SAR ",2022-03-05
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,819 SAR ",2022-03-05
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,819 SAR ",2022-03-05
+Delta,NYC,SVO,14h 50m ,1 stop ,"1,819 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-05
+LOT,NYC,SVO,13h 30m ,1 stop ,"2,262 SAR ",2022-03-05
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,576 SAR ",2022-03-05
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-05
+Delta,NYC,SVO,19h 10m ,2 stops ,"1,431 SAR ",2022-03-05
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,669 SAR ",2022-03-05
+Delta,NYC,SVO,16h 10m ,2 stops ,"1,686 SAR ",2022-03-05
+Delta,NYC,SVO,16h 15m ,2 stops ,"1,686 SAR ",2022-03-05
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,686 SAR ",2022-03-05
+Delta,NYC,SVO,18h 25m ,2 stops ,"1,686 SAR ",2022-03-05
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,818 SAR ",2022-03-05
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,836 SAR ",2022-03-05
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,531 SAR ",2022-03-05
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-03-05
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,576 SAR ",2022-03-05
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,576 SAR ",2022-03-05
+Air France,NYC,SVO,17h 20m ,1 stop ,"2,584 SAR ",2022-03-05
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,584 SAR ",2022-03-05
+"Finnair, Aeroflot",NYC,SVO,15h 15m ,1 stop ,"2,681 SAR ",2022-03-05
+"Emirates, Aeroflot",NYC,SVO,16h 00m ,1 stop ,"2,707 SAR ",2022-03-05
+Air France,NYC,SVO,15h 50m ,1 stop ,"2,767 SAR ",2022-03-05
+Air France,NYC,SVO,19h 10m ,1 stop ,"2,767 SAR ",2022-03-05
+Air France,NYC,SVO,18h 10m ,1 stop ,"2,769 SAR ",2022-03-05
+"Finnair, Aeroflot",NYC,SVO,12h 15m ,1 stop ,"2,834 SAR ",2022-03-05
+KLM,NYC,SVO,17h 00m ,1 stop ,"2,844 SAR ",2022-03-05
+"Air Serbia, Aeroflot",NYC,SVO,14h 05m ,1 stop ,"2,881 SAR ",2022-03-05
+KLM,NYC,SVO,19h 55m ,1 stop ,"2,912 SAR ",2022-03-05
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,935 SAR ",2022-03-05
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,056 SAR ",2022-03-05
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"3,056 SAR ",2022-03-05
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,307 SAR ",2022-03-05
+Air France,NYC,SVO,20h 10m ,1 stop ,"3,750 SAR ",2022-03-05
+KLM,NYC,SVO,19h 00m ,1 stop ,"3,827 SAR ",2022-03-05
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,818 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,120 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,18h 43m ,2 stops ,"2,120 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,19h 41m ,2 stops ,"2,120 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,19h 45m ,2 stops ,"2,120 SAR ",2022-03-05
+"American Airlines, Finnair",NYC,SVO,20h 41m ,2 stops ,"2,120 SAR ",2022-03-05
+Delta,NYC,SVO,17h 50m ,2 stops ,"2,585 SAR ",2022-03-05
+Delta,NYC,SVO,18h 05m ,2 stops ,"2,585 SAR ",2022-03-05
+"Finnair, Nordwind Airlines",NYC,SVO,17h 40m ,3 stops ,"2,624 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,19h 55m ,3 stops ,"2,666 SAR ",2022-03-05
+"French Bee, Air France",NYC,SVO,15h 45m ,1 stop ,"2,671 SAR ",2022-03-05
+"Finnair, Aeroflot",NYC,SVO,18h 00m ,3 stops ,"2,689 SAR ",2022-03-05
+Finnair,NYC,SVO,15h 35m ,2 stops ,"2,707 SAR ",2022-03-05
+Delta,NYC,SVO,17h 35m ,2 stops ,"2,866 SAR ",2022-03-05
+Delta,NYC,SVO,18h 50m ,2 stops ,"2,866 SAR ",2022-03-05
+Delta,NYC,SVO,19h 00m ,2 stops ,"2,866 SAR ",2022-03-05
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-03-05
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-03-05
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-03-05
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,256 SAR ",2022-03-05
+Delta,NYC,SVO,18h 55m ,2 stops ,"3,783 SAR ",2022-03-05
+Delta,NYC,SVO,19h 09m ,2 stops ,"3,783 SAR ",2022-03-05
+Delta,NYC,SVO,19h 25m ,2 stops ,"3,783 SAR ",2022-03-05
+KLM,NYC,SVO,16h 30m ,2 stops ,"4,171 SAR ",2022-03-05
+Finnair,NYC,SVO,15h 15m ,2 stops ,"4,451 SAR ",2022-03-05
+Finnair,NYC,SVO,15h 25m ,2 stops ,"4,451 SAR ",2022-03-05
+Finnair,NYC,SVO,15h 55m ,2 stops ,"4,451 SAR ",2022-03-05
+Finnair,NYC,SVO,16h 50m ,2 stops ,"4,451 SAR ",2022-03-05
+Finnair,NYC,SVO,17h 15m ,2 stops ,"4,451 SAR ",2022-03-05
+Finnair,NYC,SVO,17h 40m ,2 stops ,"4,451 SAR ",2022-03-05
+Delta,NYC,SVO,18h 01m ,2 stops ,"4,871 SAR ",2022-03-05
+Delta,NYC,SVO,18h 40m ,2 stops ,"4,871 SAR ",2022-03-05
+Delta,NYC,SVO,17h 00m ,2 stops ,"5,695 SAR ",2022-03-05
+Delta,NYC,SVO,19h 25m ,2 stops ,"6,461 SAR ",2022-03-05
+"United Airlines, Aeroflot",NYC,SVO,16h 25m ,1 stop ,"11,859 SAR ",2022-03-05
+"United Airlines, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"11,867 SAR ",2022-03-05
+"United Airlines, Aeroflot",NYC,SVO,20h 10m ,1 stop ,"11,884 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,16h 25m ,2 stops ,"11,948 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,16h 25m ,2 stops ,"11,948 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"12,003 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"12,069 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,16h 25m ,2 stops ,"12,069 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,17h 10m ,2 stops ,"12,086 SAR ",2022-03-05
+"British Airways, Qatar Airways",NYC,SVO,29h 55m ,2 stops ,"12,594 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,20h 10m ,2 stops ,"21,069 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"21,092 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"21,092 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,20h 10m ,2 stops ,"21,092 SAR ",2022-03-05
+Multiple Airlines,NYC,SVO,14h 40m ,2 stops ,"21,111 SAR ",2022-03-05
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,191 SAR ",2022-03-06
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,191 SAR ",2022-03-06
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-06
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,414 SAR ",2022-03-06
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,414 SAR ",2022-03-06
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,652 SAR ",2022-03-06
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-06
+"Lufthansa, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"2,145 SAR ",2022-03-06
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,576 SAR ",2022-03-06
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-03-06
+Air France,NYC,SVO,12h 35m ,1 stop ,"2,593 SAR ",2022-03-06
+Air France,NYC,SVO,13h 35m ,1 stop ,"2,618 SAR ",2022-03-06
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+LOT,NYC,SVO,13h 35m ,1 stop ,"2,966 SAR ",2022-03-06
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,059 SAR ",2022-03-06
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,304 SAR ",2022-03-06
+"KLM, Aeroflot",NYC,SVO,14h 20m ,1 stop ,"3,888 SAR ",2022-03-06
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,099 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,13h 30m ,1 stop ,"7,788 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,788 SAR ",2022-03-06
+Delta,NYC,SVO,19h 00m ,2 stops ,"1,414 SAR ",2022-03-06
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,414 SAR ",2022-03-06
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,431 SAR ",2022-03-06
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,431 SAR ",2022-03-06
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,431 SAR ",2022-03-06
+Delta,NYC,SVO,19h 20m ,2 stops ,"1,431 SAR ",2022-03-06
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,669 SAR ",2022-03-06
+Delta,NYC,SVO,17h 00m ,2 stops ,"1,669 SAR ",2022-03-06
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,669 SAR ",2022-03-06
+Delta,NYC,SVO,18h 01m ,2 stops ,"1,669 SAR ",2022-03-06
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,836 SAR ",2022-03-06
+"Vueling, Aeroflot",NYC,SVO,14h 50m ,1 stop ,"1,987 SAR ",2022-03-06
+"Lufthansa, Finnair",NYC,SVO,15h 20m ,2 stops ,"2,048 SAR ",2022-03-06
+"JetBlue, Aeroflot",NYC,SVO,17h 35m ,1 stop ,"2,068 SAR ",2022-03-06
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-03-06
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,576 SAR ",2022-03-06
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,576 SAR ",2022-03-06
+Air France,NYC,SVO,14h 35m ,1 stop ,"2,586 SAR ",2022-03-06
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,586 SAR ",2022-03-06
+Air France,NYC,SVO,12h 35m ,1 stop ,"2,593 SAR ",2022-03-06
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,593 SAR ",2022-03-06
+Air France,NYC,SVO,13h 35m ,1 stop ,"2,618 SAR ",2022-03-06
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,769 SAR ",2022-03-06
+LOT,NYC,SVO,13h 35m ,1 stop ,"2,966 SAR ",2022-03-06
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,059 SAR ",2022-03-06
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"3,059 SAR ",2022-03-06
+"KLM, Aeroflot",NYC,SVO,14h 20m ,1 stop ,"3,888 SAR ",2022-03-06
+"Egypt Air, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,915 SAR ",2022-03-06
+Delta,NYC,SVO,19h 15m ,2 stops ,"1,669 SAR ",2022-03-06
+Delta,NYC,SVO,19h 30m ,2 stops ,"1,669 SAR ",2022-03-06
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,686 SAR ",2022-03-06
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,818 SAR ",2022-03-06
+Delta,NYC,SVO,17h 05m ,2 stops ,"1,836 SAR ",2022-03-06
+Delta,NYC,SVO,17h 20m ,2 stops ,"1,836 SAR ",2022-03-06
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,836 SAR ",2022-03-06
+Delta,NYC,SVO,17h 50m ,2 stops ,"1,836 SAR ",2022-03-06
+Delta,NYC,SVO,18h 54m ,2 stops ,"1,836 SAR ",2022-03-06
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,836 SAR ",2022-03-06
+"American Airlines, Finnair",NYC,SVO,18h 24m ,2 stops ,"1,952 SAR ",2022-03-06
+"American Airlines, Finnair",NYC,SVO,18h 40m ,2 stops ,"1,952 SAR ",2022-03-06
+"American Airlines, Finnair",NYC,SVO,19h 40m ,2 stops ,"1,952 SAR ",2022-03-06
+"American Airlines, Finnair",NYC,SVO,20h 17m ,2 stops ,"1,952 SAR ",2022-03-06
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,122 SAR ",2022-03-06
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,122 SAR ",2022-03-06
+"Virgin Atlantic, KLM",NYC,SVO,19h 55m ,2 stops ,"2,128 SAR ",2022-03-06
+Multiple Airlines,NYC,SVO,18h 35m ,2 stops ,"2,155 SAR ",2022-03-06
+"Air France, KLM",NYC,SVO,18h 55m ,2 stops ,"2,220 SAR ",2022-03-06
+Air France,NYC,SVO,18h 10m ,2 stops ,"2,419 SAR ",2022-03-06
+"Lufthansa, LOT",NYC,SVO,16h 50m ,2 stops ,"2,526 SAR ",2022-03-06
+Delta,NYC,SVO,16h 45m ,2 stops ,"2,585 SAR ",2022-03-06
+Delta,NYC,SVO,17h 50m ,2 stops ,"2,585 SAR ",2022-03-06
+Delta,NYC,SVO,18h 10m ,2 stops ,"2,585 SAR ",2022-03-06
+"Finnair, KLM",NYC,SVO,17h 40m ,2 stops ,"2,751 SAR ",2022-03-06
+Delta,NYC,SVO,18h 40m ,2 stops ,"2,848 SAR ",2022-03-06
+Delta,NYC,SVO,17h 50m ,2 stops ,"2,866 SAR ",2022-03-06
+Delta,NYC,SVO,18h 35m ,2 stops ,"2,866 SAR ",2022-03-06
+Delta,NYC,SVO,18h 54m ,2 stops ,"2,866 SAR ",2022-03-06
+Finnair,NYC,SVO,18h 55m ,2 stops ,"3,218 SAR ",2022-03-06
+Finnair,NYC,SVO,15h 15m ,2 stops ,"3,230 SAR ",2022-03-06
+Finnair,NYC,SVO,15h 25m ,2 stops ,"3,230 SAR ",2022-03-06
+Finnair,NYC,SVO,15h 55m ,2 stops ,"3,230 SAR ",2022-03-06
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-03-06
+Finnair,NYC,SVO,17h 15m ,2 stops ,"3,230 SAR ",2022-03-06
+Finnair,NYC,SVO,17h 40m ,2 stops ,"3,230 SAR ",2022-03-06
+KLM,NYC,SVO,15h 30m ,2 stops ,"3,258 SAR ",2022-03-06
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,258 SAR ",2022-03-06
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,258 SAR ",2022-03-06
+KLM,NYC,SVO,18h 05m ,2 stops ,"3,258 SAR ",2022-03-06
+Delta,NYC,SVO,17h 20m ,2 stops ,"3,783 SAR ",2022-03-06
+Delta,NYC,SVO,17h 35m ,2 stops ,"3,783 SAR ",2022-03-06
+Delta,NYC,SVO,18h 35m ,2 stops ,"3,783 SAR ",2022-03-06
+"Finnair, Air France",NYC,SVO,16h 55m ,2 stops ,"4,114 SAR ",2022-03-06
+Qatar Airways,NYC,SVO,18h 45m ,1 stop ,"7,099 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,15h 50m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,15h 55m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,16h 50m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,16h 55m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,17h 30m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,18h 50m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,18h 55m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"7,539 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,13h 30m ,1 stop ,"7,788 SAR ",2022-03-06
+"LOT, Aeroflot",NYC,SVO,13h 35m ,1 stop ,"7,788 SAR ",2022-03-06
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"11,927 SAR ",2022-03-06
+Multiple Airlines,NYC,SVO,16h 05m ,2 stops ,"11,936 SAR ",2022-03-06
+Multiple Airlines,NYC,SVO,15h 40m ,2 stops ,"11,948 SAR ",2022-03-06
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,544 SAR ",2022-03-06
+Delta,NYC,SVO,19h 15m ,2 stops ,"39,722 SAR ",2022-03-06
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,197 SAR ",2022-03-07
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-07
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,414 SAR ",2022-03-07
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-03-07
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,669 SAR ",2022-03-07
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-07
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-03-07
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-07
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-07
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,851 SAR ",2022-03-07
+LOT,NYC,SVO,13h 35m ,1 stop ,"2,966 SAR ",2022-03-07
+"British Airways, Qatar Airways",NYC,SVO,24h 35m ,2 stops ,"12,395 SAR ",2022-03-07
+"Lufthansa, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"22,544 SAR ",2022-03-07
+"Lufthansa, Aeroflot",NYC,SVO,24h 00m ,1 stop ,"22,544 SAR ",2022-03-07
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,193 SAR ",2022-03-13
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,193 SAR ",2022-03-13
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-13
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-03-13
+Delta,NYC,SVO,12h 35m ,1 stop ,"1,669 SAR ",2022-03-13
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,669 SAR ",2022-03-13
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,576 SAR ",2022-03-13
+Delta,NYC,SVO,14h 05m ,2 stops ,"1,686 SAR ",2022-03-13
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,576 SAR ",2022-03-13
+Air France,NYC,SVO,12h 35m ,1 stop ,"2,593 SAR ",2022-03-13
+Air France,NYC,SVO,13h 35m ,1 stop ,"2,605 SAR ",2022-03-13
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,059 SAR ",2022-03-13
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,291 SAR ",2022-03-13
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,291 SAR ",2022-03-13
+Air France,NYC,SVO,14h 05m ,1 stop ,"3,603 SAR ",2022-03-13
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,319 SAR ",2022-03-17
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-17
+Delta,NYC,SVO,13h 30m ,1 stop ,"1,397 SAR ",2022-03-17
+Delta,NYC,SVO,13h 50m ,1 stop ,"1,414 SAR ",2022-03-17
+Air Serbia,NYC,SVO,13h 50m ,1 stop ,"1,586 SAR ",2022-03-17
+Delta,NYC,SVO,12h 50m ,1 stop ,"1,669 SAR ",2022-03-17
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-17
+KLM,NYC,SVO,11h 30m ,1 stop ,"2,358 SAR ",2022-03-17
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-17
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-17
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"3,353 SAR ",2022-03-17
+LOT,NYC,SVO,13h 30m ,1 stop ,"3,512 SAR ",2022-03-17
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,512 SAR ",2022-03-17
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,600 SAR ",2022-03-17
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,600 SAR ",2022-03-17
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,16h 30m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,16h 50m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,17h 01m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,18h 00m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,18h 55m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,19h 01m ,2 stops ,"1,414 SAR ",2022-03-17
+Delta,NYC,SVO,17h 10m ,2 stops ,"1,431 SAR ",2022-03-17
+Delta,NYC,SVO,18h 00m ,2 stops ,"1,431 SAR ",2022-03-17
+Delta,NYC,SVO,18h 35m ,2 stops ,"1,431 SAR ",2022-03-17
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,431 SAR ",2022-03-17
+Delta,NYC,SVO,19h 25m ,2 stops ,"1,431 SAR ",2022-03-17
+"SWISS, Aeroflot",NYC,SVO,16h 35m ,2 stops ,"1,463 SAR ",2022-03-17
+"SWISS, Aeroflot",NYC,SVO,17h 35m ,2 stops ,"1,463 SAR ",2022-03-17
+"SWISS, Aeroflot",NYC,SVO,18h 10m ,2 stops ,"1,463 SAR ",2022-03-17
+Delta,NYC,SVO,16h 01m ,2 stops ,"1,669 SAR ",2022-03-17
+Delta,NYC,SVO,16h 45m ,2 stops ,"1,669 SAR ",2022-03-17
+Delta,NYC,SVO,18h 00m ,2 stops ,"1,669 SAR ",2022-03-17
+Delta,NYC,SVO,18h 20m ,2 stops ,"1,669 SAR ",2022-03-17
+Delta,NYC,SVO,17h 15m ,2 stops ,"1,686 SAR ",2022-03-17
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,686 SAR ",2022-03-17
+Delta,NYC,SVO,16h 00m ,2 stops ,"1,818 SAR ",2022-03-17
+Delta,NYC,SVO,17h 15m ,2 stops ,"1,836 SAR ",2022-03-17
+"Lufthansa, Finnair",NYC,SVO,15h 20m ,2 stops ,"2,014 SAR ",2022-03-17
+Air France,NYC,SVO,20h 40m ,1 stop ,"2,355 SAR ",2022-03-17
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-17
+KLM,NYC,SVO,14h 25m ,1 stop ,"2,358 SAR ",2022-03-17
+KLM,NYC,SVO,16h 30m ,1 stop ,"2,358 SAR ",2022-03-17
+KLM,NYC,SVO,20h 25m ,1 stop ,"2,358 SAR ",2022-03-17
+"Singapore Airlines, Aeroflot",NYC,SVO,15h 05m ,1 stop ,"2,368 SAR ",2022-03-17
+Air France,NYC,SVO,19h 40m ,1 stop ,"2,376 SAR ",2022-03-17
+Air France,NYC,SVO,15h 05m ,1 stop ,"2,544 SAR ",2022-03-17
+Air France,NYC,SVO,16h 05m ,1 stop ,"2,544 SAR ",2022-03-17
+Air France,NYC,SVO,18h 05m ,1 stop ,"2,544 SAR ",2022-03-17
+Air France,NYC,SVO,18h 25m ,1 stop ,"2,544 SAR ",2022-03-17
+Air France,NYC,SVO,19h 05m ,1 stop ,"2,544 SAR ",2022-03-17
+Air France,NYC,SVO,19h 25m ,1 stop ,"2,544 SAR ",2022-03-17
+Air France,NYC,SVO,14h 05m ,1 stop ,"2,563 SAR ",2022-03-17
+Air France,NYC,SVO,17h 05m ,1 stop ,"2,563 SAR ",2022-03-17
+Air France,NYC,SVO,17h 25m ,1 stop ,"2,563 SAR ",2022-03-17
+Air France,NYC,SVO,20h 25m ,1 stop ,"2,563 SAR ",2022-03-17
+"Finnair, Aeroflot",NYC,SVO,15h 15m ,1 stop ,"2,780 SAR ",2022-03-17
+"KLM, Aeroflot",NYC,SVO,12h 50m ,1 stop ,"2,851 SAR ",2022-03-17
+"KLM, Aeroflot",NYC,SVO,15h 45m ,1 stop ,"2,851 SAR ",2022-03-17
+"Emirates, Aeroflot",NYC,SVO,17h 05m ,1 stop ,"2,888 SAR ",2022-03-17
+LOT,NYC,SVO,13h 35m ,1 stop ,"3,291 SAR ",2022-03-17
+"Spirit Airlines, Aeroflot",NYC,SVO,19h 15m ,1 stop ,"3,350 SAR ",2022-03-17
+LOT,NYC,SVO,14h 05m ,1 stop ,"4,452 SAR ",2022-03-17
+LOT,NYC,SVO,14h 10m ,1 stop ,"4,452 SAR ",2022-03-17
+"SWISS, Aeroflot",NYC,SVO,19h 05m ,2 stops ,"1,463 SAR ",2022-03-17
+"SWISS, Aeroflot",NYC,SVO,20h 10m ,2 stops ,"1,463 SAR ",2022-03-17
+"Lufthansa, Aeroflot",NYC,SVO,19h 10m ,2 stops ,"1,543 SAR ",2022-03-17
+"Lufthansa, Aeroflot",NYC,SVO,20h 15m ,2 stops ,"1,543 SAR ",2022-03-17
+Delta,NYC,SVO,19h 01m ,2 stops ,"1,669 SAR ",2022-03-17
+Delta,NYC,SVO,18h 50m ,2 stops ,"1,686 SAR ",2022-03-17
+Delta,NYC,SVO,19h 05m ,2 stops ,"1,686 SAR ",2022-03-17
+Multiple Airlines,NYC,SVO,20h 30m ,3 stops ,"1,810 SAR ",2022-03-17
+Delta,NYC,SVO,18h 00m ,2 stops ,"1,818 SAR ",2022-03-17
+Aeroflot,NYC,SVO,9h 00m ,nonstop ,"1,198 SAR ",2022-03-23
+Delta,NYC,SVO,11h 30m ,1 stop ,"1,397 SAR ",2022-03-23
+"American Airlines, Finnair",NYC,SVO,12h 20m ,1 stop ,"1,935 SAR ",2022-03-23
+KLM,NYC,SVO,13h 30m ,1 stop ,"2,358 SAR ",2022-03-23
+Air France,NYC,SVO,13h 50m ,1 stop ,"2,417 SAR ",2022-03-23
+"Icelandair, Finnair",NYC,SVO,16h 40m ,2 stops ,"9,779 SAR ",2022-03-23
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,224 SAR ",2022-04-02
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,662 SAR ",2022-04-02
+Air Serbia,NYC,SVO,18h 10m ,1 stop ,"1,586 SAR ",2022-04-02
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-02
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,224 SAR ",2022-04-12
+"United Airlines, Brussels Airlines",NYC,SVO,13h 20m ,1 stop ,"1,264 SAR ",2022-04-12
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,652 SAR ",2022-04-12
+Delta,NYC,SVO,12h 45m ,1 stop ,"1,669 SAR ",2022-04-12
+Delta,NYC,SVO,13h 15m ,1 stop ,"1,669 SAR ",2022-04-12
+Delta,NYC,SVO,13h 45m ,1 stop ,"1,669 SAR ",2022-04-12
+Delta,NYC,SVO,14h 15m ,1 stop ,"1,819 SAR ",2022-04-12
+Air France,NYC,SVO,12h 25m ,1 stop ,"2,376 SAR ",2022-04-12
+Finnair,NYC,SVO,10h 45m ,1 stop ,"2,503 SAR ",2022-04-12
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-12
+LOT,NYC,SVO,12h 30m ,1 stop ,"2,793 SAR ",2022-04-12
+LOT,NYC,SVO,13h 55m ,1 stop ,"3,512 SAR ",2022-04-12
+Qatar Airways,NYC,SVO,23h 50m ,1 stop ,"7,471 SAR ",2022-04-12
+"United Airlines, Air France",NYC,SVO,12h 35m ,1 stop ,"20,850 SAR ",2022-04-12
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,224 SAR ",2022-04-17
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,652 SAR ",2022-04-17
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"7,968 SAR ",2022-04-17
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,230 SAR ",2022-04-20
+"United Airlines, Brussels Airlines",NYC,SVO,13h 20m ,1 stop ,"1,264 SAR ",2022-04-20
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,652 SAR ",2022-04-20
+Delta,NYC,SVO,12h 45m ,1 stop ,"1,669 SAR ",2022-04-20
+Delta,NYC,SVO,13h 15m ,1 stop ,"1,669 SAR ",2022-04-20
+Delta,NYC,SVO,13h 45m ,1 stop ,"1,819 SAR ",2022-04-20
+Delta,NYC,SVO,14h 15m ,1 stop ,"1,819 SAR ",2022-04-20
+Finnair,NYC,SVO,10h 45m ,1 stop ,"2,152 SAR ",2022-04-20
+Air France,NYC,SVO,12h 25m ,1 stop ,"2,354 SAR ",2022-04-20
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-20
+LOT,NYC,SVO,13h 15m ,1 stop ,"3,379 SAR ",2022-04-20
+"Icelandair, Finnair",NYC,SVO,15h 50m ,2 stops ,"4,228 SAR ",2022-04-20
+Qatar Airways,NYC,SVO,19h 10m ,1 stop ,"7,088 SAR ",2022-04-20
+"Lufthansa, Air France",NYC,SVO,12h 35m ,1 stop ,"20,633 SAR ",2022-04-20
+"United Airlines, Air France",NYC,SVO,12h 35m ,1 stop ,"20,850 SAR ",2022-04-20
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,525 SAR ",2022-04-21
+"United Airlines, Brussels Airlines",NYC,SVO,13h 20m ,1 stop ,"1,564 SAR ",2022-04-21
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,951 SAR ",2022-04-21
+Delta,NYC,SVO,13h 15m ,1 stop ,"1,969 SAR ",2022-04-21
+Finnair,NYC,SVO,10h 45m ,1 stop ,"2,113 SAR ",2022-04-21
+Delta,NYC,SVO,12h 45m ,1 stop ,"2,137 SAR ",2022-04-21
+Delta,NYC,SVO,13h 45m ,1 stop ,"2,137 SAR ",2022-04-21
+Delta,NYC,SVO,14h 15m ,1 stop ,"2,137 SAR ",2022-04-21
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-21
+LOT,NYC,SVO,13h 55m ,1 stop ,"2,554 SAR ",2022-04-21
+Air France,NYC,SVO,12h 25m ,1 stop ,"2,909 SAR ",2022-04-21
+"British Airways, Qatar Airways",NYC,SVO,31h 10m ,2 stops ,"12,395 SAR ",2022-04-21
+"Lufthansa, Air France",NYC,SVO,12h 35m ,1 stop ,"20,633 SAR ",2022-04-21
+"United Airlines, Air France",NYC,SVO,12h 35m ,1 stop ,"20,850 SAR ",2022-04-21
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,525 SAR ",2022-04-22
+"United Airlines, Brussels Airlines",NYC,SVO,13h 20m ,1 stop ,"1,564 SAR ",2022-04-22
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,951 SAR ",2022-04-22
+Delta,NYC,SVO,12h 45m ,1 stop ,"1,969 SAR ",2022-04-22
+Delta,NYC,SVO,13h 15m ,1 stop ,"1,969 SAR ",2022-04-22
+Delta,NYC,SVO,13h 45m ,1 stop ,"2,137 SAR ",2022-04-22
+Delta,NYC,SVO,14h 15m ,1 stop ,"2,137 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-22
+Finnair,NYC,SVO,10h 45m ,1 stop ,"2,785 SAR ",2022-04-22
+Air France,NYC,SVO,12h 25m ,1 stop ,"2,909 SAR ",2022-04-22
+LOT,NYC,SVO,13h 15m ,1 stop ,"3,606 SAR ",2022-04-22
+"Icelandair, Finnair",NYC,SVO,15h 50m ,2 stops ,"4,340 SAR ",2022-04-22
+Qatar Airways,NYC,SVO,19h 10m ,1 stop ,"7,284 SAR ",2022-04-22
+"Lufthansa, Air France",NYC,SVO,12h 35m ,1 stop ,"20,633 SAR ",2022-04-22
+"United Airlines, Air France",NYC,SVO,12h 35m ,1 stop ,"20,850 SAR ",2022-04-22
+LOT,NYC,SVO,13h 15m ,1 stop ,"2,262 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-22
+Finnair,NYC,SVO,10h 45m ,1 stop ,"2,785 SAR ",2022-04-22
+Delta,NYC,SVO,18h 15m ,1 stop ,"2,137 SAR ",2022-04-22
+Delta,NYC,SVO,18h 35m ,1 stop ,"2,137 SAR ",2022-04-22
+LOT,NYC,SVO,17h 00m ,1 stop ,"2,485 SAR ",2022-04-22
+LOT,NYC,SVO,14h 45m ,1 stop ,"2,607 SAR ",2022-04-22
+Air France,NYC,SVO,12h 25m ,1 stop ,"2,909 SAR ",2022-04-22
+KLM,NYC,SVO,14h 35m ,1 stop ,"2,914 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,17h 15m ,1 stop ,"2,736 SAR ",2022-04-22
+Finnair,NYC,SVO,17h 15m ,1 stop ,"2,785 SAR ",2022-04-22
+Brussels Airlines,NYC,SVO,15h 50m ,2 stops ,"1,652 SAR ",2022-04-22
+Delta,NYC,SVO,15h 05m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,15h 35m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,17h 05m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,17h 40m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,15h 15m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,15h 45m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,15h 46m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,16h 05m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,16h 45m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,17h 15m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,17h 15m ,2 stops ,"1,985 SAR ",2022-04-22
+"United Airlines, Brussels Airlines",NYC,SVO,15h 50m ,2 stops ,"2,150 SAR ",2022-04-22
+Delta,NYC,SVO,17h 55m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,17h 55m ,2 stops ,"1,968 SAR ",2022-04-22
+Delta,NYC,SVO,18h 00m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,18h 20m ,2 stops ,"1,985 SAR ",2022-04-22
+Delta,NYC,SVO,18h 45m ,2 stops ,"1,985 SAR ",2022-04-22
+"Lufthansa, Aeroflot",NYC,SVO,15h 15m ,2 stops ,"2,045 SAR ",2022-04-22
+"Lufthansa, Aeroflot",NYC,SVO,16h 25m ,2 stops ,"2,045 SAR ",2022-04-22
+"Lufthansa, Aeroflot",NYC,SVO,17h 10m ,2 stops ,"2,045 SAR ",2022-04-22
+Delta,NYC,SVO,17h 05m ,2 stops ,"2,137 SAR ",2022-04-22
+Delta,NYC,SVO,18h 06m ,2 stops ,"2,137 SAR ",2022-04-22
+Delta,NYC,SVO,17h 15m ,2 stops ,"2,697 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,15h 15m ,2 stops ,"2,753 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,15h 21m ,2 stops ,"2,753 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,15h 39m ,2 stops ,"2,753 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,16h 15m ,2 stops ,"2,753 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,17h 15m ,2 stops ,"2,753 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,753 SAR ",2022-04-22
+Delta,NYC,SVO,18h 06m ,2 stops ,"2,961 SAR ",2022-04-22
+Delta,NYC,SVO,16h 16m ,2 stops ,"2,978 SAR ",2022-04-22
+Finnair,NYC,SVO,16h 10m ,2 stops ,"3,230 SAR ",2022-04-22
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-04-22
+Finnair,NYC,SVO,16h 55m ,2 stops ,"3,230 SAR ",2022-04-22
+KLM,NYC,SVO,14h 05m ,2 stops ,"3,348 SAR ",2022-04-22
+KLM,NYC,SVO,15h 05m ,2 stops ,"3,348 SAR ",2022-04-22
+"Lufthansa, Aeroflot",NYC,SVO,17h 55m ,3 stops ,"2,197 SAR ",2022-04-22
+"Lufthansa, Aeroflot",NYC,SVO,17h 55m ,3 stops ,"2,197 SAR ",2022-04-22
+Finnair,NYC,SVO,17h 45m ,2 stops ,"3,218 SAR ",2022-04-22
+Finnair,NYC,SVO,17h 45m ,2 stops ,"3,218 SAR ",2022-04-22
+Finnair,NYC,SVO,17h 20m ,2 stops ,"3,230 SAR ",2022-04-22
+Finnair,NYC,SVO,17h 50m ,2 stops ,"3,230 SAR ",2022-04-22
+Finnair,NYC,SVO,18h 10m ,2 stops ,"3,230 SAR ",2022-04-22
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-22
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-22
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-22
+KLM,NYC,SVO,14h 35m ,2 stops ,"3,810 SAR ",2022-04-22
+"Icelandair, Finnair",NYC,SVO,15h 50m ,2 stops ,"4,340 SAR ",2022-04-22
+Delta,NYC,SVO,16h 10m ,2 stops ,"4,749 SAR ",2022-04-22
+Delta,NYC,SVO,16h 30m ,2 stops ,"4,749 SAR ",2022-04-22
+Qatar Airways,NYC,SVO,19h 10m ,1 stop ,"7,284 SAR ",2022-04-22
+"American Airlines, Finnair",NYC,SVO,16h 45m ,2 stops ,"10,259 SAR ",2022-04-22
+"United Airlines, airBaltic",NYC,SVO,18h 20m ,2 stops ,"11,648 SAR ",2022-04-22
+"United Airlines, LOT",NYC,SVO,18h 10m ,2 stops ,"11,813 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,17h 05m ,2 stops ,"11,841 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,18h 40m ,2 stops ,"11,841 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,18h 15m ,2 stops ,"12,280 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,16h 20m ,2 stops ,"12,297 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,17h 20m ,2 stops ,"12,297 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,18h 20m ,2 stops ,"12,297 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,17h 45m ,2 stops ,"12,305 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,17h 45m ,2 stops ,"12,305 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,16h 40m ,2 stops ,"12,355 SAR ",2022-04-22
+"United Airlines, Finnair",NYC,SVO,18h 15m ,2 stops ,"12,355 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,18h 15m ,2 stops ,"12,355 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,15h 15m ,2 stops ,"14,772 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,15h 20m ,2 stops ,"14,772 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"14,772 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,16h 15m ,2 stops ,"16,671 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"16,671 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,18h 40m ,2 stops ,"16,671 SAR ",2022-04-22
+"United Airlines, Air France",NYC,SVO,15h 45m ,2 stops ,"16,964 SAR ",2022-04-22
+"United Airlines, Air France",NYC,SVO,16h 45m ,2 stops ,"16,964 SAR ",2022-04-22
+"Lufthansa, Air France",NYC,SVO,12h 35m ,1 stop ,"20,633 SAR ",2022-04-22
+"United Airlines, Air France",NYC,SVO,12h 35m ,1 stop ,"20,850 SAR ",2022-04-22
+"United Airlines, Air France",NYC,SVO,16h 05m ,1 stop ,"20,850 SAR ",2022-04-22
+Multiple Airlines,NYC,SVO,14h 25m ,2 stops ,"21,111 SAR ",2022-04-22
+"Lufthansa, KLM",NYC,SVO,15h 00m ,1 stop ,"29,672 SAR ",2022-04-22
+"Lufthansa, KLM",NYC,SVO,14h 25m ,2 stops ,"29,909 SAR ",2022-04-22
+"Lufthansa, KLM",NYC,SVO,14h 05m ,2 stops ,"29,922 SAR ",2022-04-22
+Brussels Airlines,NYC,SVO,15h 50m ,2 stops ,"1,795 SAR ",2022-04-23
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,519 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,23h 40m ,3 stops ,"1,479 SAR ",2022-04-23
+Air Serbia,NYC,SVO,18h 10m ,1 stop ,"1,843 SAR ",2022-04-23
+Delta,NYC,SVO,13h 35m ,1 stop ,"1,951 SAR ",2022-04-23
+Delta,NYC,SVO,14h 35m ,1 stop ,"1,951 SAR ",2022-04-23
+Delta,NYC,SVO,15h 35m ,1 stop ,"1,951 SAR ",2022-04-23
+Delta,NYC,SVO,16h 35m ,1 stop ,"1,951 SAR ",2022-04-23
+Delta,NYC,SVO,12h 45m ,1 stop ,"1,969 SAR ",2022-04-23
+Delta,NYC,SVO,13h 15m ,1 stop ,"1,969 SAR ",2022-04-23
+Delta,NYC,SVO,16h 15m ,1 stop ,"1,969 SAR ",2022-04-23
+Finnair,NYC,SVO,10h 45m ,1 stop ,"2,112 SAR ",2022-04-23
+Delta,NYC,SVO,13h 45m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,14h 15m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,14h 45m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,15h 15m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,17h 15m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,17h 15m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,18h 15m ,1 stop ,"2,137 SAR ",2022-04-23
+Delta,NYC,SVO,18h 35m ,1 stop ,"2,137 SAR ",2022-04-23
+LOT,NYC,SVO,14h 45m ,1 stop ,"2,262 SAR ",2022-04-23
+"United Airlines, Brussels Airlines",NYC,SVO,13h 20m ,1 stop ,"2,285 SAR ",2022-04-23
+LOT,NYC,SVO,11h 20m ,1 stop ,"2,485 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,17h 15m ,1 stop ,"2,736 SAR ",2022-04-23
+Finnair,NYC,SVO,17h 15m ,1 stop ,"2,785 SAR ",2022-04-23
+KLM,NYC,SVO,14h 35m ,1 stop ,"2,914 SAR ",2022-04-23
+KLM,NYC,SVO,15h 35m ,1 stop ,"2,914 SAR ",2022-04-23
+LOT,NYC,SVO,17h 20m ,1 stop ,"3,606 SAR ",2022-04-23
+Brussels Airlines,NYC,SVO,15h 50m ,2 stops ,"1,649 SAR ",2022-04-23
+Brussels Airlines,NYC,SVO,15h 50m ,2 stops ,"1,652 SAR ",2022-04-23
+Delta,NYC,SVO,15h 35m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,15h 55m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,17h 40m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,17h 55m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,17h 55m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,18h 05m ,2 stops ,"1,968 SAR ",2022-04-23
+Delta,NYC,SVO,16h 05m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,16h 16m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,16h 45m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,16h 46m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,17h 15m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,17h 35m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,17h 45m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,17h 45m ,2 stops ,"1,985 SAR ",2022-04-23
+Delta,NYC,SVO,18h 06m ,2 stops ,"2,137 SAR ",2022-04-23
+"French Bee, Air France",NYC,SVO,18h 10m ,1 stop ,"2,742 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,15h 15m ,2 stops ,"2,753 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,15h 21m ,2 stops ,"2,753 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,15h 39m ,2 stops ,"2,753 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,16h 15m ,2 stops ,"2,753 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,17h 15m ,2 stops ,"2,753 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,18h 41m ,2 stops ,"2,753 SAR ",2022-04-23
+Finnair,NYC,SVO,17h 45m ,2 stops ,"3,218 SAR ",2022-04-23
+Finnair,NYC,SVO,17h 45m ,2 stops ,"3,218 SAR ",2022-04-23
+Finnair,NYC,SVO,16h 10m ,2 stops ,"3,230 SAR ",2022-04-23
+Finnair,NYC,SVO,16h 45m ,2 stops ,"3,230 SAR ",2022-04-23
+Finnair,NYC,SVO,16h 55m ,2 stops ,"3,230 SAR ",2022-04-23
+Finnair,NYC,SVO,17h 20m ,2 stops ,"3,230 SAR ",2022-04-23
+Finnair,NYC,SVO,17h 50m ,2 stops ,"3,230 SAR ",2022-04-23
+Finnair,NYC,SVO,18h 10m ,2 stops ,"3,230 SAR ",2022-04-23
+KLM,NYC,SVO,14h 35m ,2 stops ,"3,332 SAR ",2022-04-23
+KLM,NYC,SVO,14h 05m ,2 stops ,"3,345 SAR ",2022-04-23
+KLM,NYC,SVO,15h 05m ,2 stops ,"3,345 SAR ",2022-04-23
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-23
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-23
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-23
+KLM,NYC,SVO,18h 40m ,2 stops ,"3,597 SAR ",2022-04-23
+Delta,NYC,SVO,16h 10m ,2 stops ,"3,671 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 45m ,2 stops ,"1,681 SAR ",2022-04-23
+"Icelandair, Finnair",NYC,SVO,15h 50m ,2 stops ,"4,340 SAR ",2022-04-23
+Delta,NYC,SVO,15h 46m ,2 stops ,"4,749 SAR ",2022-04-23
+"American Airlines, Finnair",NYC,SVO,16h 45m ,2 stops ,"10,259 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 05m ,2 stops ,"11,841 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,18h 40m ,2 stops ,"11,841 SAR ",2022-04-23
+"United Airlines, Finnair",NYC,SVO,18h 15m ,2 stops ,"12,280 SAR ",2022-04-23
+"United Airlines, Finnair",NYC,SVO,16h 20m ,2 stops ,"12,297 SAR ",2022-04-23
+"United Airlines, Finnair",NYC,SVO,17h 20m ,2 stops ,"12,297 SAR ",2022-04-23
+"United Airlines, Finnair",NYC,SVO,18h 20m ,2 stops ,"12,297 SAR ",2022-04-23
+"British Airways, Qatar Airways",NYC,SVO,31h 10m ,2 stops ,"12,594 SAR ",2022-04-23
+"Air France, airBaltic",NYC,SVO,18h 10m ,2 stops ,"14,064 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,15h 15m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,15h 20m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,16h 00m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,16h 20m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 20m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 30m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 40m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 55m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,18h 15m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,18h 20m ,2 stops ,"14,772 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,16h 15m ,2 stops ,"16,671 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,17h 00m ,2 stops ,"16,671 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,18h 40m ,2 stops ,"16,671 SAR ",2022-04-23
+"United Airlines, Air France",NYC,SVO,15h 45m ,2 stops ,"16,964 SAR ",2022-04-23
+"United Airlines, Air France",NYC,SVO,16h 45m ,2 stops ,"16,964 SAR ",2022-04-23
+"Lufthansa, Air France",NYC,SVO,12h 35m ,1 stop ,"20,633 SAR ",2022-04-23
+"Lufthansa, Air France",NYC,SVO,16h 05m ,1 stop ,"20,633 SAR ",2022-04-23
+"United Airlines, Air France",NYC,SVO,12h 35m ,1 stop ,"20,850 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,14h 25m ,2 stops ,"21,111 SAR ",2022-04-23
+Multiple Airlines,NYC,SVO,15h 45m ,2 stops ,"22,083 SAR ",2022-04-23
+"Lufthansa, KLM",NYC,SVO,15h 00m ,1 stop ,"30,699 SAR ",2022-04-23
+Brussels Airlines,NYC,SVO,13h 20m ,1 stop ,"1,519 SAR ",2022-04-24
+"American Airlines, Finnair",NYC,SVO,10h 45m ,1 stop ,"2,736 SAR ",2022-04-24
+Air France,NYC,SVO,12h 25m ,1 stop ,"2,969 SAR ",2022-04-24
+Air France,NYC,SVO,13h 45m ,1 stop ,"3,205 SAR ",2022-04-24
