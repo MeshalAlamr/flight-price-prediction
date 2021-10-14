@@ -21,6 +21,10 @@ This project aims to predict ticket prices for upcoming flights to help customer
 
 ## Scraping <a name="scraper" />
 #### The Kayak Scraper Notebook can be found [here](https://github.com/MeshalAlamr/flight-price-prediction/blob/main/kayak-scraper.ipynb).
+
+#### Here's a demo of the scraper in action (played at 2x speed):
+![scraper (1)](https://user-images.githubusercontent.com/68873733/137405620-e8af4863-4359-4799-b518-7f1605ceb2a2.gif)
+
 #### The scraped data can be found [here](https://github.com/MeshalAlamr/flight-price-prediction/tree/main/data).
 
 ![image](https://user-images.githubusercontent.com/68873733/137396148-c6b1ae8f-eb64-408a-8606-469eda33bd9a.png)
