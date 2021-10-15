@@ -58,7 +58,9 @@ This project aims to predict ticket prices for upcoming flights to help customer
 | MSE | 40409.87  |
 | RMSE | 201.02 |
 
-#### Therefore, the final model is able to predict flight ticket prices within around  ≈ $61.87
+#### Therefore, the final model is able to predict flight ticket prices within around  ≈ $61.87.
+
+#### The final model can be found [here](https://github.com/MeshalAlamr/flight-price-prediction/tree/main/model).
 
 ![image](https://user-images.githubusercontent.com/68873733/137399435-4e2da145-512b-4df6-80e3-809e603b1727.png)
 
