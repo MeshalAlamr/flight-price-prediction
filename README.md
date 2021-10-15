@@ -34,7 +34,7 @@ This project aims to predict ticket prices for upcoming flights to help customer
 
 ## Analysis and Results <a name="project" />
 
-#### The project notebook can be [here](https://github.com/MeshalAlamr/flight-price-prediction/blob/main/flight-price-prediction.ipynb).
+#### The project notebook can be found [here](https://github.com/MeshalAlamr/flight-price-prediction/blob/main/flight-price-prediction.ipynb).
 
 #### Selected features are:
 - Source (4 Sources were selected for this project)
