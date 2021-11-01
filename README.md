@@ -11,6 +11,7 @@ This project aims to predict ticket prices for upcoming flights to help customer
 - [Analysis and Results](#project)
 - [Presentation](#presentation)
 - [Mobile App](#app)
+- [Authors](#authors)
 
 ## Project Proposal <a name="proposal" />
 #### The project proposal can be found [here](https://github.com/MeshalAlamr/web-scraping-regression/blob/main/proposal/README.md).
@@ -75,5 +76,7 @@ This project aims to predict ticket prices for upcoming flights to help customer
 #### Below, a demo of the mobile app is shown:
 ![flight-pred-app](https://user-images.githubusercontent.com/68873733/137401604-e7118c1c-fd79-4b0d-ac4d-91b019eeb31f.gif)
 
-
+## Authors <a name="authors"/>
+- ### [Meshal Alamr](https://github.com/MeshalAlamr)
+- ### [Norah Alkhalifah](https://github.com/NorahAlkhalifah)
 
